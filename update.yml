@@ -1,0 +1,55 @@
+name: Update arXiv keywords
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # 毎日 0:00 UTC（日本時間 9:00）に実行
+  workflow_dispatch:       # GitHubの画面から手動でも実行できるようにする
+
+permissions:
+  contents: write          # 更新したCSVをリポジトリにコミットするため
+
+concurrency:
+  group: update-arxiv      # 前回の実行が終わっていなければ、次の実行を待たせる
+  cancel-in-progress: false
+
+jobs:
+  update:
+    name: Fetch papers and update sheet
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          python -m spacy download en_core_web_sm
+
+      - name: Fetch papers and extract keywords
+        run: python arxiv_api_title.py
+
+      - name: Upload CSV to Google Sheets
+        env:
+          GCP_SA_KEY: ${{ secrets.GCP_SA_KEY }}
+          SPREADSHEET_ID: ${{ secrets.SPREADSHEET_ID }}
+        run: python upload_to_sheets.py
+
+      - name: Commit updated CSV
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add papers.csv keywords.csv paper_categories.csv done_months.txt
+          if git diff --cached --quiet; then
+            echo "変更なし"
+          else
+            git commit -m "Update arXiv data ($(date -u +%Y-%m-%d))"
+            git push
+          fi
