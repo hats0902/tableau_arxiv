@@ -60,36 +60,18 @@ def get_or_create_worksheet(sh, title):
     except gspread.WorksheetNotFound:
         return sh.add_worksheet(title=title, rows=1, cols=1)
 
-# # 全件書き換え方式
-# def upload(sh, csv_path, sheet_title):
-#     values = load_csv(csv_path)
-#     ws = get_or_create_worksheet(sh, sheet_title)
-
-#     # 毎回シートを空にしてから全件を書き直す（CSVが常に正しい元データという考え方）
-#     ws.clear()
-#     ws.resize(rows=len(values), cols=len(values[0]))
-
-#     for start in range(0, len(values), CHUNK_ROWS):
-#         chunk = values[start:start + CHUNK_ROWS]
-#         # RAW: "2101.00010" のような論文IDが数値に変換されて末尾の0が消えるのを防ぐ
-#         ws.update(values=chunk, range_name=f"A{start + 1}", value_input_option="RAW")
-
-#     print(f"{csv_path} → シート「{sheet_title}」: {len(values) - 1}行を書き込みました")
-    
-# 付け足す方式
 def upload(sh, csv_path, sheet_title):
     values = load_csv(csv_path)
     header, rows = values[0], values[1:]
     ws = get_or_create_worksheet(sh, sheet_title)
 
-    existing = ws.get_all_values()
-    if not existing:
-        # シートが空なら、ヘッダーから書き込む
-        ws.append_rows([header], value_input_option="RAW")
-        existing_ids = set()
-    else:
-        # 1列目（paper_id）にある論文IDを取得する
-        existing_ids = {r[0] for r in existing[1:]}
+    # 1行目が空ならヘッダーを書き込む（get_all_values()は空でも[[]]を返すことがあるため使わない）
+    if not ws.row_values(1):
+        ws.update(values=[header], range_name="A1", value_input_option="RAW")
+        print(f'ヘッダーが空だったので書き込みます')
+
+    # 1列目（paper_id）にある論文IDを取得する（1行目はヘッダーなので除く）
+    existing_ids = set(ws.col_values(1)[1:])
 
     # シートにまだない論文の行だけを追加する（二重追加を防ぐ）
     new_rows = [r for r in rows if r[0] not in existing_ids]
