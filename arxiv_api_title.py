@@ -31,8 +31,8 @@ KEYWORDS = [                      # 検索語（OR条件）。None にすると�
     "sports", "sport", "soccer", "football", "basketball", "volleyball",
     "tennis", "badminton", "baseball", "golf", "athlete",
 ]
-START_DATE = "2024-01-01"         # 取得期間の開始日（UTC, "YYYY-MM-DD"）
-END_DATE = None                   # 取得期間の終了日。None なら実行時点まで
+START_DATE = "2021-03-01"         # 取得期間の開始日（UTC, "YYYY-MM-DD"）
+END_DATE = "2026-10-01"                  # 取得期間の終了日。None なら実行時点まで
 MAX_RESULTS_PER_MONTH = None      # 1か月あたりの上限。None なら全件（テスト時は 5 など）
 
 PAGE_SIZE = 200                   # 1リクエストあたりの件数

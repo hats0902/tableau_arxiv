@@ -1,11 +1,2699 @@
 paper_id,year,keyword,count
-2401.01505,2024,sports-QA,1
+2101.00400,2021,elo-like system,1
+2101.00400,2021,massive multiplayer competitions,1
+2101.00457,2021,home advantage,1
+2101.00457,2021,european major football league,1
+2101.00457,2021,COVID-19,1
+2101.00784,2021,WearMask,1
+2101.00784,2021,browser,1
+2101.00784,2021,serverless edge computing,1
+2101.00784,2021,COVID-19,1
+2101.01662,2021,difference,1
+2101.01662,2021,man's and woman's football,1
+2101.02104,2021,probabilistic model,1
+2101.02104,2021,shot success,1
+2101.02104,2021,football,1
+2101.03541,2021,heatmap-base object detection,1
+2101.03541,2021,tracking,1
+2101.03541,2021,fully CNN,1
+2101.04954,2021,EventAnchor,1
+2101.04954,2021,human interactions,1
+2101.04954,2021,event annotation,1
+2101.04954,2021,racket sports videos,1
+2101.05388,2021,soccer player,1
+2101.05388,2021,live camera,1
+2101.05388,2021,deep reinforcement learning,1
+2101.07042,2021,CLASTER,1
+2101.07042,2021,reinforcement learning,1
+2101.07042,2021,zero-shot action recognition,1
+2101.08175,2021,bayesian GARCH modeling,1
+2101.08175,2021,functional sports datum,1
+2101.08434,2021,video summarization,1
+2101.10870,2021,b-HAR,1
+2101.10870,2021,open-source baseline framework,1
+2101.10870,2021,depth study,1
+2101.10870,2021,human activity recognition dataset,1
+2101.10870,2021,workflow,1
+2101.10438,2021,persistent covering,1
+2101.10438,2021,graph,1
+2101.10438,2021,latency,1
+2101.10438,2021,energy,1
+2101.10438,2021,constraints,1
+2101.10597,2021,probabilistic final standing calculator,1
+2101.10597,2021,fair stochastic tool,1
+2101.10597,2021,football season,1
+2101.11556,2021,COVID-19 community Q&A,1
+2101.11556,2021,curated side information,1
+2102.00815,2021,bellman eluder dimension,1
+2102.00815,2021,rich classes,1
+2102.00815,2021,RL problems,1
+2102.00815,2021,sample-efficient algorithms,1
+2102.01074,2021,brain performance analysis,1
+2102.01074,2021,electroencephalogram headset,1
+2102.01846,2021,simulation-based decision making,1
+2102.01846,2021,NFL,1
+2102.01846,2021,NFLSimulatoR,1
+2102.01952,2021,ben stokes,1
+2102.01952,2021,shot type,1
+2102.01952,2021,cricket,1
+2102.01952,2021,personalized deep neural network,1
+2102.02115,2021,TEyeD,1
+2102.02115,2021,real-world eye image,1
+2102.02115,2021,"pupil, eyelid, and iris 2d and 3d segmentations, 2d and 3d landmarks, 3d eyeball, gaze vector, and eye movement types",1
+2102.02478,2021,bangla text dataset,1
+2102.02478,2021,exploratory analysis,1
+2102.02478,2021,online harassment detection,1
+2102.03291,2021,baller2vec: a multi-entity transformer,1
+2102.03291,2021,multi-agent spatiotemporal modeling,1
+2102.03310,2021,state estimation,1
+2102.03310,2021,projection post,1
+2102.03310,2021,processing,1
+2102.03310,2021,recognition,1
+2102.03310,2021,football,1
+2102.03391,2021,single run action detector,1
+2102.03391,2021,video stream,1
+2102.03391,2021,privacy preserving approach,1
+2102.03639,2021,practical model-base segmentation approach,1
+2102.03639,2021,improved activation detection,1
+2102.03639,2021,single-subject functional magnetic resonance imaging study,1
+2102.04331,2021,soccer event detection,1
+2102.04331,2021,deep learning,1
+2102.05020,2021,predictive factors,1
+2102.05020,2021,kinematics,1
+2102.05020,2021,traumatic brain injury,1
+2102.05020,2021,head impacts,1
+2102.05020,2021,statistical interpretation,1
+2102.06429,2021,large-scale fine-grained contextual advertising classifier,1
+2102.06429,2021,wikipedia,1
+2102.07545,2021,data-drive analysis,1
+2102.07545,2021,understanding team sports behaviors,1
+2102.07624,2021,RMS-net,1
+2102.07624,2021,regression,1
+2102.07624,2021,masking,1
+2102.07624,2021,soccer event,1
+2102.07624,2021,spotting,1
+2102.09288,2021,mathematical,1
+2102.09288,2021,competitive balance,1
+2102.09288,2021,football league,1
+2102.09381,2021,L2E,1
+2102.09381,2021,opponent,1
+2102.09469,2021,long-term outcomes,1
+2102.09469,2021,real-world fluent objective,1
+2102.09469,2021,football,1
+2102.09689,2021,NHL goalie,1
+2102.09689,2021,playoff,1
+2102.09689,2021,multilevel logistic regression analysis,1
+2102.12523,2021,online mobile app usage,1
+2102.12523,2021,indicator,1
+2102.12523,2021,sleep behavior,1
+2102.12523,2021,job performance,1
+2103.01955,2021,surprising effectiveness,1
+2103.01955,2021,PPO,1
+2103.01955,2021,"cooperative, multi-agent games",1
+2103.02938,2021,FootApp,1
+2103.02938,2021,AI-power system,1
+2103.02938,2021,football match annotation,1
+2103.04349,2021,markov cricket,1
+2103.04349,2021,forward,1
+2103.04349,2021,inverse reinforcement learning,1
+2103.04349,2021,day international cricket,1
+2103.04647,2021,flexible mark spatio-temporal point process,1
+2103.04647,2021,event sequence,1
+2103.04647,2021,association football,1
+2103.05123,2021,deep transfer learning,1
+2103.05123,2021,WiFi localization,1
+2103.05174,2021,soccer,1
+2103.05174,2021,scratch,1
+2103.05174,2021,curriculum-learning,1
+2103.05174,2021,competition,1
+2103.06498,2021,3d human pose,1
+2103.06498,2021,shape,1
+2103.06498,2021,texture,1
+2103.06498,2021,low-resolution images,1
+2103.06498,2021,video,1
+2103.06939,2021,reinforcement learning base approach,1
+2103.06939,2021,football,1
+2103.07272,2021,dependence,1
+2103.07272,2021,football match outcome,1
+2103.07272,2021,traditional model assumption,1
+2103.07272,2021,alternative proposal,1
+2103.07779,2021,short-live dynamic packages,1
+2103.07779,2021,golf booking services,1
+2103.07883,2021,multi-view datum capture,1
+2103.07883,2021,dynamic object reconstruction,1
+2103.07883,2021,handheld augment reality mobile,1
+2103.09627,2021,soccer team defense,1
+2103.09627,2021,prediction model,1
+2103.09627,2021,ball recovery,1
+2103.11353,2021,fairness,1
+2103.11353,2021,group,1
+2103.11353,2021,FIFA world cup,1
+2103.12094,2021,modelling intransitivity,1
+2103.12094,2021,pairwise comparison,1
+2103.12094,2021,baseball datum,1
+2103.12940,2021,social robots,1
+2103.12940,2021,companion,1
+2103.12940,2021,coach,1
+2103.13357,2021,stage variable selection approach,1
+2103.13357,2021,correlated high dimensional predictors,1
+2103.13736,2021,deep similarity learning,1
+2103.13736,2021,team ranking,1
+2103.14027,2021,USB,1
+2103.14027,2021,universal-scale object detection benchmark,1
+2103.14666,2021,autonomous overtaking,1
+2103.14666,2021,gran turismo,1
+2103.14666,2021,curriculum reinforcement learning,1
+2103.15704,2021,multilevel functional model,1
+2103.15704,2021,biomechanic,1
+2103.15704,2021,wearable technology,1
+2103.15704,2021,case study,1
+2103.15704,2021,knee biomechanics pattern,1
+2103.15704,2021,typical training session,1
+2103.15704,2021,recreational runner,1
+2104.00853,2021,streaming social event detection,1
+2104.00853,2021,evolution discovery,1
+2104.00853,2021,heterogeneous information networks,1
+2104.09231,2021,visual analytic,1
+2104.09231,2021,set datum,1
+2104.09231,2021,knowledge discovery,1
+2104.09231,2021,member selection support,1
+2104.02362,2021,underground astronauts,1
+2104.02362,2021,sporting science,1
+2104.02362,2021,speleology,1
+2104.02362,2021,implication,1
+2104.02362,2021,HCI,1
+2104.02871,2021,critical role,1
+2104.02871,2021,conventions,1
+2104.02871,2021,adaptive human-AI collaboration,1
+2104.03067,2021,quantifying incentive,1
+2104.03252,2021,goals,1
+2104.03252,2021,pitch,1
+2104.03252,2021,soccer,1
+2104.04118,2021,understanding,1
+2104.04118,2021,situated AR visualization,1
+2104.04118,2021,basketball free-throw training,1
+2104.05816,2021,linear ordering problem,1
+2104.05816,2021,rankability,1
+2104.05816,2021,data,1
+2104.05931,2021,stage training algorithm,1
+2104.05931,2021,AI robot soccer,1
+2104.06779,2021,temporally-aware feature pooling,1
+2104.06779,2021,action spotting,1
+2104.06779,2021,soccer broadcasts,1
+2105.00931,2021,GridToPix,1
+2105.00931,2021,embodied agents,1
+2105.00931,2021,minimal supervision,1
+2104.10068,2021,contrastive learning,1
+2104.10068,2021,video,1
+2104.10068,2021,unsupervised player classification,1
+2105.04293,2021,interactive dashboard,1
+2105.04293,2021,soccer performance score,1
+2104.08568,2021,wide-baseline multi-camera calibration,1
+2104.08568,2021,person,1
+2104.08568,2021,identification,1
+2104.09082,2021,machine-learning-base head impact,1
+2104.09082,2021,spectral density,1
+2104.09082,2021,measurable head kinematic,1
+2104.09333,2021,camera calibration,1
+2104.09333,2021,player localization,1
+2104.09333,2021,SoccerNet-v2,1
+2104.09333,2021,investigation,1
+2104.09333,2021,representation,1
+2104.09333,2021,action spotting,1
+2104.09402,2021,agent-centric representations,1
+2104.09402,2021,multi-agent reinforcement learning,1
+2104.09907,2021,table tennis stroke recognition,1
+2104.09907,2021,dimensional pose estimation,1
+2104.10116,2021,detection,1
+2104.10116,2021,audio-video synchronization errors via event detection,1
+2104.10125,2021,cluster approach,1
+2104.10125,2021,european football super league,1
+2104.10916,2021,automated tackle injury risk assessment,1
+2104.10916,2021,contact-base,1
+2104.10916,2021,rugby union example,1
+2104.11452,2021,SportsCap,1
+2104.11452,2021,monocular 3d human motion capture,1
+2104.11452,2021,fine-grain understanding,1
+2104.11452,2021,challenging sports video,1
+2104.12574,2021,detecting and matching related object,1
+2104.12574,2021,proposal multiple prediction,1
+2105.00839,2021,elo ratings,1
+2105.00839,2021,large tournaments,1
+2105.00839,2021,software agents,1
+2105.00839,2021,asymmetric games,1
+2104.11980,2021,ahead,1
+2104.11980,2021,modeling coordinated agents,1
+2104.12056,2021,swimmer stroke rate estimation,1
+2104.12056,2021,overhead race video,1
+2105.00852,2021,real-time autonomous robot,1
+2105.00852,2021,object tracking,1
+2105.00852,2021,vision system,1
+2104.13559,2021,AraStance,1
+2104.13559,2021,multi-country,1
+2104.13559,2021,multi-domain dataset,1
+2104.13559,2021,arabic stance detection,1
+2104.13559,2021,fact checking,1
+2104.14012,2021,simplify kalman filter,1
+2104.14012,2021,online rating,1
+2105.00371,2021,diverse athletic jumping strategies,1
+2105.00499,2021,curious exploration and return-base memory restoration,1
+2105.00499,2021,deep reinforcement learning,1
+2105.01226,2021,modelling age-relate change,1
+2105.01226,2021,executive function,1
+2105.01226,2021,soccer player,1
+2105.01468,2021,sentiment and emotion classification,1
+2105.01468,2021,epidemic relate bilingual datum,1
+2105.01468,2021,social media,1
+2105.02824,2021,aware deep cognitive fatigue assessment,1
+2105.02824,2021,wearables,1
+2105.02138,2021,h-TD2: hybrid temporal difference learning,1
+2105.02138,2021,adaptive urban taxi dispatch,1
+2105.02769,2021,computer-aided design,1
+2105.02769,2021,language,1
+2105.03396,2021,double-match matrix decomposition,1
+2105.03396,2021,multi-view datum,1
+2105.04875,2021,video-base analysis,1
+2105.04875,2021,soccer match,1
+2105.05787,2021,fast deep learning network,1
+2105.05787,2021,automatic image auto-straightening,1
+2105.06834,2021,threshold martingales,1
+2105.06834,2021,evolution,1
+2105.06834,2021,forecast,1
+2105.07245,2021,composite localization,1
+2105.07245,2021,pose estimation,1
+2105.07404,2021,MultiSports,1
+2105.07404,2021,multi-person video dataset,1
+2105.07404,2021,spatio-temporally localized sports actions,1
+2105.08310,2021,BBE,1
+2105.08310,2021,microstructural dynamics,1
+2105.08310,2021,play betting exchange,1
+2105.08310,2021,agent-base modelling,1
+2105.09881,2021,poisson modeling,1
+2105.10153,2021,pro,1
+2105.10153,2021,self training,1
+2105.10366,2021,second screens,1
+2105.10366,2021,multi-display intelligent living room,1
+2105.10700,2021,soccer player tracking,1
+2105.10700,2021,low quality video,1
+2105.11864,2021,human card selection,1
+2105.11864,2021,magic,1
+2105.11864,2021,gathering,1
+2105.11864,2021,contextual preference ranking,1
+2105.12196,2021,motor control,1
+2105.12196,2021,team play,1
+2105.12196,2021,simulated humanoid football,1
+2105.12785,2021,anatomy,1
+2105.12785,2021,corner 3s,1
+2105.12785,2021,NBA,1
+2105.13778,2021,number,1
+2105.13778,2021,explainability,1
+2105.13778,2021,expected value,1
+2105.13778,2021,soccer,1
+2106.00002,2021,classification,1
+2106.00002,2021,main risk factor,1
+2106.00002,2021,stroke,1
+2106.00002,2021,shanxi province,1
+2106.00003,2021,parallelize computation,1
+2106.00003,2021,backpropagation,1
+2106.00003,2021,angle-parametrized orthogonal matrices,1
+2105.14688,2021,expand audience,1
+2105.14688,2021,meta hybrid experts,1
+2105.14688,2021,critics,1
+2105.14688,2021,recommendation,1
+2105.14688,2021,advertising,1
+2106.00173,2021,trajectory prediction,1
+2106.00173,2021,sparse output,1
+2106.00173,2021,team,1
+2106.00359,2021,learning football body-orientation,1
+2106.00359,2021,matter,1
+2106.00359,2021,classification,1
+2106.01074,2021,database reasoning,1
+2106.01074,2021,text,1
+2106.01786,2021,deep learning,1
+2106.01786,2021,value defensive actions,1
+2106.01786,2021,football event-data,1
+2106.01972,2021,information-sparse discourse state tracking collection,1
+2106.01972,2021,commentary domain,1
+2106.02051,2021,earth mover's pinball loss,1
+2106.02051,2021,quantiles,1
+2106.02051,2021,histogram-valued regression,1
+2106.02112,2021,finding,1
+2106.02112,2021,spurious patterns,1
+2106.02112,2021,explanation,1
+2106.02195,2021,diversity,1
+2106.02195,2021,shared multi-agent reinforcement learning,1
+2106.05799,2021,hybrid machine learning forecasts,1
+2106.05799,2021,UEFA EURO,1
+2106.04219,2021,series imputation,1
+2106.04219,2021,temporally-occluded multiagent trajectories,1
+2106.04408,2021,HieRec,1
+2106.04408,2021,hierarchical user interest modeling,1
+2106.04408,2021,personalized news recommendation,1
+2106.04958,2021,behavioral and response diversity,1
+2106.04958,2021,open-ended learning,1
+2106.04958,2021,zero-sum games,1
+2106.05174,2021,UEFA EURO 2020 forecast,1
+2106.05174,2021,nested zero-inflated generalized poisson regression,1
+2106.05236,2021,terrain sprayer,1
+2106.05236,2021,mower robot,1
+2106.05359,2021,special events,1
+2106.06909,2021,GigaSpeech,1
+2106.06909,2021,"evolving, multi-domain ASR corpus",1
+2106.06909,2021,hour,1
+2106.06909,2021,transcribed audio,1
+2106.12895,2021,rsoccer,1
+2106.12895,2021,studying reinforcement learning,1
+2106.12895,2021,small and very small size robot soccer,1
+2106.08431,2021,assessment,1
+2106.08431,2021,subjective and objective quality,1
+2106.08431,2021,live streaming sports video,1
+2106.09300,2021,multi-level motion attention,1
+2106.09300,2021,human motion prediction,1
+2106.10060,2021,contrastive learning,1
+2106.10060,2021,generalized game representations,1
+2106.10365,2021,Scenic4RL,1
+2106.10365,2021,programmatic modeling,1
+2106.10365,2021,generation,1
+2106.10365,2021,reinforcement learning environments,1
+2106.10393,2021,dynamical deep generative latent modeling,1
+2106.10393,2021,3d skeletal motion,1
+2106.11280,2021,arm-swing,1
+2106.11280,2021,discriminative,1
+2106.11280,2021,video gait recognition,1
+2106.11280,2021,athlete,1
+2106.11280,2021,identification,1
+2106.12666,2021,human activity recognition,1
+2106.12666,2021,continuous wavelet transform,1
+2106.12666,2021,convolutional neural networks,1
+2106.14345,2021,verification,1
+2106.14345,2021,probability forecast,1
+2106.14345,2021,football outcome,1
+2106.14345,2021,decomposition,1
+2106.14345,2021,reliability,1
+2106.14345,2021,discrimination analysis,1
+2106.14447,2021,feature combination,1
+2106.14447,2021,attention,1
+2106.14447,2021,baidu soccer embeddings,1
+2106.14447,2021,transformer,1
+2106.14447,2021,temporal detection,1
+2106.14617,2021,optimized wireless control and telemetry network,1
+2106.14617,2021,mobile soccer robots,1
+2106.15110,2021,aware language models,1
+2106.15110,2021,temporal knowledge bases,1
+2106.15444,2021,play style,1
+2106.15444,2021,soccer coach,1
+2106.15872,2021,genre determine prediction,1
+2106.15872,2021,standard TAM,1
+2106.15872,2021,football language,1
+2107.01540,2021,persian-WSD-corpus,1
+2107.01540,2021,sense annotated corpus,1
+2107.01540,2021,persian all-word,1
+2107.01540,2021,word sense disambiguation,1
+2107.01854,2021,poison attack,1
+2107.01854,2021,estimating,1
+2107.01854,2021,pairwise comparisons,1
+2107.02675,2021,real-time pose estimation,1
+2107.02675,2021,images,1
+2107.02675,2021,multiple humanoid robots,1
+2107.03141,2021,hierarchical text classification,1
+2107.03141,2021,urdu news,1
+2107.03141,2021,deep neural network,1
+2108.05796,2021,goal scoring,1
+2108.05796,2021,premier league,1
+2108.05796,2021,poisson,1
+2107.06495,2021,ggviz: accelerate large-scale esports game analysis,1
+2107.07506,2021,adaptable agent populations,1
+2107.07506,2021,generative model,1
+2107.07506,2021,policies,1
+2107.07561,2021,maxwell-poisson,1
+2107.07561,2021,sarmanov method,1
+2107.07561,2021,doubly-intractable bayesian inference,1
+2107.08732,2021,competitive balance,1
+2107.08732,2021,english premier league,1
+2107.08732,2021,season,1
+2107.08732,2021,stochastic block model,1
+2107.09255,2021,monocular visual analysis,1
+2107.09255,2021,electronic line calling,1
+2107.09255,2021,tennis games,1
+2107.13132,2021,unsupervised learning,1
+2107.13132,2021,neurosymbolic encoder,1
+2108.03498,2021,kinematic,1
+2108.03498,2021,head impact,1
+2108.03498,2021,well traumatic brain injury prediction,1
+2108.03936,2021,3d human reconstruction,1
+2108.03936,2021,wild,1
+2108.03936,2021,collaborative aerial cameras,1
+2108.04186,2021,pose,1
+2108.04186,2021,group activity recognition system,1
+2108.04186,2021,POGARS,1
+2108.05575,2021,kicktionary-LOME,1
+2108.05575,2021,domain-specific multilingual frame semantic parsing model,1
+2108.05575,2021,football language,1
+2108.05644,2021,accuracy evaluation shared task,1
+2108.06264,2021,gap,1
+2108.06264,2021,emotion,1
+2108.06264,2021,joint action,1
+2108.06432,2021,soccer line mark segmentation,1
+2108.06432,2021,classification,1
+2108.06432,2021,stochastic watershed transform,1
+2108.07329,2021,TUM-VIE,1
+2108.07329,2021,TUM stereo visual-inertial event dataset,1
+2108.07848,2021,multi-task learning,1
+2108.07848,2021,jersey number recognition,1
+2108.07848,2021,ice hockey,1
+2108.08083,2021,audiences,1
+2108.08083,2021,live-streaming game,1
+2108.08083,2021,highlight-base bullet comment,1
+2108.08362,2021,STAR,1
+2108.08362,2021,noisy semi-supervised transfer learning,1
+2108.08362,2021,visual classification,1
+2108.09215,2021,video ads content,1
+2108.09215,2021,combining scene confidence prediction,1
+2108.09215,2021,tagging,1
+2108.09478,2021,imitation,1
+2108.09478,2021,reinforcement learning,1
+2108.09478,2021,bot bowl,1
+2108.10125,2021,machine learning approaches,1
+2108.10125,2021,player performance,1
+2108.10125,2021,match results,1
+2108.10125,2021,prediction,1
+2108.11149,2021,unified taxonomy,1
+2108.11149,2021,multimodal dataset,1
+2108.11149,2021,event,1
+2108.11149,2021,invasion games,1
+2108.12630,2021,GroupFormer,1
+2108.12630,2021,group activity recognition,1
+2108.12630,2021,clustered spatial-temporal transformer,1
+2108.12809,2021,rUNSWift SPL field segmentation dataset,1
+2108.13577,2021,brain strain,1
+2108.13577,2021,rate,1
+2108.13577,2021,head impact type,1
+2108.13577,2021,transfer learning,1
+2108.13577,2021,data fusion,1
+2109.00378,2021,truncated mean-parameterise conway-maxwell-poisson model,1
+2109.00378,2021,test match bowler,1
+2109.01305,2021,video pose distillation,1
+2109.01305,2021,shot,1
+2109.01305,2021,fine-grained sports action recognition,1
+2109.13334,2021,artificial sport trainer,1
+2109.13334,2021,practice,1
+2109.03100,2021,optimal stroke learning,1
+2109.03100,2021,policy gradient approach,1
+2109.03100,2021,robotic table tennis,1
+2109.04720,2021,6MapNet,1
+2109.04720,2021,represent soccer player,1
+2109.04720,2021,datum,1
+2109.04720,2021,triplet network,1
+2109.07581,2021,impact,1
+2109.07581,2021,COVID-19,1
+2109.07581,2021,betting market,1
+2109.05280,2021,player form,1
+2109.05280,2021,MLB,1
+2109.05686,2021,spatial and semantic consistency regularizations,1
+2109.05686,2021,pedestrian attribute recognition,1
+2109.07570,2021,outcome,1
+2109.07570,2021,team movement,1
+2109.07570,2021,player time series analysis,1
+2109.07570,2021,fuzzy and deep method,1
+2109.07570,2021,representation learning,1
+2109.06431,2021,long short-term dependencies,1
+2109.06431,2021,infer shot influence,1
+2109.06431,2021,badminton matches,1
+2109.06625,2021,optimize action,1
+2109.06625,2021,critical situation,1
+2109.06625,2021,soccer game,1
+2109.06625,2021,deep reinforcement learning,1
+2109.07307,2021,expertise,1
+2109.08051,2021,frame,1
+2109.08051,2021,frame completion probability,1
+2109.08051,2021,NFL pass,1
+2109.09287,2021,park factor estimation improvement,1
+2109.09287,2021,pairwise comparison method,1
+2109.09412,2021,temporal information,1
+2109.09412,2021,entailment graph mining,1
+2109.12990,2021,optimal team economic decisions,1
+2109.12990,2021,counter,1
+2109.12990,2021,strike,1
+2110.00001,2021,relative importance,1
+2110.00001,2021,ability,1
+2110.00001,2021,luck,1
+2110.00001,2021,motivation,1
+2110.00001,2021,team,1
+2110.00001,2021,bayesian model,1
+2110.00001,2021,english rugby premiership,1
+2109.13517,2021,search,1
+2109.13517,2021,peak human athletic potential,1
+2109.13743,2021,BTL model,1
+2109.13743,2021,nearest neighbor,1
+2109.13743,2021,rank centrality method,1
+2109.13785,2021,uniformity,1
+2109.13785,2021,group,1
+2109.13785,2021,tournament,1
+2109.14306,2021,stream 3D/1D CNN,1
+2109.14306,2021,fine-grained action classification,1
+2109.14306,2021,segmentation,1
+2109.14306,2021,table tennis,1
+2110.01395,2021,prediction,1
+2110.01395,2021,IPL match outcome,1
+2110.01395,2021,machine learning techniques,1
+2110.00115,2021,sequential forecasters,1
+2110.01442,2021,review,1
+2110.01442,2021,generative adversarial networks,1
+2110.01442,2021,GAN,1
+2110.01442,2021,wide variety,1
+2110.01442,2021,discipline,1
+2110.01442,2021,medical,1
+2110.01442,2021,remote sensing,1
+2110.00755,2021,explainable event recognition,1
+2110.01527,2021,markov process approach,1
+2110.01527,2021,intention,1
+2110.01527,2021,execution,1
+2110.01527,2021,tennis,1
+2110.03873,2021,representation,1
+2110.03873,2021,profession,1
+2110.03873,2021,entertainment medium,1
+2110.03873,2021,insight,1
+2110.03873,2021,frequency,1
+2110.03873,2021,sentiment trend,1
+2110.03873,2021,computational text analysis,1
+2110.04321,2021,optimal pitching strategy,1
+2110.04321,2021,baseball at-bat,1
+2110.04507,2021,TiKick,1
+2110.04507,2021,multi-agent football full games,1
+2110.04507,2021,single-agent demonstration,1
+2110.05092,2021,adaptive multi,1
+2110.05092,2021,3d pose estimation,1
+2110.05362,2021,discourse coherence theory,1
+2110.05362,2021,cross document coreference,1
+2110.05750,2021,high-quality sports news,1
+2110.05750,2021,live text commentary,1
+2110.08257,2021,c-AllOut,1
+2110.08257,2021,catching,1
+2110.08257,2021,calling,1
+2110.08257,2021,outliers,1
+2110.08257,2021,type,1
+2110.06805,2021,assist news medium editor,1
+2110.06805,2021,cohesive visual storylines,1
+2110.08094,2021,jurassic,1
+2110.08094,2021,shot meaning,1
+2110.08094,2021,text generation,1
+2110.08094,2021,open-domain dialogue,1
+2110.08169,2021,containerized distribute value-base multi-agent reinforcement learning,1
+2110.11107,2021,extraction,1
+2110.11107,2021,positional player data,1
+2110.11107,2021,broadcast soccer video,1
+2110.13505,2021,extraction,1
+2110.13505,2021,deep understanding,1
+2110.13505,2021,quantitative fact,1
+2110.13505,2021,percentages,1
+2110.13505,2021,text,1
+2110.13641,2021,effect,1
+2110.13641,2021,restriction,1
+2110.13641,2021,knockout tournament,1
+2110.14116,2021,data-drive decomposition,1
+2110.14116,2021,brain dynamic,1
+2110.14116,2021,principal component analysis,1
+2110.14116,2021,type,1
+2110.14116,2021,head impact,1
+2110.14632,2021,heterogeneous effects,1
+2110.14632,2021,software patches,1
+2110.14632,2021,multiplayer online battle arena game,1
+2111.01029,2021,motion guided video synthesis,1
+2111.01029,2021,action interpolation,1
+2111.02859,2021,large scale diverse combinatorial optimization,1
+2111.02859,2021,ESPN fantasy football player trades,1
+2111.02874,2021,deep artificial intelligence,1
+2111.02874,2021,fantasy football language understanding,1
+2111.04085,2021,modelling,1
+2111.04085,2021,optimisation,1
+2111.04085,2021,resource usage,1
+2111.04085,2021,IoT,1
+2111.04085,2021,smart campus,1
+2111.04178,2021,convergence,1
+2111.04178,2021,nash equilibrium,1
+2111.04178,2021,team zero-sum game,1
+2111.04525,2021,d-flow,1
+2111.04525,2021,real time spatial temporal model,1
+2111.04525,2021,target area segmentation,1
+2111.05333,2021,human activities,1
+2111.05333,2021,inertial sensor,1
+2111.05333,2021,machine learning approach,1
+2111.05310,2021,examination,1
+2111.05310,2021,olympic sport climbing competition format and scoring system,1
+2111.05631,2021,dominance,1
+2111.05631,2021,multiple-output bayesian quantile regression model,1
+2111.06449,2021,gran turismo,1
+2111.06449,2021,deep reinforcement learning,1
+2111.06449,2021,image-base representation,1
+2111.06633,2021,employment,1
+2111.06633,2021,tourism industries,1
+2111.06633,2021,subsectors,1
+2111.06633,2021,potentially high level,1
+2111.06633,2021,income,1
+2112.03005,2021,multi-class and automated tweet categorization,1
+2111.08140,2021,bayesian inference,1
+2111.08140,2021,climb grade scale,1
+2111.08565,2021,polymatrix competitive gradient descent,1
+2111.09695,2021,feature selection,1
+2111.09695,2021,NBA outcome prediction,1
+2111.09695,2021,deep learning,1
+2111.11535,2021,ice hockey player identification,1
+2111.11535,2021,transformer,1
+2111.12340,2021,football,1
+2111.12340,2021,real-world football strategy,1
+2111.12535,2021,knowledge enhanced sports game summarization,1
+2111.13233,2021,supervision,1
+2111.13233,2021,subtle key region,1
+2112.00627,2021,DeepSportLab,1
+2112.00627,2021,unified framework,1
+2112.00627,2021,ball detection,1
+2112.00627,2021,player instance segmentation,1
+2112.00627,2021,pose estimation,1
+2112.00627,2021,team sports scenes,1
+2112.01044,2021,ShuttleNet,1
+2112.01044,2021,position-aware fusion,1
+2112.01044,2021,rally progress,1
+2112.01044,2021,player styles,1
+2112.01044,2021,stroke forecasting,1
+2112.01044,2021,badminton,1
+2112.01267,2021,bradley-terry modeling,1
+2112.01267,2021,multiple game outcomes,1
+2112.01267,2021,applications,1
+2112.01267,2021,college hockey,1
+2112.02058,2021,fast-speed and high-accuracy WIFI positioning,1
+2112.02058,2021,intelligent stadiums,1
+2112.02637,2021,live video streaming,1
+2112.02637,2021,real-time classification,1
+2112.02637,2021,QoE inference,1
+2112.02637,2021,field evaluation,1
+2112.03354,2021,view,1
+2112.03354,2021,immersive analytics,1
+2112.03354,2021,situated visual searching,1
+2112.04216,2021,versatile skill libraries,1
+2112.04216,2021,local mixture,1
+2112.04216,2021,expert,1
+2112.05892,2021,COMPOSER,1
+2112.05892,2021,compositional reasoning,1
+2112.05892,2021,group,1
+2112.05892,2021,videos,1
+2112.05892,2021,keypoint-only modality,1
+2112.06048,2021,behavior measure,1
+2112.06048,2021,individual's brain,1
+2201.05249,2021,empirical study,1
+2201.05249,2021,squares ratings,1
+2201.05249,2021,USA ultimate frisbee,1
+2112.08198,2021,single image,1
+2112.08198,2021,automatic radial distortion compensation,1
+2112.08198,2021,deep convolutional network,1
+2112.08409,2021,quantum model learning agent,1
+2112.08409,2021,characterisation,1
+2112.08409,2021,quantum system,1
+2112.08409,2021,machine learning,1
+2112.11384,2021,video,1
+2112.11384,2021,fine-grained action detection,1
+2112.11384,2021,classification,1
+2112.11384,2021,table tennis strokes,1
+2112.11384,2021,videos,1
+2112.11384,2021,MediaEval,1
+2112.12073,2021,stream network,1
+2112.12073,2021,stroke detection,1
+2112.12073,2021,table tennis,1
+2112.12074,2021,spatio-temporal CNN baseline method,1
+2112.12074,2021,video task,1
+2112.12074,2021,MediaEval,1
+2112.09172,2021,audio-visual dataset,1
+2112.09172,2021,deep learning frameworks,1
+2112.09172,2021,crowded scene classification,1
+2112.09647,2021,video-base reconstruction,1
+2112.09647,2021,trajectories performed,1
+2112.09647,2021,skier,1
+2112.10347,2021,comprehensive performance evaluation,1
+2112.10347,2021,LID practices,1
+2112.10347,2021,sponge city construction,1
+2112.10347,2021,case study,1
+2112.10347,2021,guangxi,1
+2201.00691,2021,evaluation,1
+2201.00691,2021,path,1
+2112.10909,2021,spatiotemporal motion synchronization,1
+2112.10909,2021,snowboard big air,1
+2112.11262,2021,retrodictive modelling,1
+2112.11262,2021,modern rugby union,1
+2112.11262,2021,extension,1
+2112.11262,2021,bradley-terry,1
+2112.11262,2021,multiple outcomes,1
+2112.12478,2021,hierarchical multi-building and multi-floor indoor localization,1
+2112.12478,2021,recurrent neural networks,1
+2112.13001,2021,forecasting number,1
+2112.13001,2021,corner kick,1
+2112.13001,2021,association football,1
+2112.13001,2021,compound poisson distribution,1
+2201.01168,2021,pythagorean,1
+2201.01168,2021,cross-validation methods,1
+2201.01168,2021,estimating team quality,1
+2201.00467,2022,small objects,1
+2201.00467,2022,presence,1
+2201.00467,2022,large background motion,1
+2201.02503,2022,review,1
+2201.02503,2022,deep learning techniques,1
+2201.02503,2022,markerless human motion,1
+2201.02503,2022,synthetic datasets,1
+2201.04024,2022,smart director,1
+2201.04024,2022,event-driven directing system,1
+2201.04024,2022,live broadcasting,1
+2201.04480,2022,elo ratings,1
+2201.07594,2022,real-time recognition,1
+2201.07594,2022,yoga pose,1
+2201.07594,2022,computer vision,1
+2201.07594,2022,smart health care,1
+2201.08688,2022,physical activity recognition,1
+2201.08688,2022,smartphone sensor signals,1
+2201.09077,2022,LTC-GIF,1
+2201.09077,2022,click,1
+2201.09077,2022,feature-length sports video,1
+2201.11533,2022,transfer portal,1
+2201.11533,2022,impact,1
+2201.11533,2022,player transfer,1
+2201.11533,2022,soccer,1
+2201.12592,2022,exact decomposition,1
+2201.12592,2022,joint low rankness,1
+2201.12592,2022,local smoothness plus sparse matrices,1
+2202.00210,2022,INPUT team description paper,1
+2202.00211,2022,global rankings,1
+2202.00211,2022,pairwise comparisons,1
+2202.00211,2022,directed graph neural networks,1
+2202.00583,2022,statistical model,1
+2202.00583,2022,serve return impact patterns,1
+2202.00583,2022,professional tennis,1
+2202.00804,2022,automatic event detection,1
+2202.00804,2022,football,1
+2202.00804,2022,tracking datum,1
+2202.01031,2022,MMSys'22 grand challenge,1
+2202.01031,2022,AI-base video production,1
+2202.01031,2022,soccer,1
+2202.03726,2022,cyrus 2d simulation team description paper,1
+2202.04072,2022,latent gaze information,1
+2202.04072,2022,highly dynamic decision-task,1
+2202.03807,2022,indy autonomous challenge,1
+2202.03807,2022,autonomous race car,1
+2202.03807,2022,handling limits,1
+2202.04013,2022,anomalous trades,1
+2202.04013,2022,NFT markets,1
+2202.04013,2022,case,1
+2202.04013,2022,NBA topshot,1
+2202.04101,2022,Face2PPG,1
+2202.04101,2022,unsupervised pipeline,1
+2202.04101,2022,blood volume,1
+2202.04101,2022,pulse extraction,1
+2202.04101,2022,face,1
+2203.00001,2022,AI-base approach,1
+2203.00001,2022,detection,1
+2203.00001,2022,blood doping,1
+2202.05382,2022,knee radiograph,1
+2202.05382,2022,knee joint area,1
+2202.05382,2022,deep CNN adventure,1
+2202.05403,2022,temporal rules,1
+2202.05403,2022,noisy timeseries data,1
+2202.05728,2022,transformer,1
+2202.05728,2022,semantics-relate loss,1
+2202.05728,2022,multi-level evaluation,1
+2203.01374,2022,personal data visualisation,1
+2203.01374,2022,mobile devices,1
+2203.01374,2022,systematic literature review,1
+2202.09102,2022,sex and stroke success,1
+2202.09102,2022,computer-aid player grunt analysis,1
+2202.09102,2022,tennis matches,1
+2202.11204,2022,feature importance,1
+2202.11204,2022,quantum machine learning models,1
+2202.10287,2022,domain adaptation,1
+2202.10287,2022,neural machine translation,1
+2202.10287,2022,qualia-enrich FrameNet,1
+2202.10881,2022,coordinate-align multi-camera collaboration,1
+2202.10881,2022,active multi-object tracking,1
+2202.12259,2022,pros,1
+2202.12259,2022,professional goalkeeper technique,1
+2202.12259,2022,broadcast footage,1
+2203.00734,2022,football player jersey number,1
+2203.00734,2022,synthetic datum,1
+2203.01111,2022,large-scale hate speech detection,1
+2203.01111,2022,cross-domain transfer,1
+2203.02281,2022,comprehensive review,1
+2203.02281,2022,computer vision,1
+2203.02281,2022,open issue,1
+2203.02281,2022,future trends,1
+2203.02281,2022,research directions,1
+2203.03532,2022,nonparametric framework,1
+2203.03532,2022,sequential change detection,1
+2203.03990,2022,skating-mixer,1
+2203.03990,2022,long-term sport audio-visual modeling,1
+2203.03990,2022,MLP,1
+2203.07029,2022,SuperCone,1
+2203.07029,2022,unified user segmentation,1
+2203.07029,2022,heterogeneous experts,1
+2203.07029,2022,concept meta-learning,1
+2203.05566,2022,SUPERNOVA,1
+2203.05566,2022,automating,1
+2203.05566,2022,test selection,1
+2203.05566,2022,defect prevention,1
+2203.05566,2022,AAA video games,1
+2203.05566,2022,risk,1
+2203.05566,2022,testing,1
+2203.05566,2022,machine learning,1
+2203.05285,2022,curse,1
+2203.05285,2022,dimensionality,1
+2203.05285,2022,multiagent state space,1
+2203.07033,2022,CNN kernels,1
+2203.07033,2022,videos,1
+2203.07033,2022,tucker decompositions,1
+2203.07033,2022,lightweight CNN application,1
+2203.06933,2022,soccer,1
+2203.06933,2022,quantitative analysis,1
+2203.06933,2022,team resilience,1
+2203.06933,2022,miracle,1
+2203.06933,2022,bern,1
+2203.07364,2022,supervised learning approach,1
+2203.07364,2022,rankability,1
+2203.07531,2022,UEFA EURO,1
+2203.07531,2022,pure game,1
+2203.07531,2022,chance,1
+2203.08489,2022,bayesian analysis,1
+2203.08489,2022,formula one race result,1
+2203.08489,2022,driver skill,1
+2203.08489,2022,constructor advantage,1
+2203.09128,2022,dependency,1
+2203.09128,2022,data flow,1
+2203.09128,2022,competitive advantage,1
+2203.09193,2022,database,1
+2203.09193,2022,indian social media influencers,1
+2203.09193,2022,twitter,1
+2203.13263,2022,precipitaion nowcasting,1
+2203.13263,2022,deep neural network,1
+2204.09660,2022,medical dataset classification,1
+2204.09660,2022,kurdish short text,1
+2204.09660,2022,social medium,1
+2203.14782,2022,handwriting tasks' analysis,1
+2203.14782,2022,fatigue,1
+2203.16442,2022,reliability,1
+2203.16442,2022,validity,1
+2203.16442,2022,polar v800 sports watch,1
+2203.16442,2022,vertical jump height,1
+2204.00003,2022,ball 3d localization,1
+2204.00003,2022,single calibrate image,1
+2203.17048,2022,group,1
+2203.17048,2022,unknown qualified team,1
+2203.17048,2022,lesson,1
+2203.17048,2022,FIFA world cup,1
+2204.00429,2022,sense disambiguation,1
+2204.00429,2022,compound constituent,1
+2204.00734,2022,SkeleVision,1
+2204.00734,2022,adversarial resiliency,1
+2204.00734,2022,multi-task learning,1
+2204.00896,2022,equity,1
+2204.00896,2022,diversity,1
+2204.00896,2022,inclusion,1
+2204.00896,2022,analytic,1
+2204.00961,2022,digital health services,1
+2204.00961,2022,machine learning approach,1
+2204.00961,2022,personalized exercise,1
+2204.01899,2022,MonoTrack: shuttle trajectory reconstruction,1
+2204.01899,2022,monocular badminton video,1
+2204.02402,2022,black box prediction methods,1
+2204.02402,2022,medicine,1
+2204.02402,2022,red card,1
+2204.02402,2022,reckless practice,1
+2204.02402,2022,change,1
+2204.02402,2022,tactics,1
+2204.02402,2022,advance athlete care,1
+2204.02139,2022,detector-free weakly supervised group activity recognition,1
+2204.02148,2022,dual-AI: dual-path actor interaction learning,1
+2204.02148,2022,group activity recognition,1
+2204.02313,2022,effort,1
+2204.02313,2022,understanding,1
+2204.02313,2022,contextualizing physical metric,1
+2204.02313,2022,soccer,1
+2204.02573,2022,soccer match event,1
+2204.02573,2022,highlight,1
+2204.02573,2022,computer vision,1
+2204.03646,2022,fine-grain dataset,1
+2204.03646,2022,procedure-aware action quality assessment,1
+2204.04049,2022,efficient tracking,1
+2204.04049,2022,team sport player,1
+2204.04049,2022,game-specific annotation,1
+2204.04143,2022,optical tracking,1
+2204.04143,2022,team,1
+2204.04687,2022,MA-dreamer: coordination,1
+2204.04687,2022,communication,1
+2204.04687,2022,share imagination,1
+2204.08460,2022,3d convolutional networks,1
+2204.08460,2022,action recognition,1
+2204.08460,2022,gesture recognition,1
+2204.06859,2022,semi-supervised training,1
+2204.06859,2022,player and ball detection,1
+2204.06859,2022,soccer,1
+2204.06918,2022,SoccerNet-tracking,1
+2204.06918,2022,multi-object tracking dataset,1
+2204.06918,2022,soccer videos,1
+2204.08573,2022,training,1
+2204.08573,2022,evaluation,1
+2204.08573,2022,deep policies,1
+2204.08573,2022,reinforcement learning and generative models,1
+2204.08805,2022,PoseCoach,1
+2204.08805,2022,customizable analysis and visualization system,1
+2204.08805,2022,video-base running coaching,1
+2204.09232,2022,visual-base positioning,1
+2204.09232,2022,pose estimation,1
+2204.09271,2022,survey,1
+2204.09271,2022,video-base action quality assessment,1
+2204.09793,2022,football player,1
+2204.09793,2022,performance datum,1
+2204.09793,2022,cluster validity index,1
+2204.09996,2022,computational design,1
+2204.09996,2022,kinesthetic garments,1
+2204.11142,2022,graph neural network,1
+2204.11142,2022,agent,1
+2204.11142,2022,google research football,1
+2204.11777,2022,bayesian estimation,1
+2204.11777,2022,game,1
+2204.11777,2022,probability,1
+2204.11777,2022,college basketball,1
+2204.13809,2022,automated player identification,1
+2204.13809,2022,indexing,1
+2204.13809,2022,stage deep learning network,1
+2204.12093,2022,news,1
+2204.12093,2022,precise multi-LSTM network,1
+2204.12093,2022,BERT,1
+2205.03238,2022,ultra-sensitive flexible sponge-sensor array,1
+2205.03238,2022,muscle activities detection,1
+2205.03238,2022,human limb motion recognition,1
+2205.00254,2022,PGD,1
+2205.00254,2022,large-scale professional go dataset,1
+2205.00254,2022,data-drive analytic,1
+2205.00694,2022,multi-stage deep architecture,1
+2205.00694,2022,summary generation,1
+2205.00694,2022,soccer video,1
+2205.02437,2022,image features influence reaction,1
+2205.02437,2022,learn probabilistic perceptual model,1
+2205.02437,2022,saccade latency,1
+2205.02561,2022,LDSA,1
+2205.02561,2022,dynamic subtask assignment,1
+2205.02561,2022,cooperative multi-agent reinforcement learning,1
+2205.02731,2022,player's playing style,1
+2205.02731,2022,player vectors,1
+2205.02731,2022,playing position,1
+2205.02731,2022,chinese football super league,1
+2205.02977,2022,deep stride length estimation,1
+2205.02977,2022,self-supervised learning,1
+2205.03114,2022,arabic fake news detection,1
+2205.03114,2022,deep contextualized embed model,1
+2205.03555,2022,multi-target active object,1
+2205.03555,2022,monte carlo tree search and target motion modeling,1
+2205.04172,2022,world,1
+2205.04172,2022,best model,1
+2205.04172,2022,online behavior selection,1
+2205.04173,2022,nested zero inflated generalized poisson regression,1
+2205.04173,2022,FIFA world cup,1
+2205.04343,2022,fatigue prediction,1
+2205.04343,2022,outdoor running conditions,1
+2205.04343,2022,audio datum,1
+2205.05359,2022,local explanations,1
+2205.05359,2022,nonlinear models,1
+2205.05359,2022,animated linear projections,1
+2205.06578,2022,football group draw probabilities,1
+2205.06578,2022,corrections,1
+2205.07193,2022,home field advantage matter,1
+2205.07193,2022,soccer games,1
+2205.07193,2022,causal inference approach,1
+2205.07193,2022,english premier league analysis,1
+2205.09878,2022,real time multi-object detection,1
+2205.09878,2022,helmet safety,1
+2205.09918,2022,multidimensional heterogeneity,1
+2205.09918,2022,count value tensor datum,1
+2205.09918,2022,goal,1
+2205.09918,2022,NBA player,1
+2205.10450,2022,temporally precise action spotting,1
+2205.10450,2022,soccer videos,1
+2205.10450,2022,dense detection anchors,1
+2205.10746,2022,athlete rating,1
+2205.10746,2022,multi-competitor game,1
+2205.10746,2022,score outcome,1
+2205.10746,2022,monotone transformation,1
+2205.10953,2022,CYRUS soccer simulation 2d team description paper,1
+2205.13220,2022,DGSVis,1
+2205.13220,2022,visual analysis,1
+2205.13220,2022,hierarchical snapshots,1
+2205.13220,2022,dynamic graph,1
+2205.13662,2022,explaining,1
+2205.13662,2022,preferences,1
+2205.13662,2022,shapley value,1
+2205.14953,2022,multi-agent reinforcement learning,1
+2205.14953,2022,sequence modeling problem,1
+2206.01038,2022,survey,1
+2206.01038,2022,video action recognition,1
+2206.01038,2022,methods,1
+2206.01038,2022,applications,1
+2206.02562,2022,floodlight,1
+2206.02562,2022,"high-level, data-drive sport analytic framework",1
+2206.01871,2022,effect,1
+2206.01871,2022,team hit strategies,1
+2206.01871,2022,counterfactual virtual simulation,1
+2206.01871,2022,baseball,1
+2206.01899,2022,evaluation,1
+2206.01899,2022,scoring opportunity,1
+2206.01899,2022,teammate,1
+2206.01899,2022,soccer,1
+2206.01899,2022,trajectory prediction,1
+2206.01900,2022,counterfactual treatment outcome,1
+2206.01900,2022,complex multiagent scenario,1
+2206.02310,2022,CYRUS soccer simulation 2d team description paper,1
+2206.02373,2022,identification,1
+2206.02373,2022,players,1
+2206.02373,2022,broadcast video,1
+2206.02373,2022,team,1
+2206.03390,2022,gender bias,1
+2206.03390,2022,word embedding,1
+2206.03390,2022,comprehensive analysis,1
+2206.03390,2022,frequency,1
+2206.03390,2022,syntax,1
+2206.03390,2022,semantics,1
+2206.03961,2022,head,1
+2206.03961,2022,tie-breaker and consequent opportunity,1
+2206.03961,2022,collusion,1
+2206.06490,2022,learning,1
+2206.06490,2022,task-independent game state representations,1
+2206.06490,2022,unlabeled images,1
+2206.07212,2022,explainable expect goal model,1
+2206.07212,2022,performance analysis,1
+2206.07212,2022,football analytic,1
+2206.07505,2022,common practices,1
+2206.07505,2022,cooperative multi-agent reinforcement learning,1
+2206.07930,2022,use,1
+2206.07930,2022,kernel density estimation,1
+2206.07930,2022,spatial trend,1
+2206.07930,2022,possession,1
+2206.07930,2022,rugby league,1
+2206.08632,2022,privileged information,1
+2206.08632,2022,zero-shot action recognition,1
+2206.09083,2022,universal behavior,1
+2206.09083,2022,opponent statistics,1
+2206.09083,2022,applications,1
+2206.09083,2022,MLB,1
+2206.09258,2022,explainable model,1
+2206.09258,2022,outcome,1
+2206.09258,2022,volleyball match,1
+2206.09613,2022,run tracking application features,1
+2206.09613,2022,potential impact,1
+2206.09613,2022,recreational runner's intrinsic motivation,1
+2206.09654,2022,performance prediction,1
+2206.09654,2022,major league baseball,1
+2206.09654,2022,long short-term memory networks,1
+2206.10720,2022,team performance,1
+2206.10720,2022,spatial temporal graph convolutional networks,1
+2206.11258,2022,ranking problem library,1
+2206.11258,2022,RPLIB,1
+2206.11258,2022,data-orient perspective,1
+2206.10926,2022,formation,1
+2206.10926,2022,role change-point detection,1
+2206.10926,2022,soccer matches,1
+2206.10926,2022,spatiotemporal tracking data,1
+2206.11335,2022,video analytics,1
+2206.11335,2022,elite soccer,1
+2206.11335,2022,distributed computing perspective,1
+2206.11578,2022,doubly-online changepoint detection,1
+2206.11578,2022,health status,1
+2207.05691,2022,MuSe 2022 multimodal sentiment analysis challenge,1
+2207.05691,2022,humor,1
+2207.05691,2022,emotional reaction,1
+2207.05691,2022,stress,1
+2206.13246,2022,prediction,1
+2206.13246,2022,football player value,1
+2206.13246,2022,bayesian ensemble approach,1
+2206.13222,2022,ML-base approach,1
+2206.13222,2022,NFL defensive pass interference prediction,1
+2206.13222,2022,GPS tracking datum,1
+2206.12716,2022,data pattern,1
+2206.12716,2022,runner' career,1
+2206.13114,2022,dynamic-group-aware networks,1
+2206.13114,2022,multi-agent trajectory prediction,1
+2206.13114,2022,relational reasoning,1
+2206.13580,2022,multiple type,1
+2206.13580,2022,pairwise comparison,1
+2207.00585,2022,ulnar collateral ligament injury,1
+2207.00585,2022,rookie major league baseball pitchers,1
+2207.01455,2022,dynamic ranking and translation synchronization,1
+2207.01791,2022,deep cascade,1
+2207.01791,2022,ensemble,1
+2207.01791,2022,dual domain network,1
+2207.01791,2022,gradient-base t1 assistance,1
+2207.01791,2022,perceptual refinement,1
+2207.01791,2022,fast MRI reconstruction,1
+2207.02316,2022,general framework,1
+2207.02316,2022,event importance,1
+2207.02316,2022,multi-event contest,1
+2207.03428,2022,SC2EGSet,1
+2207.03428,2022,StarCraft II esport replay and game-state dataset,1
+2207.04174,2022,multimodal vision-language models,1
+2207.04174,2022,generating non-generic text,1
+2207.05114,2022,bayesian estimation,1
+2207.05114,2022,game,1
+2207.05114,2022,probability,1
+2207.05114,2022,national basketball association game,1
+2207.05133,2022,overview,1
+2207.05133,2022,shared task,1
+2207.05133,2022,fake news detection,1
+2207.05133,2022,urdu,1
+2207.05133,2022,FIRE,1
+2207.05254,2022,hunt group clues,1
+2207.05254,2022,transformers,1
+2207.05254,2022,social group activity recognition,1
+2207.11143,2022,global optimality,1
+2207.11143,2022,cooperative MARL,1
+2207.11143,2022,transformation and distillation framework,1
+2207.10799,2022,college spread,1
+2207.10799,2022,COVID-19,1
+2207.10799,2022,ohio,1
+2207.05798,2022,subjective and objective quality assessment,1
+2207.05798,2022,high-motion sports videos,1
+2207.05798,2022,low-bitrate,1
+2207.05845,2022,estimate external forces,1
+2207.05845,2022,human motion,1
+2207.05845,2022,video,1
+2207.06235,2022,entry-flip transformer,1
+2207.06235,2022,inference,1
+2207.06235,2022,prediction,1
+2207.06235,2022,participant behavior,1
+2207.06572,2022,reinforcement learning,1
+2207.06572,2022,robotic policies,1
+2207.06572,2022,tight human-robot interaction loops,1
+2207.07835,2022,dynamic bipedal maneuvers,1
+2207.07835,2022,real,1
+2207.08635,2022,GOAL,1
+2207.08635,2022,benchmarke few-shot sports game summarization,1
+2207.09851,2022,embedded monocular vision approach,1
+2207.09851,2022,ground-aware objects detection and position estimation,1
+2207.10213,2022,"temporally precise, fine-grain event",1
+2207.10213,2022,video,1
+2207.11332,2022,baseball player,1
+2207.11332,2022,era,1
+2207.11332,2022,house modeling,1
+2207.11361,2022,machine learning modeling,1
+2207.11361,2022,value,1
+2207.11361,2022,football players,1
+2207.11709,2022,TVCalib,1
+2207.11709,2022,camera calibration,1
+2207.11709,2022,field registration,1
+2207.11709,2022,soccer,1
+2207.11893,2022,overview,1
+2207.11893,2022,shared task,1
+2207.11893,2022,fake news detection,1
+2207.11893,2022,urdu,1
+2207.11893,2022,FIRE,1
+2207.12406,2022,UrduFake@FIRE2020,1
+2207.12406,2022,share track,1
+2207.12406,2022,fake news identification,1
+2207.12406,2022,urdu,1
+2207.12710,2022,active learning,1
+2207.12710,2022,ordinal embeddings,1
+2207.12710,2022,user study,1
+2207.12710,2022,football datum,1
+2207.12730,2022,dense action detection,1
+2207.12730,2022,table tennis match broadcasting video,1
+2207.13749,2022,nutzungsverhalten und funktionsanforderungen digitaler trainingsanwendungen,1
+2207.13749,2022,der pandemie,1
+2207.13770,2022,interactive analysis,1
+2207.13770,2022,probabilistic model output,1
+2207.14124,2022,outcomes,1
+2207.14470,2022,significant change,1
+2207.14470,2022,EEG neural oscillation,1
+2207.14470,2022,phase,1
+2207.14470,2022,dimensional multi-object tracking task,1
+2207.14470,2022,3d-MOT,1
+2207.14470,2022,role,1
+2207.14470,2022,attention,1
+2207.14470,2022,work memory,1
+2208.00174,2022,density curvature,1
+2208.00671,2022,RASIPAM,1
+2208.00671,2022,interactive pattern mining,1
+2208.00671,2022,multivariate event sequences,1
+2208.00671,2022,racket,1
+2208.01100,2022,dyadic movement synchrony estimation,1
+2208.01100,2022,privacy-preserve condition,1
+2208.01160,2022,hierarchical reinforcement learning,1
+2208.01160,2022,precise soccer shooting skills,1
+2208.01160,2022,quadrupedal robot,1
+2208.01876,2022,smartphone sensor,1
+2208.01876,2022,abnormal gait,1
+2208.01876,2022,smart wearable mobile technologies,1
+2208.02509,2022,heart rate estimation,1
+2208.02509,2022,intense exercise,1
+2208.02509,2022,video,1
+2208.03492,2022,strategy evaluation,1
+2208.03492,2022,stratified analysis,1
+2208.03492,2022,propensity score,1
+2208.04897,2022,video analysis,1
+2208.04897,2022,large-scale datum,1
+2208.05641,2022,automated key-point detection,1
+2208.05641,2022,images,1
+2208.05641,2022,partial pool view,1
+2208.05662,2022,gear,1
+2208.05662,2022,black mirror,1
+2208.05662,2022,inferring political,1
+2208.05662,2022,non-political content,1
+2208.07929,2022,ViT-ReT,1
+2208.07929,2022,vision,1
+2208.07929,2022,recurrent transformer neural networks,1
+2208.07929,2022,human activity recognition,1
+2208.07929,2022,videos,1
+2208.08190,2022,DeepSportradar-v1,1
+2208.08190,2022,computer vision dataset,1
+2208.08190,2022,understanding,1
+2208.08190,2022,high quality annotations,1
+2208.08598,2022,conformal win probability,1
+2208.08598,2022,winner,1
+2208.08598,2022,cancelled 2020 NCAA basketball tournaments,1
+2208.10660,2022,interaction modeling,1
+2208.10660,2022,multiplex attention,1
+2208.11191,2022,cumulative race time regression,1
+2208.11191,2022,ultra-distance run event,1
+2208.11230,2022,attention,1
+2208.11230,2022,curtain,1
+2208.12646,2022,automatic detection,1
+2208.12646,2022,fault,1
+2208.12646,2022,race,1
+2208.12646,2022,smartphone camera,1
+2208.12646,2022,comparison,1
+2208.12646,2022,olympic medalist,1
+2208.12646,2022,university athlete,1
+2209.00451,2022,group activity recognition,1
+2209.00451,2022,basketball tracking data,1
+2209.00451,2022,neural embeddings,1
+2209.00451,2022,team,1
+2209.00451,2022,NETS,1
+2209.00202,2022,quest,1
+2209.00202,2022,omniocular,1
+2209.00202,2022,embed visualization,1
+2209.00202,2022,basketball game viewing experiences,1
+2209.00838,2022,need,1
+2209.00838,2022,challenges,1
+2209.00838,2022,personal data visualisations,1
+2209.00838,2022,mobile health apps,1
+2209.00838,2022,user survey,1
+2209.02623,2022,multiscale major factor selection,1
+2209.02623,2022,complex system datum,1
+2209.02623,2022,structural dependency,1
+2209.02623,2022,heterogeneity,1
+2209.03434,2022,videos,1
+2209.03434,2022,natural language,1
+2209.03882,2022,valuing,1
+2209.03882,2022,players,1
+2209.04284,2022,small and fast moving object,1
+2209.04796,2022,pursuit,1
+2209.04796,2022,modern multi-object tracking systems,1
+2209.05649,2022,social-PatteRNN: socially-aware trajectory prediction guided,1
+2209.05649,2022,motion patterns,1
+2209.05742,2022,tale,1
+2209.05742,2022,HodgeRank,1
+2209.05742,2022,spectral method,1
+2209.05742,2022,target attack,1
+2209.05742,2022,rank aggregation,1
+2209.05742,2022,fixed point,1
+2209.05742,2022,adversarial game,1
+2209.06346,2022,prediction,1
+2209.06346,2022,outcome,1
+2209.06346,2022,twenty-20 cricket match,1
+2209.06346,2022,machine learning approach,1
+2209.06999,2022,data science approach,1
+2209.06999,2022,win fantasy cricket team dream,1
+2209.06999,2022,fantasy,1
+2209.07528,2022,survey,1
+2209.07528,2022,data science,1
+2209.07528,2022,analytics,1
+2209.07528,2022,field,1
+2209.07528,2022,organise,1
+2209.07795,2022,KaliCalib,1
+2209.07795,2022,basketball court registration,1
+2209.09154,2022,physics-constrained neural network,1
+2209.09154,2022,design and feature-base optimization,1
+2209.09154,2022,weave architectures,1
+2209.09491,2022,deep q-network,1
+2209.09491,2022,AI soccer,1
+2209.09861,2022,ESTA,1
+2209.09861,2022,esports trajectory,1
+2209.09861,2022,action dataset,1
+2209.10055,2022,lamarckian platform,1
+2209.10055,2022,boundaries,1
+2209.10055,2022,evolutionary reinforcement learning,1
+2209.10055,2022,asynchronous commercial games,1
+2209.11252,2022,XF2t,1
+2209.11252,2022,text,1
+2209.11252,2022,low-resource languages,1
+2209.11908,2022,fast lifelong adaptive inverse reinforcement learning,1
+2209.11908,2022,demonstration,1
+2209.11949,2022,hybrid multimodal fusion,1
+2209.11949,2022,humor detection,1
+2209.12248,2022,multi-athlete tracking,1
+2209.12248,2022,video,1
+2209.13154,2022,observation centric,1
+2209.13154,2022,central distance recovery,1
+2209.13154,2022,player tracking,1
+2209.13254,2022,extracting football feature,1
+2209.13254,2022,real-world medium source,1
+2209.13254,2022,synthetic training data,1
+2209.13846,2022,VREN: volleyball rally dataset,1
+2209.13846,2022,expression notation language,1
+2209.13899,2022,strong instance segmentation pipeline,1
+2209.13899,2022,MMSports challenge,1
+2209.14272,2022,multimodal prediction,1
+2209.14272,2022,spontaneous humour,1
+2209.14924,2022,chandojnanam,1
+2209.14924,2022,sanskrit meter identification and utilization system,1
+2210.00507,2022,fast and robust video-base exercise classification,1
+2210.00507,2022,body pose tracking and scalable multivariate time series classifiers,1
+2210.02383,2022,gaps,1
+2210.02383,2022,multiple imputation approach,1
+2210.02383,2022,aging curves,1
+2210.02383,2022,baseball,1
+2210.02517,2022,athletic mobile manipulator system,1
+2210.02517,2022,robotic wheelchair tennis,1
+2210.03662,2022,GoalsEye,1
+2210.03662,2022,learning high speed precision table tennis,1
+2210.03662,2022,physical robot,1
+2210.04325,2022,ASDOT,1
+2210.04325,2022,text generation,1
+2210.04325,2022,pretrained language model,1
+2210.04365,2022,ELIGN,1
+2210.04365,2022,expectation alignment,1
+2210.04365,2022,multi-agent intrinsic reward,1
+2210.04435,2022,dynamic quadrupedal robotic goalkeeper,1
+2210.04435,2022,reinforcement learning,1
+2210.04514,2022,self-supervise 3d pose estimation,1
+2210.04514,2022,static video,1
+2210.04514,2022,neural rendering,1
+2210.06048,2022,AIMY,1
+2210.06048,2022,open-source table tennis ball launcher,1
+2210.06048,2022,versatile and high-fidelity trajectory generation,1
+2210.06327,2022,lineup,1
+2210.06327,2022,football score,1
+2210.11238,2022,smooth pursuit assessment,1
+2210.11238,2022,virtual reality and concussion detection,1
+2210.11238,2022,BiLSTM,1
+2210.09295,2022,virtual-reality,1
+2210.09295,2022,concussion detection,1
+2210.09295,2022,machine-learning,1
+2210.06724,2022,bayesian analysis,1
+2210.06724,2022,order penalty,1
+2210.06724,2022,baseball,1
+2210.08289,2022,AI-power mechanism,1
+2210.08289,2022,judge,1
+2210.08289,2022,tie,1
+2210.08289,2022,chess,1
+2210.08737,2022,contextual transformer,1
+2210.08737,2022,multi-camera editing,1
+2210.08737,2022,TV show,1
+2210.08793,2022,trajectory prediction,1
+2210.08793,2022,team game,1
+2210.08872,2022,PTDE,1
+2210.08872,2022,personalized training,1
+2210.08872,2022,distilled execution,1
+2210.08872,2022,multi-agent reinforcement learning,1
+2210.09389,2022,potrika,1
+2210.09389,2022,raw and balanced newspaper datasets,1
+2210.09389,2022,bangla language,1
+2210.09389,2022,topics,1
+2210.09389,2022,attributes,1
+2210.12262,2022,group distributionally robust reinforcement learning,1
+2210.12262,2022,hierarchical latent variables,1
+2210.12519,2022,partially constrained group variable selection,1
+2210.12519,2022,complementary unit performance,1
+2210.12519,2022,american college football,1
+2210.12607,2022,complex tasks,1
+2210.12607,2022,compositional fine-tuning,1
+2210.12607,2022,language model,1
+2210.17060,2022,MambaNet,1
+2210.17060,2022,hybrid neural network,1
+2210.17060,2022,NBA playoffs,1
+2210.17368,2022,teacher-student curriculum,1
+2210.17368,2022,reinforcement learning,1
+2211.00374,2022,goalkeeper' decision,1
+2211.01201,2022,human alignment,1
+2211.01201,2022,neural network representation,1
+2211.02104,2022,pre-analysis protocol,1
+2211.02104,2022,observational study,1
+2211.02104,2022,effect,1
+2211.02104,2022,adolescent sport participation,1
+2211.02104,2022,health,1
+2211.02104,2022,early adulthood,1
+2211.02125,2022,graph-base multi-camera soccer player tracker,1
+2211.02772,2022,arabic text mining,1
+2211.04459,2022,flexible bayesian regression tree,1
+2211.04459,2022,categorical predictor,1
+2211.04534,2022,GOAL,1
+2211.04534,2022,resource,1
+2211.04534,2022,grounded football commentaries,1
+2211.05531,2022,SWTF,1
+2211.05531,2022,temporal fusion,1
+2211.05531,2022,drone-base activity recognition,1
+2211.06663,2022,NeighborTrack,1
+2211.06663,2022,bipartite matching,1
+2211.06663,2022,neighbor tracklets,1
+2211.07173,2022,SportsTrack,1
+2211.07173,2022,innovative method,1
+2211.07173,2022,tracking athletes,1
+2211.07173,2022,scenes,1
+2211.07832,2022,ball,1
+2211.07832,2022,court,1
+2211.07832,2022,visualization research,1
+2211.07832,2022,expert,1
+2211.08081,2022,autonomous golf putting,1
+2211.08081,2022,data-drive and physics-base method,1
+2211.08532,2022,omnidirectional robot modeling,1
+2211.08532,2022,simulation,1
+2211.08585,2022,Cyrus2D base,1
+2211.08585,2022,source code base,1
+2211.08585,2022,RoboCup 2d soccer simulation league,1
+2211.09310,2022,language-assisted deep learning,1
+2211.09310,2022,autistic behaviors recognition,1
+2211.09378,2022,human racers,1
+2211.09378,2022,model-base planning,1
+2211.09378,2022,control,1
+2211.09378,2022,trial racing,1
+2211.09446,2022,arbitrary keypoints,1
+2211.09446,2022,limbs,1
+2211.09446,2022,skis,1
+2211.09446,2022,sparse,1
+2211.09446,2022,partly correct segmentation mask,1
+2211.16506,2022,origin location,1
+2211.16506,2022,tweet,1
+2211.16506,2022,contextual information,1
+2211.12217,2022,players,1
+2211.12217,2022,dynamic graphs,1
+2211.12217,2022,hierarchical fusion,1
+2211.12217,2022,movement forecasting,1
+2211.12217,2022,badminton,1
+2211.12234,2022,reinforcement learning badminton environment,1
+2211.12234,2022,simulating player tactics,1
+2211.12234,2022,student abstract,1
+2211.12334,2022,graph-base method,1
+2211.12334,2022,soccer action spotting,1
+2211.12334,2022,unsupervised player classification,1
+2211.13873,2022,global and local hierarchy-aware contrastive framework,1
+2211.13873,2022,implicit discourse relation recognition,1
+2211.14308,2022,WALDO,1
+2211.14308,2022,future video synthesis,1
+2211.14308,2022,object layer decomposition,1
+2211.14308,2022,parametric flow prediction,1
+2211.15622,2022,ROC analysis,1
+2211.15622,2022,paired comparison data,1
+2211.15734,2022,football match outcome,1
+2211.15734,2022,explainable machine learning,1
+2211.15734,2022,kelly index,1
+2211.16054,2022,risk,1
+2211.16054,2022,multi-stage tournament,1
+2211.16068,2022,ACE,1
+2211.16068,2022,cooperative multi-agent q-learning,1
+2211.16068,2022,bidirectional action-dependency,1
+2212.00021,2022,location analysis,1
+2212.00021,2022,player,1
+2212.00021,2022,UEFA EURO,1
+2212.00021,2022,generalized valuation,1
+2212.00021,2022,defense,1
+2212.00021,2022,probability,1
+2212.00389,2022,kick-motion training,1
+2212.00389,2022,DQN,1
+2212.00389,2022,AI soccer environment,1
+2212.01686,2022,subjective study,1
+2212.01686,2022,perceptual acceptability,1
+2212.01686,2022,audio-video desynchronization,1
+2212.01686,2022,video,1
+2212.02978,2022,muscle,1
+2212.02978,2022,action,1
+2212.03041,2022,efficient computation,1
+2212.03041,2022,individual attribute,1
+2212.03041,2022,policy contribution,1
+2212.03041,2022,post-hoc explanation,1
+2212.03041,2022,cooperative multi-agent system,1
+2212.03041,2022,myerson value,1
+2212.03384,2022,DroneAttention,1
+2212.03384,2022,sparse,1
+2212.03384,2022,temporal attention,1
+2212.03384,2022,drone-camera based activity recognition,1
+2212.04820,2022,pose estimation,1
+2212.04820,2022,loose-fitting clothes,1
+2212.04820,2022,ground truth posture,1
+2212.04820,2022,HFR camera and blink LED,1
+2212.04665,2022,computer vision method,1
+2212.04665,2022,velocity,1
+2212.04665,2022,jumps,1
+2212.06146,2022,matrix profile XXVII,1
+2212.06146,2022,distance measure,1
+2212.06146,2022,long time series,1
+2212.05223,2022,progressive multi-view human mesh recovery,1
+2212.05223,2022,self-supervision,1
+2212.06301,2022,egocentric video task translation,1
+2212.06504,2022,accelerated structured matrix factorization,1
+2212.06804,2022,face,1
+2212.06804,2022,NBA prospect,1
+2212.06804,2022,deep learning approach,1
+2212.07397,2022,hierarchical strategies,1
+2212.07397,2022,cooperative multi-agent reinforcement learning,1
+2212.08116,2022,college football point spread differential,1
+2212.08116,2022,probability,1
+2212.09832,2022,mouthguard measurement,1
+2212.09832,2022,head impact kinematic,1
+2212.09832,2022,CNN,1
+2212.10904,2022,bayesian mixture model approach,1
+2212.10904,2022,expected possession value,1
+2212.10904,2022,rugby league,1
+2212.10935,2022,commentary generation,1
+2212.10935,2022,data records,1
+2212.10935,2022,multiplayer strategy esports game,1
+2212.11041,2022,club,1
+2212.11041,2022,future value,1
+2212.11041,2022,football player,1
+2212.11071,2022,robot,1
+2212.11071,2022,olympic recurve bow,1
+2212.11071,2022,preliminary study,1
+2212.11402,2022,design considerations,1
+2212.11402,2022,unmanned aerial vehicle,1
+2212.11402,2022,aerial filming,1
+2212.12015,2022,stochastic analysis,1
+2212.12015,2022,elo rating algorithm,1
+2212.12015,2022,round-robin tournament,1
+2212.13660,2022,NeMo,1
+2212.13660,2022,3d neural motion fields,1
+2212.13660,2022,multiple video instances,1
+2212.13660,2022,action,1
+2212.14403,2022,human feedback,1
+2212.14403,2022,primitive optimization,1
+2212.14403,2022,wheelchair tennis,1
+2301.00436,2023,hierarchical explanations,1
+2301.00436,2023,video action recognition,1
+2301.03462,2023,power,1
+2301.03462,2023,shared label structures,1
+2301.03462,2023,human activity recognition,1
+2301.02443,2023,euroleague history,1
+2301.02443,2023,basic statistics,1
+2301.04001,2023,big ideas,1
+2301.04001,2023,analytics,1
+2301.04001,2023,statistical tools,1
+2301.04001,2023,investigation,1
+2301.04288,2023,generic event boundary detection,1
+2301.04288,2023,video,1
+2301.04288,2023,pyramid feature,1
+2301.04619,2023,TinyHD,1
+2301.04619,2023,efficient video saliency prediction,1
+2301.04619,2023,heterogeneous decoders,1
+2301.04619,2023,hierarchical maps distillation,1
+2301.05417,2023,LGM model,1
+2301.05417,2023,sEMG signals,1
+2301.05417,2023,weight training,1
+2301.05543,2023,classification,1
+2301.05543,2023,cross-cultural news event,1
+2301.06057,2023,hawk,1
+2301.06057,2023,industrial-strength multi-label document classifier,1
+2301.06103,2023,sparse temporal video mapping,1
+2301.06103,2023,action quality assessment,1
+2301.06103,2023,floor gymnastics,1
+2301.06648,2023,neuromorphic high-frequency 3d dancing pose estimation,1
+2301.06648,2023,dynamic environment,1
+2301.06866,2023,building,1
+2301.06866,2023,scalable video understanding benchmarks,1
+2301.06876,2023,viewer comment,1
+2301.06876,2023,scene,1
+2301.06876,2023,live-streaming,1
+2301.10164,2023,detection,1
+2301.10164,2023,climbing,1
+2301.10164,2023,orientation,1
+2301.10164,2023,sensor enhanced quickdraw,1
+2301.06993,2023,day,1
+2301.06993,2023,pocket,1
+2301.06993,2023,complex activity recognition,1
+2301.06993,2023,smartphone accelerometers,1
+2301.07583,2023,survey,1
+2301.07583,2023,advanced computer vision techniques,1
+2301.08190,2023,building concise logical patterns,1
+2301.08190,2023,constrain tsetlin machine clause size,1
+2301.13052,2023,machine learning approach,1
+2301.13052,2023,player and position adjusted expected goals,1
+2301.13052,2023,football,1
+2301.13052,2023,soccer,1
+2301.08347,2023,sentiment analysis,1
+2301.08347,2023,measuring hope,1
+2301.08347,2023,fear,1
+2301.08347,2023,reddit posts,1
+2301.08347,2023,russo-ukrainian conflict,1
+2301.10052,2023,event detection,1
+2301.10052,2023,football,1
+2301.10052,2023,graph convolutional networks,1
+2302.10760,2023,potential penetrative pass,1
+2301.13576,2023,fine grained action detection,1
+2301.13576,2023,classification,1
+2301.13576,2023,table tennis strokes,1
+2301.13576,2023,videos,1
+2301.13576,2023,MediaEval,1
+2302.00123,2023,design,1
+2302.00123,2023,implementation,1
+2302.00123,2023,soccer ball detection system,1
+2302.00123,2023,multiple camera,1
+2302.00911,2023,conditional expectation,1
+2302.00911,2023,regularization,1
+2302.00911,2023,miss datum imputation,1
+2302.02752,2023,baseline method,1
+2302.02752,2023,MediaEval,1
+2302.02752,2023,3d CNN,1
+2302.02752,2023,attention mechanism,1
+2302.02755,2023,fine-grained action detection,1
+2302.02755,2023,RGB,1
+2302.02755,2023,pose information,1
+2302.02755,2023,stream convolutional networks,1
+2302.02956,2023,RoboCup 2022 AdultSize winner NimbRo,1
+2302.02956,2023,upgrade perception,1
+2302.02956,2023,capture steps gait,1
+2302.02956,2023,walk,1
+2302.03302,2023,meaningful anomaly detection,1
+2302.03302,2023,counterfactual explanations,1
+2302.03302,2023,investigation,1
+2302.03302,2023,anomalies,1
+2302.03302,2023,multivariate time series,1
+2302.04024,2023,inertial and mechanomyography-base sensor fusion,1
+2302.04024,2023,wearable facial activity recognition,1
+2302.06108,2023,animating human athletics,1
+2302.06205,2023,order matter,1
+2302.06205,2023,agent,1
+2302.06569,2023,inferring player location,1
+2302.06569,2023,matches,1
+2302.06569,2023,multi-agent spatial imputation,1
+2302.06569,2023,limited observations,1
+2302.07515,2023,TiZero,1
+2302.07515,2023,mastering multi-agent football,1
+2302.07515,2023,curriculum learning,1
+2302.07515,2023,self-play,1
+2302.09276,2023,transformer-base neural marked spatio temporal point process model,1
+2302.09276,2023,football match event analysis,1
+2302.09657,2023,table tennis stroke detection,1
+2302.09657,2023,recognition,1
+2302.09657,2023,ball trajectory datum,1
+2302.10817,2023,infer implicit trait preferences,1
+2302.10817,2023,task allocation,1
+2302.10817,2023,heterogeneous teams,1
+2302.11172,2023,impact,1
+2302.11172,2023,batter,1
+2302.11172,2023,regression models,1
+2302.11172,2023,match commentary,1
+2303.11944,2023,representational tenets,1
+2303.11944,2023,memory athletics,1
+2302.11880,2023,semi-supervised graph learning,1
+2302.11880,2023,money laundering,1
+2303.16759,2023,celebrity influence,1
+2303.16759,2023,public attitude,1
+2303.16759,2023,social medium,1
+2303.16759,2023,sentiment analysis,1
+2302.14058,2023,identification,1
+2302.14058,2023,pattern mining algorithm,1
+2302.14058,2023,rugby league player,1
+2302.14058,2023,positional group separation,1
+2302.14058,2023,movement pattern,1
+2302.13386,2023,NBA2Vec: dense feature representation,1
+2302.13386,2023,NBA player,1
+2302.13471,2023,design,1
+2302.13471,2023,variable stiffness spring,1
+2302.13471,2023,human-selectable stiffness,1
+2303.00528,2023,nodes,1
+2303.00528,2023,multivariate graphs,1
+2303.00528,2023,dynamic layout adaptation,1
+2303.00952,2023,activated muscle group estimation,1
+2303.01318,2023,continuous-time stochastic process,1
+2303.01318,2023,high-resolution network data,1
+2303.02234,2023,hindsight states,1
+2303.02234,2023,blend sim,1
+2303.02234,2023,real task elements,1
+2303.02234,2023,efficient reinforcement learning,1
+2303.12149,2023,SPARTAN,1
+2303.12149,2023,self-supervise spatiotemporal transformers approach,1
+2303.12149,2023,group activity recognition,1
+2303.03476,2023,iball,1
+2303.03476,2023,basketball videos,1
+2303.03476,2023,gaze-moderated embedded visualizations,1
+2303.03879,2023,SpinDOE,1
+2303.03879,2023,ball spin estimation method,1
+2303.03879,2023,table tennis robot,1
+2303.05774,2023,NFL career success,1
+2303.05774,2023,NFL scouting combine,1
+2303.06021,2023,machine learning,1
+2303.06021,2023,betting,1
+2303.06021,2023,selection,1
+2303.06021,2023,calibration,1
+2303.06439,2023,DECOMPL,1
+2303.06439,2023,decompositional learning,1
+2303.06439,2023,group activity recognition,1
+2303.06439,2023,single volleyball image,1
+2303.07274,2023,common sense,1
+2303.07274,2023,WHOOPS,1
+2303.07274,2023,vision-and-language benchmark,1
+2303.07274,2023,synthetic,1
+2303.07274,2023,compositional images,1
+2303.11174,2023,metric search,1
+2303.11174,2023,rank list compatibility matching,1
+2303.09097,2023,IRIS,1
+2303.09097,2023,interpretable rubric-inform segmentation,1
+2303.09097,2023,action quality assessment,1
+2303.09274,2023,random matching,1
+2303.09274,2023,balanced bipartite graph,1
+2303.09274,2023,un)fairness,1
+2303.09274,2023,draw mechanism,1
+2303.09715,2023,shooter,1
+2303.09715,2023,AI-power engine,1
+2303.09715,2023,basketball performance,1
+2303.11855,2023,CLIP-ReIdent: contrastive training,1
+2303.11855,2023,player,1
+2303.11855,2023,identification,1
+2303.12385,2023,optimal selection,1
+2303.12385,2023,start lineup,1
+2303.12385,2023,football team,1
+2303.12401,2023,real-time forecasting,1
+2303.12401,2023,soccer match,1
+2303.12401,2023,bayesian len,1
+2303.13323,2023,computational benchmark,1
+2303.13323,2023,evaluating human performance,1
+2303.13323,2023,complex interactive tasks,1
+2303.13323,2023,football,1
+2303.13472,2023,promptable game model,1
+2303.13472,2023,text-guided game simulation,1
+2303.13472,2023,masked diffusion model,1
+2303.13505,2023,large-scale study,1
+2303.13505,2023,spatiotemporal representation learning,1
+2303.13505,2023,action recognition,1
+2303.13660,2023,present multiagent challenges,1
+2303.13660,2023,team sports analytics,1
+2303.15471,2023,contextual information,1
+2303.15471,2023,reward shaping,1
+2303.15471,2023,multi-agent learning,1
+2303.15471,2023,case study,1
+2303.15471,2023,google football,1
+2303.14655,2023,GOAL,1
+2303.14655,2023,challenging knowledge-ground video captioning benchmark,1
+2303.14655,2023,real-time soccer commentary generation,1
+2303.15931,2023,FC portugal 3d simulation team: team description paper,1
+2303.16776,2023,supervised learning,1
+2303.16776,2023,table tennis match prediction,1
+2303.16741,2023,graph attention networks,1
+2303.16741,2023,temporal convolution,1
+2303.16865,2023,legged robots,1
+2303.16865,2023,object manipulation,1
+2303.16865,2023,review,1
+2303.17863,2023,hot hand phenomenon,1
+2303.17863,2023,bayesian hide markov approach,1
+2303.17946,2023,social honeypot,1
+2303.17946,2023,human,1
+2303.17946,2023,people,1
+2303.17946,2023,self-manage instagram pages,1
+2303.17948,2023,CIMI4D,1
+2303.17948,2023,large multimodal climbing motion dataset,1
+2303.17948,2023,human-scene interaction,1
+2304.01159,2023,DribbleBot,1
+2304.01159,2023,dynamic legged manipulation,1
+2304.01538,2023,doubly self-exciting poisson model,1
+2304.01538,2023,scoring level,1
+2304.01538,2023,NBA basketball,1
+2304.01865,2023,SportsPose,1
+2304.02939,2023,arbitrary keypoints,1
+2304.02939,2023,body,1
+2304.02939,2023,triple,1
+2304.03148,2023,eye,1
+2304.03148,2023,human-select feature,1
+2304.03148,2023,athletes' performance,1
+2304.06489,2023,domain adaptation,1
+2304.06489,2023,inertial measurement unit-base human activity recognition,1
+2304.06489,2023,survey,1
+2304.11088,2023,news,1
+2304.11088,2023,barrier,1
+2304.11088,2023,news headline,1
+2304.03754,2023,language models,1
+2304.03754,2023,causal knowledge extractors,1
+2304.03754,2023,zero-shot video question answering,1
+2304.03756,2023,effect,1
+2304.03756,2023,robot skill level,1
+2304.03756,2023,communication,1
+2304.03756,2023,rapid,1
+2304.03756,2023,proximate human-robot collaboration,1
+2304.04220,2023,active learning,1
+2304.04220,2023,action spotting,1
+2304.04220,2023,association football videos,1
+2304.04376,2023,ICDAR 2023 video text reading competition,1
+2304.04376,2023,dense and small text,1
+2304.04437,2023,monocular 3d pose estimation,1
+2304.04437,2023,broadcasts,1
+2304.04437,2023,partial sports field registration,1
+2304.04565,2023,SoccerNet-caption,1
+2304.04565,2023,dense video captioning,1
+2304.04565,2023,soccer broadcasts commentaries,1
+2304.04617,2023,VARS,1
+2304.04617,2023,video assistant referee system,1
+2304.04617,2023,automated soccer decision making,1
+2304.04617,2023,multiple view,1
+2304.04839,2023,MHfit,1
+2304.04839,2023,mobile health data,1
+2304.04839,2023,machine learning,1
+2304.05088,2023,WEAR,1
+2304.05088,2023,outdoor sports dataset,1
+2304.05088,2023,wearable and egocentric activity recognition,1
+2304.05170,2023,SportsMOT: a large multi-object tracking dataset,1
+2304.05170,2023,multiple sports scenes,1
+2304.05242,2023,generation,1
+2304.05242,2023,threat,1
+2304.05242,2023,football player,1
+2304.05242,2023,dangerous action,1
+2304.05242,2023,unbiased way,1
+2304.09861,2023,IoT-base wearable,1
+2304.09861,2023,comprehensive survey,1
+2304.08272,2023,latent role,1
+2304.08272,2023,forecasting player,1
+2304.08272,2023,team,1
+2304.14499,2023,human activity recognition,1
+2304.14499,2023,deep learning approach,1
+2304.14499,2023,single frame cnn,1
+2304.14499,2023,convolutional lstm,1
+2304.08803,2023,MLP-AIR,1
+2304.08803,2023,efficient MLP-base method,1
+2304.08803,2023,actor interaction relation learning,1
+2304.08803,2023,group activity recognition,1
+2304.09078,2023,club coefficient,1
+2304.09078,2023,UEFA champions league,1
+2304.09078,2023,shift,1
+2304.09078,2023,elo-base formula,1
+2304.13129,2023,pattern,1
+2304.13129,2023,gender-specialize query reformulation,1
+2304.13653,2023,agile soccer skills,1
+2304.13653,2023,bipedal robot,1
+2304.13653,2023,deep reinforcement learning,1
+2305.06310,2023,SoGAR: self-supervise spatiotemporal attention-base social group activity recognition,1
+2305.00620,2023,refined response distillation,1
+2305.00620,2023,class-incremental player detection,1
+2305.01319,2023,long-term rhythmic video soundtracker,1
+2306.01740,2023,buzz,1
+2306.01740,2023,mispricing,1
+2306.01740,2023,inefficiency,1
+2306.01740,2023,online sportsbook,1
+2305.03347,2023,large cross-modal video retrieval dataset,1
+2305.03347,2023,reading comprehension,1
+2305.03369,2023,MuSe 2023 multimodal sentiment analysis challenge,1
+2305.03369,2023,mimicked emotions,1
+2305.03369,2023,cross-cultural humour,1
+2305.03369,2023,personalisation,1
+2305.03851,2023,large language models,1
+2305.03851,2023,science,1
+2305.03851,2023,medicine,1
+2305.03851,2023,opportunity,1
+2305.03851,2023,risks,1
+2305.03851,2023,considerations,1
+2305.04247,2023,estimation,1
+2305.04247,2023,control area,1
+2305.04247,2023,pose information,1
+2305.04247,2023,view,1
+2305.04247,2023,video,1
+2305.04995,2023,anatomically detailed simulation,1
+2305.04995,2023,human torso,1
+2305.05752,2023,plate discipline,1
+2305.05752,2023,major league baseball,1
+2305.05752,2023,bayesian additive regression tree,1
+2305.07740,2023,double-iterative gaussian process regression,1
+2305.07740,2023,modeling error compensation,1
+2305.07740,2023,autonomous racing,1
+2305.08420,2023,shot adaptation,1
+2305.08420,2023,recognition,1
+2305.08420,2023,diverse domain,1
+2306.01746,2023,neutrosophic sets,1
+2306.01746,2023,decision making,1
+2305.09458,2023,empirical study,1
+2305.09458,2023,google research football multi-agent scenario,1
+2305.09485,2023,executive voiced laughter,1
+2305.09485,2023,social approval,1
+2305.09485,2023,explorative machine learning study,1
+2305.10222,2023,public dataset,1
+2305.10222,2023,human activity recognition,1
+2305.10262,2023,STRAIN,1
+2305.10262,2023,defensive pass rush,1
+2305.10262,2023,american football,1
+2305.10262,2023,player tracking data,1
+2305.11367,2023,smart pressure e,1
+2305.11367,2023,mat,1
+2305.11367,2023,human sleeping posture and dynamic activity recognition,1
+2305.12583,2023,smartphone,1
+2305.12583,2023,pulse-oximeter,1
+2305.12583,2023,single-lead ECG,1
+2305.13030,2023,adaptive action supervision,1
+2305.13030,2023,reinforcement learning,1
+2305.13030,2023,real-world multi-agent demonstration,1
+2305.13032,2023,dean oliver's four factors,1
+2305.13124,2023,hang-time HAR,1
+2305.13124,2023,benchmark dataset,1
+2305.13124,2023,basketball activity recognition,1
+2305.13124,2023,wrist-wear inertial sensor,1
+2305.14320,2023,beat saber,1
+2305.14320,2023,virtual reality gaming population insights,1
+2305.14320,2023,factors,1
+2305.14320,2023,virtual reality e-sport performance,1
+2305.14468,2023,girl,1
+2305.14468,2023,relate gender bias,1
+2305.14468,2023,language,1
+2305.14468,2023,vision,1
+2305.14612,2023,assessment,1
+2305.14612,2023,anterior cruciate ligament injury risk,1
+2305.14612,2023,human key points detection algorithm,1
+2305.15093,2023,c-STS,1
+2305.15093,2023,conditional semantic textual similarity,1
+2305.15189,2023,black-box,1
+2305.15189,2023,gray-box,1
+2305.15189,2023,case study,1
+2305.15189,2023,learning table tennis ball trajectory prediction,1
+2305.15189,2023,spin,1
+2305.15189,2023,impact,1
+2305.16487,2023,EgoHumans,1
+2305.16487,2023,egocentric 3d multi-human benchmark,1
+2305.17352,2023,centralized training,1
+2305.17352,2023,decentralized execution framework,1
+2305.17352,2023,centralize,1
+2305.17352,2023,MARL,1
+2305.19283,2023,observation denoising,1
+2305.19283,2023,CYRUS soccer simulation 2d team,1
+2305.19283,2023,RoboCup,1
+2305.17886,2023,action valuation,1
+2305.17886,2023,ball,1
+2305.17886,2023,multi-agent deep reinforcement learning,1
+2305.18477,2023,meta,1
+2305.18477,2023,game design parameters,1
+2305.18477,2023,patch-agnostic esport analytics,1
+2306.05285,2023,unsupervised statistical feature-guided diffusion model,1
+2306.05285,2023,sensor-base human activity recognition,1
+2306.02351,2023,RSSOD-bench,1
+2306.02351,2023,large-scale benchmark dataset,1
+2306.02351,2023,salient object detection,1
+2306.02351,2023,optical remote sensing imagery,1
+2306.02930,2023,human spine motion capture,1
+2306.02930,2023,perforated kinesiology tape,1
+2306.04090,2023,PlayBest,1
+2306.04090,2023,professional basketball player behavior synthesis,1
+2306.04090,2023,planning,1
+2306.04090,2023,diffusion,1
+2306.07936,2023,FOOCTTS,1
+2306.07936,2023,arabic speech,1
+2306.07936,2023,acoustic environment,1
+2306.07936,2023,football commentator,1
+2306.04948,2023,ShuttleSet,1
+2306.04948,2023,human-annotated stroke-level singles dataset,1
+2306.04948,2023,badminton tactical analysis,1
+2306.05255,2023,accurate and generalizable brain deformation estimator,1
+2306.05255,2023,traumatic brain injury detection,1
+2306.05255,2023,unsupervised domain adaptation,1
+2306.05501,2023,robust explainer recommendation,1
+2306.05501,2023,series classification,1
+2306.05526,2023,learning,1
+2306.05526,2023,fine-grain view-invariant representations,1
+2306.05526,2023,unpaired ego-exo video,1
+2306.05526,2023,temporal alignment,1
+2306.06147,2023,SentiGOLD,1
+2306.06147,2023,large bangla gold standard multi-domain sentiment analysis dataset,1
+2306.06147,2023,evaluation,1
+2306.06803,2023,stable remaster,1
+2306.06803,2023,gap,1
+2306.06803,2023,old content,1
+2306.06803,2023,displays,1
+2306.08206,2023,ball trajectory inference,1
+2306.08206,2023,multi-agent sports contexts,1
+2306.08206,2023,set transformer,1
+2306.08206,2023,hierarchical bi-LSTM,1
+2306.08388,2023,skill-critic,1
+2306.08388,2023,refining learned skills,1
+2306.08388,2023,hierarchical reinforcement learning,1
+2306.08651,2023,ground commonsense reasoning,1
+2306.08952,2023,temporal reasoning capability,1
+2306.08952,2023,LLM,1
+2306.17172,2023,FANET experiment,1
+2306.17172,2023,real-time surveillance applications,1
+2306.17172,2023,image processing system,1
+2306.09983,2023,superhuman models,1
+2306.09983,2023,consistency check,1
+2306.10208,2023,learn space-time semantic correspondences,1
+2306.10293,2023,perspective,1
+2306.10293,2023,shuttlecock hitting event detection,1
+2306.10715,2023,maximum entropy heterogeneous-agent reinforcement learning,1
+2306.10756,2023,HRNet-base rehabilitation monitoring system,1
+2307.11755,2023,SPORT-c intervention,1
+2307.11755,2023,integration,1
+2307.11755,2023,case-base pedagogy and systems thinking learning,1
+2306.11168,2023,learning models,1
+2306.11168,2023,adversarial agent behavior,1
+2306.11168,2023,partial observability,1
+2306.12244,2023,intrinsic spatial-temporal logic rules,1
+2306.12244,2023,human actions,1
+2306.13074,2023,iterative scale-up ExpansionIoU,1
+2306.13074,2023,deep features association,1
+2306.13074,2023,multi-object tracking,1
+2306.13374,2023,human activity behavioural pattern recognition,1
+2306.13374,2023,smarthome,1
+2306.13374,2023,long-hour data collection,1
+2306.13491,2023,videos,1
+2306.13491,2023,VisCommentator,1
+2306.14462,2023,multi-task item-attribute graph pre-training,1
+2306.14462,2023,strict cold-start item recommendation,1
+2306.14490,2023,TaiChi action capture and performance analysis,1
+2306.14490,2023,multi-view RGB cameras,1
+2306.14492,2023,badminton recognition,1
+2306.14492,2023,tracking system,1
+2306.14492,2023,context multi-feature fusion,1
+2307.00021,2023,SAHAAYAK,1
+2307.00021,2023,multi domain bilingual parallel corpus,1
+2307.00021,2023,sanskrit,1
+2307.00021,2023,hindi,1
+2307.00021,2023,machine translation,1
+2306.15664,2023,benchmarking stroke forecasting,1
+2306.15664,2023,stroke-level badminton dataset,1
+2306.15903,2023,diversity,1
+2306.15903,2023,strength,1
+2306.15903,2023,mastering football full game,1
+2306.15903,2023,interactive reinforcement learning,1
+2306.15903,2023,multiple AI,1
+2306.17252,2023,voice synthesis,1
+2306.17252,2023,differentiable LPC,1
+2306.17252,2023,glottal-flow-inspire wavetable,1
+2306.17550,2023,table tennis swing analysis,1
+2307.01938,2023,physics-base motion,1
+2307.01938,2023,sparse input,1
+2307.02637,2023,surge routing,1
+2307.02637,2023,event-inform multiagent reinforcement learning,1
+2307.02637,2023,autonomous rideshare,1
+2307.02654,2023,safe,1
+2307.02654,2023,accurate,1
+2307.02654,2023,speed,1
+2307.02654,2023,tendon,1
+2307.02654,2023,robot arm,1
+2307.02654,2023,explore dynamic motion,1
+2307.03353,2023,survey,1
+2307.03353,2023,deep learning,1
+2307.03353,2023,perception,1
+2307.03353,2023,comprehension,1
+2307.03353,2023,decision,1
+2307.03586,2023,ContextLabeler dataset,1
+2307.03586,2023,physical and virtual sensor datum,1
+2307.03586,2023,smartphone usage,1
+2307.13807,2023,betting,1
+2307.13807,2023,neural network,1
+2307.13807,2023,modern portfolio theory,1
+2307.13807,2023,english premier league,1
+2307.05825,2023,bayesian taut spline,1
+2307.05825,2023,number,1
+2307.05825,2023,mode,1
+2307.05988,2023,comprehensive review,1
+2307.05988,2023,automated data annotation techniques,1
+2307.05988,2023,human activity recognition,1
+2307.06050,2023,appropriate size,1
+2307.06050,2023,mongolian general corpus,1
+2307.06754,2023,handball teams,1
+2307.06754,2023,statistical strength estimation,1
+2307.13700,2023,CAMP,1
+2307.13700,2023,context-aware cricket players performance metric,1
+2307.07768,2023,SoccerKDNet: a knowledge distillation framework,1
+2307.07768,2023,action recognition,1
+2307.07768,2023,soccer videos,1
+2307.08712,2023,machine learning,1
+2307.08712,2023,mental training,1
+2307.08712,2023,proof,1
+2307.08712,2023,concept,1
+2307.08712,2023,memory,1
+2307.07943,2023,panoramic voltage-sensitive optical mapping,1
+2307.07943,2023,contracting hearts,1
+2307.07943,2023,cooperative multi-view motion,1
+2307.07943,2023,camera,1
+2307.08025,2023,gender bias,1
+2307.08025,2023,image,1
+2307.08025,2023,object detection,1
+2307.08262,2023,MuLMINet,1
+2307.08262,2023,multi-layer multi-input transformer network,1
+2307.08262,2023,weighted loss,1
+2307.10303,2023,commentary,1
+2307.10303,2023,order,1
+2307.10303,2023,event,1
+2307.10303,2023,insight,1
+2307.10584,2023,reference-base painterly,1
+2307.10584,2023,diffusion,1
+2307.10584,2023,wild reference domain gap,1
+2307.11573,2023,control-,1
+2307.11573,2023,task-aware optimal design,1
+2307.11573,2023,actuation system,1
+2307.11573,2023,legged robots,1
+2307.11573,2023,binary integer linear programming,1
+2308.02397,2023,design space exploration,1
+2308.02397,2023,efficient and accurate pose estimation,1
+2308.02397,2023,sparse IMU-sensing,1
+2307.16875,2023,pyrus base,1
+2307.16875,2023,open source python framework,1
+2307.16875,2023,RoboCup 2d soccer simulation,1
+2307.12183,2023,X3D neural network analysis,1
+2307.12183,2023,runner's performance assessment,1
+2307.12183,2023,wild sporting environment,1
+2307.12539,2023,VIRD,1
+2307.12539,2023,immersive match video analysis,1
+2307.12539,2023,high-performance badminton coaching,1
+2307.13715,2023,team intro,1
+2307.13715,2023,AI team8,1
+2307.13715,2023,CoachAI,1
+2307.13715,2023,badminton challenge,1
+2307.13715,2023,advanced ShuttleNet,1
+2307.13715,2023,shot prediction,1
+2307.14732,2023,strategic framework,1
+2307.14732,2023,optimal decisions,1
+2307.14732,2023,football,1
+2307.14732,2023,shot-take situation,1
+2307.14732,2023,integrated approach,1
+2307.14732,2023,machine learning,1
+2307.14732,2023,theory-base modeling,1
+2307.14732,2023,game theory,1
+2307.14889,2023,weakly supervised multi-modal 3d human body pose estimation,1
+2307.14889,2023,autonomous driving,1
+2307.16000,2023,automated hit-frame detection,1
+2307.16000,2023,badminton match analysis,1
+2307.16811,2023,DoDo learning,1
+2307.16811,2023,DOmain-DemOgraphic transfer,1
+2307.16811,2023,language models,1
+2307.16811,2023,detecting abuse,1
+2307.16811,2023,public figures,1
+2308.00323,2023,fine-grained,1
+2308.00323,2023,yoga,1
+2308.00323,2023,dance postures recognition,1
+2308.00323,2023,benchmark analysis,1
+2308.00538,2023,human attribute guided dynamic ground pressure profile transfer,1
+2308.00538,2023,3d simulate pressure maps,1
+2308.01028,2023,success rate,1
+2308.01028,2023,payment routing,1
+2308.01028,2023,non-stationary bandit,1
+2311.11467,2023,coolest video action recognition,1
+2308.01492,2023,virtual reality game,1
+2308.01492,2023,physical and cognitive acuity,1
+2308.01523,2023,miss,1
+2308.01523,2023,messi,1
+2308.01523,2023,extract value,1
+2308.01523,2023,target shot,1
+2308.01523,2023,soccer,1
+2308.02414,2023,state-space perspective,1
+2308.02414,2023,modelling,1
+2308.02414,2023,inference,1
+2308.02414,2023,online skill rating,1
+2308.04872,2023,tracking players,1
+2308.04872,2023,badminton court,1
+2308.04872,2023,camera,1
+2311.11471,2023,automate tracking,1
+2311.11471,2023,multiple boxer,1
+2308.06851,2023,offensive gameplan,1
+2308.06851,2023,national basketball association,1
+2308.06851,2023,machine learning,1
+2308.07775,2023,hierarchical generative modelling,1
+2308.07775,2023,autonomous robot,1
+2308.08610,2023,FootGPT,1
+2308.08610,2023,LLM development experiment,1
+2308.08610,2023,minimal setting,1
+2309.12333,2023,onchain sports betting,1
+2309.12333,2023,UBET automated market maker,1
+2308.09909,2023,multi-agent reinforcement learning,1
+2308.10623,2023,skeleton,1
+2308.10623,2023,gait recognition,1
+2308.11142,2023,graph encoding,1
+2308.11142,2023,neural network,1
+2308.11142,2023,volleyball analytics,1
+2308.11142,2023,game outcome,1
+2308.11142,2023,individual play prediction,1
+2308.11244,2023,long-term video understanding dataset,1
+2308.11272,2023,FoX,1
+2308.11272,2023,formation-aware exploration,1
+2308.11272,2023,multi-agent reinforcement learning,1
+2308.12199,2023,real-time analysis,1
+2308.12199,2023,broadcast badminton videos,1
+2308.12600,2023,PoseSync,1
+2308.12600,2023,robust,1
+2308.12600,2023,base video synchronization,1
+2308.12645,2023,deep system,1
+2308.12645,2023,badminton game analysis,1
+2308.13872,2023,vision-base pose estimation,1
+2308.13872,2023,deep learning,1
+2308.13872,2023,survey,1
+2308.14404,2023,effect,1
+2308.14404,2023,exergame,1
+2308.14404,2023,shadow play skill,1
+2308.14404,2023,muscle memory,1
+2308.14404,2023,young female participants,1
+2308.14404,2023,case,1
+2308.14404,2023,forehand drive,1
+2308.14404,2023,table tennis,1
+2308.14562,2023,data-efficient online learning,1
+2308.14562,2023,ball placement,1
+2308.14562,2023,robot table tennis,1
+2308.15559,2023,glocal explanations,1
+2308.15559,2023,expected goal models,1
+2308.15559,2023,soccer,1
+2308.16154,2023,MMVP,1
+2308.16154,2023,motion-matrix-base video prediction,1
+2308.16651,2023,SoccerNet 2023 tracking challenge,1
+2308.16651,2023,3rd place MOT4MOT team technical report,1
+2308.16876,2023,SportsSloMo,1
+2308.16876,2023,baselines,1
+2308.16876,2023,human-centric video frame interpolation,1
+2309.00756,2023,risk preferences,1
+2309.00756,2023,markov decision processes,1
+2309.00756,2023,fourth down decision,1
+2309.00756,2023,national football league,1
+2309.01010,2023,motion blur,1
+2309.01010,2023,robust 3d baseball player,1
+2309.01010,2023,pitch analysis,1
+2309.01526,2023,passing,1
+2309.01526,2023,heatmap prediction,1
+2309.01526,2023,transformer model,1
+2309.01526,2023,tracking data,1
+2309.07141,2023,design,1
+2309.07141,2023,recognition,1
+2309.07141,2023,evaluation system,1
+2309.07141,2023,table tennis players' motor skills,1
+2309.07141,2023,artificial intelligence,1
+2309.03229,2023,algorithm,1
+2309.03229,2023,timetabling,1
+2309.03315,2023,robotic table tennis,1
+2309.03315,2023,case study,1
+2309.03315,2023,high speed learning system,1
+2309.03395,2023,quiet eye phenomenon,1
+2309.03395,2023,minimally invasive surgery,1
+2309.03640,2023,context-aware 3d object localization,1
+2309.03640,2023,single calibrated images,1
+2309.03640,2023,basketballs,1
+2309.03808,2023,improve theoretical guarantee,1
+2309.03808,2023,rank aggregation,1
+2309.03808,2023,spectral method,1
+2309.04375,2023,data-driven batch localization,1
+2309.04375,2023,SLAM,1
+2309.04375,2023,koopman linearization,1
+2401.01003,2023,rink-agnostic hockey rink registration,1
+2309.05682,2023,compendium,1
+2309.05682,2023,datum source,1
+2309.05682,2023,datum science,1
+2309.05682,2023,machine learning,1
+2309.05682,2023,artificial intelligence,1
+2309.05783,2023,estimate return,1
+2309.05783,2023,investment,1
+2309.05783,2023,player salaries,1
+2309.05783,2023,national basketball association,1
+2309.05936,2023,PLM,1
+2309.05936,2023,ontological knowledge,1
+2309.06006,2023,SoccerNet,1
+2309.06248,2023,evaluation metric,1
+2309.06248,2023,probability estimation models,1
+2309.06248,2023,esports datum,1
+2309.06285,2023,jersey number recognition,1
+2309.06285,2023,keyframe identification,1
+2309.06285,2023,low-resolution broadcast videos,1
+2309.06541,2023,text encoder lack knowledge,1
+2309.06541,2023,generative LLM,1
+2309.06541,2023,domain-specific semantic textual similarity,1
+2309.06802,2023,dynamic NeRF,1
+2309.06802,2023,soccer scenes,1
+2309.07361,2023,video,1
+2309.07361,2023,bitstream cover,1
+2309.08904,2023,stylized table tennis robots skill learning,1
+2309.08904,2023,incomplete human demonstrations,1
+2309.08947,2023,contact-aware global human motion forecasting,1
+2309.13080,2023,SPICED,1
+2309.13080,2023,news similarity detection dataset,1
+2309.13080,2023,multiple topics,1
+2309.13080,2023,complexity levels,1
+2309.12067,2023,survey,1
+2309.12067,2023,action recognition,1
+2309.12067,2023,spotting,1
+2309.12067,2023,spatio-temporal localization,1
+2309.12067,2023,soccer,1
+2309.12067,2023,trends,1
+2309.12067,2023,research perspective,1
+2310.14891,2023,SpeakEasy,1
+2310.14891,2023,conversational intelligence chatbot,1
+2310.14891,2023,enhancing college students' communication skills,1
+2309.13742,2023,DROP,1
+2309.13742,2023,dynamic response,1
+2309.13742,2023,human motion,1
+2309.14390,2023,early churn prediction,1
+2309.14390,2023,large scale user-product interaction time series,1
+2309.14455,2023,skilog,1
+2309.14455,2023,smart sensor system,1
+2309.14455,2023,performance analysis,1
+2309.14455,2023,biofeedback,1
+2309.14455,2023,ski jumping,1
+2309.14490,2023,design,1
+2309.14490,2023,evaluation,1
+2309.14490,2023,VR shot,1
+2309.14490,2023,broadcast,1
+2309.14753,2023,advanced volleyball stats,1
+2309.14753,2023,level,1
+2309.14753,2023,automatic setting tactic detection,1
+2309.14753,2023,classification,1
+2309.14753,2023,single camera,1
+2310.13698,2023,perspective,1
+2310.13698,2023,game,1
+2309.14807,2023,soccer match prediction model,1
+2309.14807,2023,deep learning approach and feature optimization,1
+2309.14807,2023,gradient-boosted trees,1
+2309.15253,2023,optimal lineup creation,1
+2309.15253,2023,daily fantasy football,1
+2309.15253,2023,machine learning,1
+2309.15253,2023,linear programming,1
+2309.17338,2023,trajectory prediction,1
+2309.17338,2023,dynamic multi-agent environment,1
+2309.17338,2023,dropping waypoints,1
+2311.12829,2023,intelligent knee sleeve,1
+2311.12829,2023,real-time multimodal dataset,1
+2311.12829,2023,3d lower body motion estimation,1
+2311.12829,2023,smart textile,1
+2310.01184,2023,improvements,1
+2310.01184,2023,pythagorean won-loss expectation,1
+2310.01184,2023,optimizing roster,1
+2310.01795,2023,TempoNet,1
+2310.01795,2023,long-term knee joint angle prediction,1
+2310.01795,2023,dynamic temporal attention,1
+2310.01795,2023,exoskeleton control,1
+2310.03256,2023,second latency,1
+2310.03256,2023,evolution,1
+2310.03256,2023,live medium,1
+2310.03354,2023,fictitious cross-play,1
+2310.03354,2023,learn global nash equilibrium,1
+2310.03354,2023,mixed cooperative-competitive games,1
+2310.03417,2023,good composition,1
+2310.03417,2023,wheelchair basketball team,1
+2310.03417,2023,data-drive approach,1
+2310.03930,2023,GroundLink,1
+2310.03930,2023,dataset unifying human body movement,1
+2310.03930,2023,ground reaction dynamics,1
+2310.04360,2023,SwimXYZ,1
+2310.04360,2023,large-scale dataset,1
+2310.04360,2023,synthetic swimming motion,1
+2310.04360,2023,video,1
+2310.04796,2023,accelerate multi-agent reinforcement learning,1
+2310.04796,2023,zero-sum games,1
+2310.04796,2023,subgame curriculum learning,1
+2310.04797,2023,penalty shootout,1
+2310.04797,2023,alternating order,1
+2310.11459,2023,rating,1
+2310.11459,2023,european and south american football leagues,1
+2310.11459,2023,glicko-2,1
+2310.11459,2023,modification,1
+2310.04912,2023,intelligent sampling consensus,1
+2310.04912,2023,homography estimation,1
+2310.04912,2023,football videos,1
+2310.04912,2023,featureless unpaired points,1
+2310.05208,2023,ZSC-eval,1
+2310.05208,2023,evaluation toolkit,1
+2310.05208,2023,multi-agent zero-shot coordination,1
+2310.05651,2023,FENCE,1
+2310.05651,2023,fairplay ensuring network chain entity,1
+2310.05651,2023,real-time multiple ID detection,1
+2310.05651,2023,scale,1
+2310.05651,2023,fantasy,1
+2310.06245,2023,habitual schemas,1
+2310.06245,2023,persona-base response,1
+2310.07826,2023,antarlekhaka,1
+2310.07826,2023,comprehensive tool,1
+2310.07826,2023,multi-task natural language annotation,1
+2310.08719,2023,diver score,1
+2310.08719,2023,examining,1
+2310.08719,2023,discrepancy,1
+2310.08719,2023,diver competency,1
+2310.08719,2023,judges,1
+2310.08719,2023,mark,1
+2310.09626,2023,future challenges,1
+2310.09626,2023,humanoid robotics,1
+2310.09626,2023,empirical investigation,1
+2310.10262,2023,interpretability,1
+2310.10262,2023,human similarity judgements,1
+2310.10262,2023,prune word embeddings,1
+2310.10300,2023,BeatDance,1
+2310.10300,2023,beat-based model-agnostic contrastive learning framework,1
+2310.10300,2023,music-dance retrieval,1
+2310.10553,2023,AI assistant,1
+2310.10553,2023,football tactic,1
+2310.10863,2023,greedy perspectives,1
+2310.10863,2023,multi-drone view planning,1
+2310.10863,2023,collaborative perception,1
+2310.10863,2023,cluttered environments,1
+2310.13719,2023,ELO rating scheme,1
+2310.13719,2023,MOBA games,1
+2310.11700,2023,runner,1
+2310.11700,2023,single-view run video,1
+2310.11700,2023,open-world setting,1
+2310.12328,2023,soccer,1
+2310.12328,2023,social media,1
+2310.13039,2023,human pose-base estimation,1
+2310.13039,2023,tracking and action recognition,1
+2310.13039,2023,deep learning,1
+2310.13039,2023,survey,1
+2310.13097,2023,multi-stage temporal convolutional network,1
+2310.13097,2023,volleyball jumps classification,1
+2310.13097,2023,waist-mounted IMU,1
+2310.13396,2023,RL-x,1
+2310.13396,2023,deep reinforcement learning library,1
+2310.13396,2023,RoboCup,1
+2310.13980,2023,multivariate,1
+2310.13980,2023,bayesian learning approach,1
+2310.13980,2023,improved detection,1
+2310.13980,2023,doping,1
+2310.13980,2023,athlete,1
+2310.13980,2023,urinary steroid profile,1
+2310.14469,2023,player,1
+2310.14469,2023,body part appearences,1
+2310.14553,2023,denoise opponents position,1
+2310.14553,2023,partial observation environment,1
+2310.14729,2023,MAS,1
+2310.14729,2023,multi-view ancestral sampling,1
+2310.14729,2023,3d motion generation,1
+2310.14729,2023,2d diffusion,1
+2310.14909,2023,surface fact,1
+2310.14909,2023,large-scale knowledge graphs,1
+2310.16368,2023,transformer-base live update generation,1
+2310.16368,2023,soccer matches,1
+2310.16368,2023,microblog posts,1
+2310.16813,2023,aggregation,1
+2310.16813,2023,evaluation,1
+2310.16813,2023,NBA mock draft,1
+2310.17058,2023,diseno y desarrollo de prototipos roboticos,1
+2310.17058,2023,competencias de futbol utilizando motores dynamixel,1
+2310.17193,2023,automatic edge error judgment,1
+2310.17193,2023,figure skating,1
+2310.17193,2023,3d pose estimation,1
+2310.17193,2023,monocular camera,1
+2310.17193,2023,IMU,1
+2310.17493,2023,hybrid graph network,1
+2310.17493,2023,complex activity detection,1
+2310.17493,2023,video,1
+2310.17949,2023,instance segmentation,1
+2310.17949,2023,occlusions,1
+2310.17949,2023,location-aware copy-paste data augmentation,1
+2310.18247,2023,guided data augmentation,1
+2310.18247,2023,offline reinforcement learning,1
+2310.18247,2023,imitation learning,1
+2310.19062,2023,multi-modal table tennis robot system,1
+2310.20355,2023,muscle volume quantification,1
+2310.20355,2023,guide transformer,1
+2310.20355,2023,anatomical prior,1
+2310.20602,2023,compliant actuator,1
+2310.20602,2023,highly biomimetic robotic arm,1
+2311.00401,2023,spatial-temporal transformer,1
+2311.00401,2023,human pose assessment,1
+2311.00401,2023,correction,1
+2311.00401,2023,education scenarios,1
+2311.00514,2023,information theoretic analysis,1
+2311.00514,2023,motor behavior,1
+2311.00514,2023,squash,1
+2311.00980,2023,MAAIG,1
+2311.00980,2023,motion analysis,1
+2311.00980,2023,instruction generation,1
+2311.02287,2023,ground reaction forces,1
+2311.02287,2023,inertial sensor,1
+2311.06295,2023,gradual optimization learning,1
+2311.06295,2023,conformational energy minimization,1
+2311.03490,2023,analytic,1
+2311.03490,2023,humility,1
+2311.03490,2023,statistical view,1
+2311.03745,2023,unsupervised video summarization,1
+2311.03745,2023,iterative training,1
+2311.03745,2023,simplify GAN,1
+2311.03793,2023,HaptStarter,1
+2311.03793,2023,designing haptic stimulus start system,1
+2311.03793,2023,deaf,1
+2311.03793,2023,hard,1
+2311.03793,2023,hearing sprinters,1
+2311.04599,2023,explainable artificial intelligence model,1
+2311.04599,2023,market value,1
+2311.04599,2023,professional soccer players,1
+2311.04726,2023,social motion prediction,1
+2311.04726,2023,cognitive hierarchies,1
+2311.05025,2023,unbiased kinetic langevin monte carlo,1
+2311.05025,2023,inexact gradients,1
+2311.05237,2023,widely applicable strong baseline,1
+2311.05237,2023,ball detection,1
+2311.05237,2023,tracking,1
+2311.05424,2023,ESPORT,1
+2311.05424,2023,electronic sports professionals observations,1
+2311.05424,2023,reflections,1
+2311.05424,2023,training,1
+2311.06311,2023,game theory solutions,1
+2311.06311,2023,sensor-base human activity recognition,1
+2311.06311,2023,review,1
+2311.05956,2023,subtle feature,1
+2311.05956,2023,content,1
+2311.05956,2023,structure,1
+2311.05956,2023,multimodal recommendation,1
+2311.06892,2023,long-shoot real-time player and ball detection,1
+2311.06892,2023,soccer videos,1
+2311.08007,2023,velocity disambiguation,1
+2311.08007,2023,video frame interpolation,1
+2311.08488,2023,MUDD,1
+2311.08488,2023,-identification dataset,1
+2311.08488,2023,efficient annotation,1
+2311.08488,2023,road racers,1
+2311.08488,2023,extreme conditions,1
+2311.10361,2023,video-base sequential bayesian homography estimation,1
+2311.10361,2023,soccer field registration,1
+2311.12300,2023,video-base infant action recognition,1
+2311.12300,2023,critical examination,1
+2311.12300,2023,state,1
+2311.12300,2023,art,1
+2311.12419,2023,board,2
+2311.12419,2023,moonboard grade prediction generalization,1
+2311.14642,2023,continuous football player,1
+2311.14642,2023,discrete broadcast datum,1
+2312.00805,2023,gender inference,1
+2312.00805,2023,common commercial tool,1
+2312.09466,2023,trajectory prediction,1
+2312.09466,2023,self-supervised waypoint noise prediction,1
+2311.15425,2023,machine-generate text detection,1
+2311.15425,2023,deep learning,1
+2311.15581,2023,real time GAZED,1
+2311.15581,2023,online shot selection,1
+2311.15581,2023,editing,1
+2311.15581,2023,virtual cameras,1
+2311.15581,2023,wide-angle monocular video recordings,1
+2311.16496,2023,domain,1
+2311.16496,2023,domain-specific prompts,1
+2311.16496,2023,multimodal misinformation detection,1
+2311.15648,2023,reinforcement learning,1
+2311.15648,2023,diffusion feedback,1
+2311.15648,2023,image search,1
+2311.16083,2023,BERT,1
+2311.16083,2023,topic,1
+2311.16083,2023,domain transfer challenge,1
+2311.16083,2023,genre classification,1
+2312.00188,2023,REACT,1
+2312.00188,2023,action,1
+2311.17351,2023,large language models,1
+2311.17351,2023,human mobility prediction,1
+2311.17351,2023,public event,1
+2312.01938,2023,DSText v2,1
+2312.01938,2023,comprehensive video text,1
+2312.01938,2023,dense and small text,1
+2311.18259,2023,ego,1
+2311.18259,2023,Exo4D,1
+2311.18259,2023,skilled human,1
+2311.18259,2023,first-,1
+2311.18259,2023,person perspective,1
+2312.01487,2023,BetterMinton service,1
+2312.01487,2023,badminton service,1
+2312.01487,2023,open kinetic chain,1
+2312.01687,2023,optimizing bus travel,1
+2312.01687,2023,feature mining,1
+2312.01687,2023,p-KMEANS,1
+2312.01687,2023,p-LDA,1
+2312.01687,2023,algorithm,1
+2312.01697,2023,hulk,1
+2312.01697,2023,universal knowledge translator,1
+2312.01697,2023,human-centric tasks,1
+2312.02576,2023,integrated system,1
+2312.02576,2023,spatio-temporal summarization,1
+2312.02576,2023,degree video,1
+2312.03785,2023,recommender systems,1
+2312.03785,2023,overview and research issues,1
+2312.03493,2023,radio source localization,1
+2312.03493,2023,sparse signal measurements,1
+2312.03493,2023,uncrewed ground vehicle,1
+2312.04338,2023,stochastic modelling,1
+2312.04338,2023,football match,1
+2312.04393,2023,PhysHOI,1
+2312.04393,2023,physics-base imitation,1
+2312.04393,2023,dynamic human-object interaction,1
+2312.04711,2023,luck,1
+2312.04711,2023,skill,1
+2312.04711,2023,depth,1
+2312.04711,2023,competition,1
+2312.04711,2023,game,1
+2312.04711,2023,social hierarchy,1
+2312.05178,2023,single-frame supervision,1
+2312.05178,2023,better temporal action localization,1
+2312.05783,2023,DCIR,1
+2312.05783,2023,dynamic consistency intrinsic reward,1
+2312.05783,2023,multi-agent reinforcement learning,1
+2312.06184,2023,advances,1
+2312.06184,2023,deterministic human motion prediction,1
+2312.06184,2023,review,1
+2312.06409,2023,LiCamPose,1
+2312.06409,2023,combining multi-view LiDAR,1
+2312.06409,2023,RGB cameras,1
+2312.06409,2023,robust single-timestamp 3d pose estimation,1
+2312.06736,2023,SqueezeSAM: user friendly mobile interactive segmentation,1
+2312.06575,2023,EasyVolcap,1
+2312.06575,2023,accelerate neural volumetric video research,1
+2312.06965,2023,enhanced human activity recognition,1
+2312.06965,2023,natural language generation,1
+2312.06965,2023,pose estimation,1
+2312.09723,2023,skiers,1
+2312.16179,2023,european football player valuation,1
+2312.16179,2023,integrating financial models,1
+2312.16179,2023,network theory,1
+2312.10942,2023,ShuttleSHAP,1
+2312.10942,2023,turn-base feature attribution approach,1
+2312.10942,2023,analyzing forecasting models,1
+2312.10942,2023,badminton,1
+2312.11067,2023,FightTracker,1
+2312.11067,2023,real-time predictive analytic,1
+2312.11067,2023,mixed martial arts bout,1
+2312.11340,2023,machine vision-enable sports performance analysis,1
+2312.11753,2023,describing poker,1
+2312.11753,2023,hand,1
+2312.11866,2023,adaptive tracking,1
+2312.11866,2023,quadrotor,1
+2312.11866,2023,dynamic scenarios,1
+2312.11929,2023,transformer network,1
+2312.11929,2023,multi-person tracking and re-identification,1
+2312.11929,2023,unconstrained environment,1
+2401.04112,2023,conversational swarm intelligence,1
+2401.04112,2023,networked groupwise deliberation,1
+2312.12921,2023,judgment,1
+2312.12921,2023,decision,1
+2312.12921,2023,making,1
+2312.12921,2023,tale,1
+2312.12921,2023,tails,1
+2312.14360,2023,skilled soccer team,1
+2312.14360,2023,RoboCup,1
+2312.14360,2023,skill-set-primitive,1
+2312.14360,2023,reinforcement learning,1
+2312.14586,2023,noise morphing,1
+2312.14586,2023,audio time stretching,1
+2312.15236,2023,goal,1
+2312.15236,2023,kicker shooting action,1
+2312.16023,2023,DocMSU,1
+2312.16023,2023,comprehensive benchmark,1
+2312.16023,2023,document-level multimodal sarcasm understanding,1
+2312.16273,2023,coordination,1
+2312.16273,2023,machine learning,1
+2312.16273,2023,multi-robot systems,1
+2312.16273,2023,robotic soccer,1
+2401.00080,2023,large-scale re-identification analysis,1
+2401.00080,2023,sporting scenarios,1
+2401.00080,2023,betrayal,1
+2401.00080,2023,critical point,1
 2401.01505,2024,large-scale video question answering benchmark,1
-2401.01505,2024,complex and professional sports,1
+2401.01505,2024,complex and professional,1
 2401.02630,2024,model-agnostic interpretation framework,1
 2401.02630,2024,machine learning,1
 2401.02630,2024,comparative study,1
-2401.02630,2024,NBA sports,1
+2401.02630,2024,NBA,1
 2401.03134,2024,TimeGraphs,1
 2401.03134,2024,graph-base temporal reasoning,1
 2401.03406,2024,dribbling,1
@@ -33,7 +2721,7 @@ paper_id,year,keyword,count
 2401.06086,2024,dynamic wager placement,1
 2401.06086,2024,play,1
 2401.06086,2024,agent-base model,1
-2401.06086,2024,sports betting exchange,1
+2401.06086,2024,betting exchange,1
 2401.06336,2024,TRACE,1
 2401.06336,2024,relational approximate cubing engine,1
 2401.06336,2024,fast data insight,1
@@ -57,14 +2745,13 @@ paper_id,year,keyword,count
 2401.09942,2024,joint,1
 2401.09942,2024,identification,1
 2401.09942,2024,team affiliation,1
-2401.09942,2024,sports,1
 2401.10124,2024,low ricci curvature,1
 2401.10124,2024,efficient community detection,1
 2401.12419,2024,multi-modal news understanding,1
 2401.12419,2024,professionally label videos,1
 2401.12419,2024,ReutersViLNews,1
 2401.13045,2024,assessment,1
-2401.13045,2024,sports concussion,1
+2401.13045,2024,concussion,1
 2401.13045,2024,female athletes,1
 2401.13045,2024,role,1
 2401.13045,2024,neuroinformatic,1
@@ -114,7 +2801,6 @@ paper_id,year,keyword,count
 2402.00163,2024,object detection quality,1
 2402.00163,2024,football,1
 2402.00163,2024,super-resolution technique,1
-2402.15514,2024,sports,1
 2402.15514,2024,music,1
 2402.00612,2024,rhoban football club,1
 2402.00612,2024,RoboCup humanoid kid-size 2023 champion team paper,1
@@ -154,12 +2840,11 @@ paper_id,year,keyword,count
 2403.12977,2024,realistic multi-player sports gameplay,1
 2402.07004,2024,min-max transformation,1
 2402.07004,2024,measurement,1
-2402.07004,2024,sport performance,1
 2402.07004,2024,PIR,1
 2402.08742,2024,hidden energy anomaly,1
 2402.08742,2024,deep learning,1
 2402.08742,2024,optimize energy management,1
-2402.08742,2024,sports facilities,1
+2402.08742,2024,facilities,1
 2402.09650,2024,foul prediction,1
 2402.09650,2024,estimate pose,1
 2402.09650,2024,soccer broadcast video,1
@@ -177,7 +2862,7 @@ paper_id,year,keyword,count
 2402.12149,2024,machine learning fusion model,1
 2402.12149,2024,empirical formula,1
 2402.12149,2024,momentum,1
-2402.12149,2024,competitive sports,1
+2402.12149,2024,competitive,1
 2402.12790,2024,movement,1
 2402.12790,2024,metric,1
 2402.12790,2024,explainable AI methods,1
@@ -195,14 +2880,14 @@ paper_id,year,keyword,count
 2402.14194,2024,behavior transformer adversarial imitation learning,1
 2402.14194,2024,human racing gameplay,1
 2402.15862,2024,SportQA: a benchmark,1
-2402.15862,2024,sports understanding,1
+2402.15862,2024,understanding,1
 2402.15862,2024,LLM,1
 2402.15923,2024,outcomes,1
 2402.15923,2024,video games,1
 2402.15923,2024,long short term memory networks,1
 2402.15952,2024,ViSTec,1
 2402.15952,2024,video modeling,1
-2402.15952,2024,sports technique recognition,1
+2402.15952,2024,technique recognition,1
 2402.15952,2024,tactical analysis,1
 2402.17730,2024,markovletic,1
 2402.17730,2024,learning continuous-time markov chain mixtures,1
@@ -260,7 +2945,7 @@ paper_id,year,keyword,count
 2403.11572,2024,augment,1
 2403.11572,2024,copy-paste,1
 2403.11572,2024,data and memory efficiency-orient instance segmentation framework,1
-2403.11572,2024,sport-scene,1
+2403.11572,2024,scene,1
 2403.11576,2024,MISS,1
 2403.11576,2024,memory-efficient instance segmentation framework,1
 2403.11576,2024,visual inductive priors flow propagation,1
@@ -335,7 +3020,7 @@ paper_id,year,keyword,count
 2404.04213,2024,univariate and bivariate approach,1
 2404.04565,2024,SportsHHI,1
 2404.04565,2024,human-human interaction detection,1
-2404.04565,2024,sports video,1
+2404.04565,2024,video,1
 2404.06332,2024,VARS,1
 2404.06332,2024,explainability,1
 2404.06332,2024,football refereeing,1
@@ -346,7 +3031,7 @@ paper_id,year,keyword,count
 2404.05392,2024,t-DEED,1
 2404.05392,2024,temporal-discriminability enhancer encoder-decoder,1
 2404.05392,2024,precise event,1
-2404.05392,2024,sports video,1
+2404.05392,2024,video,1
 2404.05582,2024,prehensile dexterity,1
 2404.05582,2024,imitating,1
 2404.05582,2024,emulating,1
@@ -358,7 +3043,7 @@ paper_id,year,keyword,count
 2404.06626,2024,soccer,1
 2404.06626,2024,underdog achievement,1
 2404.06626,2024,randomness,1
-2404.06626,2024,team ball sport,1
+2404.06626,2024,team ball,1
 2404.06827,2024,impact,1
 2404.06827,2024,extensions,1
 2404.06827,2024,browser performance,1
@@ -372,13 +3057,12 @@ paper_id,year,keyword,count
 2404.08246,2024,agile and versatile bipedal robot tracking control,1
 2404.08246,2024,reinforcement learning,1
 2404.08401,2024,PnLCalib,1
-2404.08401,2024,sports field registration,1
+2404.08401,2024,field registration,1
 2404.08401,2024,points and lines optimization,1
 2404.08504,2024,3d human scan,1
 2404.08504,2024,moving event camera,1
 2404.09807,2024,universal protocol,1
 2404.09807,2024,benchmark camera calibration,1
-2404.09807,2024,sport,1
 2404.09870,2024,table tennis ball spin estimation,1
 2404.09870,2024,event camera,1
 2404.09951,2024,local scene entities modelling,1
@@ -419,7 +3103,6 @@ paper_id,year,keyword,count
 2405.00574,2024,emotion analysis,1
 2405.00574,2024,long-sequential and de-identity video,1
 2405.00574,2024,multi-modal LLM,1
-2405.01112,2024,sports analysis,1
 2405.01112,2024,VR viewing system,1
 2405.01112,2024,player tracking and pose estimation,1
 2405.01112,2024,multimodal and multiview sensor,1
@@ -481,7 +3164,7 @@ paper_id,year,keyword,count
 2405.19349,2024,inter-frame attention,1
 2405.13896,2024,general framework,1
 2405.13896,2024,jersey number recognition,1
-2405.13896,2024,sports video,1
+2405.13896,2024,video,1
 2405.13995,2024,world event,1
 2405.13995,2024,e-commerce consumer demand,1
 2405.13995,2024,anomaly,1
@@ -489,7 +3172,7 @@ paper_id,year,keyword,count
 2405.13999,2024,motion amount quantification,1
 2405.14146,2024,hyperspectral image dataset,1
 2405.14146,2024,individual penguin identification,1
-2405.17467,2024,sport center customer segmentation,1
+2405.17467,2024,center customer segmentation,1
 2405.17467,2024,case study,1
 2405.16296,2024,neural network-base tracking,1
 2405.16296,2024,3d reconstruction,1
@@ -498,9 +3181,8 @@ paper_id,year,keyword,count
 2405.17214,2024,season,1
 2405.17214,2024,trajectory,1
 2405.17214,2024,elite athletic performance datum,1
-2405.17680,2024,sports-traj: a unified trajectory generation model,1
+2405.17680,2024,traj: a unified trajectory generation model,1
 2405.17680,2024,multi-agent movement,1
-2405.17680,2024,sports,1
 2405.18110,2024,individual contributions,1
 2405.18110,2024,intrinsic exploration scaffolds,1
 2405.18110,2024,multi-agent reinforcement learning,1
@@ -517,7 +3199,7 @@ paper_id,year,keyword,count
 2405.20743,2024,low-rank adaptation,1
 2405.20743,2024,discrete latent codes,1
 2407.13109,2024,spatio-temporal graph analytics,1
-2407.13109,2024,field sport,1
+2407.13109,2024,field,1
 2406.00154,2024,ranking scheme,1
 2406.00154,2024,performance analysis,1
 2406.00154,2024,stochastic optimization algorithms,1
@@ -543,7 +3225,6 @@ paper_id,year,keyword,count
 2406.03857,2024,multimodal joint feature space learning,1
 2406.03857,2024,human activity recognition,1
 2407.11990,2024,digital twin,1
-2407.11990,2024,sport,1
 2407.11990,2024,concepts,1
 2407.11990,2024,taxonomies,1
 2407.11990,2024,challenges,1
@@ -604,16 +3285,14 @@ paper_id,year,keyword,count
 2406.11678,2024,documents,1
 2406.11678,2024,tournament-inspire strategy,1
 2406.12081,2024,deep HM-SORT: enhance multi-object tracking,1
-2406.12081,2024,sports,1
 2406.12081,2024,deep features,1
 2406.12081,2024,harmonic mean,1
 2406.12081,2024,expansion IOU,1
 2406.12084,2024,reasoning,1
 2406.12084,2024,information aggregation,1
-2406.12084,2024,sports narratives,1
+2406.12084,2024,narratives,1
 2406.12252,2024,language,1
 2406.12252,2024,multimodal models,1
-2406.12252,2024,sports,1
 2406.12252,2024,survey,1
 2406.12252,2024,datasets,1
 2406.12762,2024,unsupervised explainable activity prediction,1
@@ -621,8 +3300,8 @@ paper_id,year,keyword,count
 2406.12762,2024,experimental datum,1
 2406.13987,2024,image anomaly detection and prediction scheme,1
 2406.13987,2024,SSA,1
-2406.14877,2024,sport intelligence,1
-2406.14877,2024,sports understanding capabilities,1
+2406.14877,2024,intelligence,1
+2406.14877,2024,understanding capabilities,1
 2406.14877,2024,language models,1
 2406.14877,2024,text,1
 2406.14877,2024,video,1
@@ -678,7 +3357,7 @@ paper_id,year,keyword,count
 2406.19852,2024,motion,1
 2406.19852,2024,soccer,1
 2407.00187,2024,SMPLOlympics,1
-2407.00187,2024,sports environments,1
+2407.00187,2024,environments,1
 2407.00187,2024,physically simulated humanoids,1
 2407.07116,2024,research,1
 2407.07116,2024,dynamic analysis,1
@@ -692,7 +3371,7 @@ paper_id,year,keyword,count
 2407.01265,2024,OSL-ActionSpotting,1
 2407.01265,2024,unified library,1
 2407.01265,2024,action spotting,1
-2407.01265,2024,sports video,1
+2407.01265,2024,video,1
 2407.01361,2024,literature,1
 2407.01361,2024,review,1
 2407.01361,2024,robotic cloth manipulation,1
@@ -706,7 +3385,6 @@ paper_id,year,keyword,count
 2407.01916,2024,algorithm,1
 2407.02370,2024,event-base cameras,1
 2407.02370,2024,video frame interpolation,1
-2407.02370,2024,sport,1
 2407.03041,2024,position,1
 2407.03041,2024,altitude,1
 2407.03041,2024,nao camera head,1
@@ -849,7 +3527,7 @@ paper_id,year,keyword,count
 2408.04013,2024,metaverse campus,1
 2408.05123,2024,embedded visualizations,1
 2408.05123,2024,personified narratives,1
-2408.05123,2024,sports video,1
+2408.05123,2024,video,1
 2408.05192,2024,style,1
 2408.05192,2024,substance,1
 2408.05192,2024,cross-genre authorship attribution,1
@@ -889,12 +3567,12 @@ paper_id,year,keyword,count
 2408.10191,2024,graph-base approach,1
 2408.10191,2024,human activity recognition,1
 2408.10878,2024,trajectory imputation,1
-2408.10878,2024,multi-agent sports,1
+2408.10878,2024,multi-agent,1
 2408.10878,2024,derivative-accumulate self-ensemble,1
 2408.14305,2024,collaborative XRTactics,1
 2408.14305,2024,formative study,1
 2408.14305,2024,tactical communication,1
-2408.14305,2024,outdoor team sports,1
+2408.14305,2024,outdoor team,1
 2408.15406,2024,intertwined biases,1
 2408.15406,2024,social medium spheres,1
 2408.15406,2024,correlations,1
@@ -903,12 +3581,12 @@ paper_id,year,keyword,count
 2408.16638,2024,figure skating,1
 2408.16638,2024,fine-grained and jump procedure-aware annotation approach,1
 2409.00286,2024,OnlySportsLM,1
-2409.00286,2024,sports-domain language models,1
+2409.00286,2024,domain language models,1
 2409.00286,2024,SOTA performance,1
 2409.00286,2024,parameter,1
 2409.00629,2024,impact,1
 2409.00629,2024,upselling,1
-2409.00629,2024,online fantasy sports,1
+2409.00629,2024,online fantasy,1
 2409.01448,2024,FinePseudo,1
 2409.01448,2024,pseudo-labelling,1
 2409.01448,2024,temporal-alignablity,1
@@ -916,7 +3594,6 @@ paper_id,year,keyword,count
 2409.12970,2024,quality,1
 2409.12970,2024,mobile apps,1
 2409.12970,2024,psychological skills training,1
-2409.12970,2024,sport,1
 2409.12970,2024,MARS-base study,1
 2409.14588,2024,space evaluation,1
 2409.14588,2024,pitch control,1
@@ -930,7 +3607,7 @@ paper_id,year,keyword,count
 2409.01947,2024,robotic and human movement,1
 2409.01947,2024,varied environmental condition,1
 2409.02872,2024,momentum dynamics,1
-2409.02872,2024,competitive sports,1
+2409.02872,2024,competitive,1
 2409.02872,2024,multi-model analysis,1
 2409.02872,2024,TOPSIS,1
 2409.02872,2024,logistic regression,1
@@ -985,7 +3662,6 @@ paper_id,year,keyword,count
 2409.07695,2024,swimming,1
 2409.08172,2024,bayesian framework,1
 2409.08172,2024,allege cheating,1
-2409.08172,2024,sport,1
 2409.08172,2024,hide code,1
 2409.08172,2024,bridge,1
 2409.08172,2024,baseball,1
@@ -1003,14 +3679,14 @@ paper_id,year,keyword,count
 2409.11760,2024,table tennis,1
 2409.11760,2024,real-time classification pipeline,1
 2409.12107,2024,GOAT,1
-2409.12107,2024,sports rankings,1
+2409.12107,2024,rankings,1
 2409.12107,2024,data-drive random walks,1
 2409.12107,2024,symmetric group,1
 2409.13098,2024,soccer match,1
 2409.13098,2024,complex network,1
 2409.13098,2024,machine learning,1
 2409.13443,2024,sportoonizer,1
-2409.13443,2024,sports highlights' narration and visual impact,1
+2409.13443,2024,highlights' narration and visual impact,1
 2409.13443,2024,automatic manga b-roll generation,1
 2409.13859,2024,PanoCoach,1
 2409.13859,2024,tactical coaching,1
@@ -1036,7 +3712,6 @@ paper_id,year,keyword,count
 2409.17077,2024,gaming,1
 2409.17129,2024,bayesian bivariate conway-maxwell-poisson regression model,1
 2409.17129,2024,correlated count data,1
-2409.17129,2024,sport,1
 2409.17580,2024,structured-data retrieval,1
 2409.17580,2024,GraphRAG,1
 2409.17580,2024,soccer data case study,1
@@ -1104,7 +3779,7 @@ paper_id,year,keyword,count
 2410.05774,2024,VideoQA benchmark,1
 2410.05774,2024,domain-specialized action recognition,1
 2410.05776,2024,viscoelasticity estimation,1
-2410.05776,2024,sports prosthesis,1
+2410.05776,2024,prosthesis,1
 2410.05776,2024,energy-minimize inverse kinematics,1
 2410.05776,2024,validation,1
 2410.05776,2024,forward dynamics,1
@@ -1168,10 +3843,10 @@ paper_id,year,keyword,count
 2410.17619,2024,PDF,1
 2410.17619,2024,structured data,1
 2410.17619,2024,LLM analysis,1
-2410.17619,2024,sports database management,1
+2410.17619,2024,database management,1
 2410.17785,2024,TranSPORTmer: a holistic approach,1
 2410.17785,2024,trajectory understanding,1
-2410.17785,2024,multi-agent sports,1
+2410.17785,2024,multi-agent,1
 2410.18520,2024,unsupervised semantic segmentation,1
 2410.18520,2024,urban high-density multispectral point cloud,1
 2410.19948,2024,societal influence,1
@@ -1191,7 +3866,7 @@ paper_id,year,keyword,count
 2410.21108,2024,multi-modal group activity recognition,1
 2410.21484,2024,systematic review,1
 2410.21484,2024,machine learning,1
-2410.21484,2024,sports betting,1
+2410.21484,2024,betting,1
 2410.21484,2024,techniques,1
 2410.21484,2024,challenges,1
 2410.21484,2024,future directions,1
@@ -1218,7 +3893,7 @@ paper_id,year,keyword,count
 2411.10465,2024,MICA,1
 2411.10465,2024,medical intelligent conversational AgentHow,1
 2411.10465,2024,medical teleconsultation,1
-2411.10465,2024,sport patient,1
+2411.10465,2024,patient,1
 2411.10465,2024,conversational agent,1
 2411.02000,2024,shooting performance,1
 2411.02000,2024,professional biathlon,1
@@ -1244,12 +3919,12 @@ paper_id,year,keyword,count
 2411.05098,2024,contact detection system,1
 2411.05098,2024,micro,1
 2411.05098,2024,phone,1
-2411.05098,2024,chambara-base augmented sports,1
+2411.05098,2024,chambara-base augmented,1
 2411.05135,2024,vibrotactile belt,1
 2411.05135,2024,interpersonal synchronization,1
 2411.05135,2024,breath,1
 2411.05734,2024,poze,1
-2411.05734,2024,sports technique feedback,1
+2411.05734,2024,technique feedback,1
 2411.05734,2024,data constraints,1
 2411.05784,2024,safe reinforcement learning,1
 2411.05784,2024,robot trajectories,1
@@ -1265,7 +3940,6 @@ paper_id,year,keyword,count
 2411.08216,2024,GTA,1
 2411.08216,2024,global tracklet association,1
 2411.08216,2024,multi-object tracking,1
-2411.08216,2024,sport,1
 2411.09085,2024,predictive modeling,1
 2411.09085,2024,low-level english club soccer,1
 2411.09085,2024,crowd-sourced player valuation,1
@@ -1367,7 +4041,7 @@ paper_id,year,keyword,count
 2412.09417,2024,robot,1
 2412.09417,2024,soccer,1
 2412.10298,2024,broadcast,1
-2412.10298,2024,sports viewership,1
+2412.10298,2024,viewership,1
 2412.10298,2024,social media engagement,1
 2412.11149,2024,comprehensive survey,1
 2412.11149,2024,action quality assessment,1
@@ -1392,12 +4066,12 @@ paper_id,year,keyword,count
 2412.15877,2024,markov games,1
 2412.16454,2024,FACTS,1
 2412.16454,2024,fine-grained action classification,1
-2412.16454,2024,tactical sports,1
+2412.16454,2024,tactical,1
 2412.16892,2024,interaction design toolkit,1
 2412.16892,2024,physical task guidance,1
 2412.16892,2024,artificial intelligence and mixed reality,1
 2412.17637,2024,SCBench,1
-2412.17637,2024,sports commentary benchmark,1
+2412.17637,2024,commentary benchmark,1
 2412.17637,2024,video LLM,1
 2412.18204,2024,box dataset,1
 2412.18204,2024,multi-label action classification,1
@@ -1454,7 +4128,7 @@ paper_id,year,keyword,count
 2501.10299,2025,optimal transport,1
 2501.10299,2025,distance,1
 2501.10299,2025,style,1
-2501.10299,2025,collective sport,1
+2501.10299,2025,collective,1
 2501.18606,2025,temporal dynamic,1
 2501.18606,2025,goal scoring,1
 2501.18606,2025,soccer,1
@@ -1476,7 +4150,7 @@ paper_id,year,keyword,count
 2501.16078,2025,LLM quality assurance,1
 2501.16078,2025,NLG system,1
 2501.16100,2025,automated detection,1
-2501.16100,2025,sport highlights,1
+2501.16100,2025,highlights,1
 2501.16100,2025,audio and video source,1
 2503.15509,2025,datum,1
 2503.15509,2025,word,1
@@ -1525,7 +4199,7 @@ paper_id,year,keyword,count
 2505.15820,2025,soccer,1
 2502.04085,2025,accurate estimate,1
 2502.04085,2025,ultimate 100-meter records,1
-2502.04218,2025,sport and women's sports: gender bias,1
+2502.04218,2025,women's sports: gender bias,1
 2502.04218,2025,text generation,1
 2502.04218,2025,olympic data,1
 2502.04483,2025,physical plausibility,1
@@ -1540,7 +4214,6 @@ paper_id,year,keyword,count
 2502.05548,2025,soccer goalkeeper performance evaluation,1
 2502.05548,2025,clustering approach,1
 2502.07491,2025,patterns,1
-2502.07491,2025,sports,1
 2502.07528,2025,future development,1
 2502.07528,2025,quality,1
 2502.07528,2025,value,1
@@ -1642,10 +4315,9 @@ paper_id,year,keyword,count
 2502.18867,2025,rapid motion,1
 2502.18867,2025,SkiTB visual tracking challenge,1
 2503.05785,2025,artificial intelligence,1
-2503.05785,2025,sports,1
 2503.05785,2025,insight,1
 2503.05785,2025,quantitative survey,1
-2503.05785,2025,sports students,1
+2503.05785,2025,students,1
 2503.05785,2025,germany,1
 2503.05785,2025,perceptions,1
 2503.05785,2025,expectation,1
@@ -1655,7 +4327,7 @@ paper_id,year,keyword,count
 2502.21085,2025,BST,1
 2502.21085,2025,badminton stroke-type transformer,1
 2502.21085,2025,skeleton-base action recognition,1
-2502.21085,2025,racket sports,1
+2502.21085,2025,racket,1
 2503.01907,2025,technical report,1
 2503.01907,2025,ReID-SAM,1
 2503.01907,2025,SkiTB visual tracking challenge,1
@@ -1663,7 +4335,7 @@ paper_id,year,keyword,count
 2502.21242,2025,graph hierarchy,1
 2502.21242,2025,domain-specific feature,1
 2503.00147,2025,precise event,1
-2503.00147,2025,sports video,1
+2503.00147,2025,video,1
 2503.00147,2025,long-range dependency,1
 2503.00147,2025,class imbalance,1
 2503.00458,2025,machine learning,1
@@ -1683,10 +4355,9 @@ paper_id,year,keyword,count
 2503.03717,2025,limitations,1
 2503.03717,2025,walking,1
 2503.03717,2025,running,1
-2503.03717,2025,sports movement,1
+2503.03717,2025,movement,1
 2503.04470,2025,gate-shift-pose,1
 2503.04470,2025,enhance action recognition,1
-2503.04470,2025,sports,1
 2503.04470,2025,skeleton information,1
 2503.05092,2025,multi-robot collaboration,1
 2503.05092,2025,reinforcement learning,1
@@ -1837,7 +4508,7 @@ paper_id,year,keyword,count
 2503.20936,2025,monocular videos,1
 2503.21067,2025,AskSport,1
 2503.21067,2025,web application,1
-2503.21067,2025,sports question-answering,1
+2503.21067,2025,question-answering,1
 2503.22757,2025,strategy,1
 2503.22757,2025,decentralised UAV-base collision,1
 2503.22757,2025,rugby,1
@@ -1856,7 +4527,7 @@ paper_id,year,keyword,count
 2504.08764,2025,text,1
 2504.08764,2025,medicine,1
 2504.08764,2025,health,1
-2504.08764,2025,sport injury,1
+2504.08764,2025,injury,1
 2503.23911,2025,FineCausal,1
 2503.23911,2025,causal-base framework,1
 2503.23911,2025,interpretable fine-grained action quality assessment,1
@@ -1866,7 +4537,7 @@ paper_id,year,keyword,count
 2504.00767,2025,word,1
 2504.01190,2025,video quality assessment,1
 2504.01190,2025,resolution cross,1
-2504.01190,2025,live sport,1
+2504.01190,2025,live,1
 2504.02184,2025,model predictive control,1
 2504.02184,2025,visibility graphs,1
 2504.02184,2025,humanoid path planning,1
@@ -1877,7 +4548,6 @@ paper_id,year,keyword,count
 2504.06313,2025,people,1
 2504.06313,2025,nationalities engaging,1
 2504.06163,2025,action valuation,1
-2504.06163,2025,sports,1
 2504.06163,2025,survey,1
 2504.06357,2025,broadcast,1
 2504.06357,2025,minimap,1
@@ -1892,11 +4562,11 @@ paper_id,year,keyword,count
 2504.07291,2025,loss functional analysis,1
 2504.20052,2025,geometry,1
 2504.20052,2025,central view,1
-2504.20052,2025,sports field registration,1
+2504.20052,2025,field registration,1
 2504.08110,2025,unconstrained 2d pose estimation,1
 2504.08110,2025,human spine,1
 2504.08175,2025,multi-person physics-base pose estimation,1
-2504.08175,2025,combat sports,1
+2504.08175,2025,combat,1
 2504.08222,2025,f set,1
 2504.08222,2025,"fast, frequent, and fine-grain event",1
 2504.08222,2025,video,1
@@ -1912,7 +4582,7 @@ paper_id,year,keyword,count
 2504.10035,2025,TT3D,1
 2504.10035,2025,table tennis 3d reconstruction,1
 2504.10106,2025,SoccerNet-v3d,1
-2504.10106,2025,sports broadcast replays,1
+2504.10106,2025,broadcast replays,1
 2504.10106,2025,3d scene understanding,1
 2504.10486,2025,DNF-avatar,1
 2504.10486,2025,distilling neural fields,1
@@ -2004,7 +4674,7 @@ paper_id,year,keyword,count
 2505.03735,2025,multi-agent system,1
 2505.03735,2025,comprehensive soccer understanding,1
 2505.03991,2025,deep learning,1
-2505.03991,2025,sports video event detection,1
+2505.03991,2025,video event detection,1
 2505.04317,2025,mastering multi-drone volleyball,1
 2505.04317,2025,hierarchical co,1
 2505.04317,2025,self-play reinforcement learning,1
@@ -2039,7 +4709,7 @@ paper_id,year,keyword,count
 2505.11326,2025,temporally-ground language generation,1
 2505.11326,2025,real-time VLM,1
 2505.11841,2025,causal questions,1
-2505.11841,2025,sports analytics,1
+2505.11841,2025,analytics,1
 2505.11841,2025,tutorial,1
 2505.11841,2025,estimand choice,1
 2505.11841,2025,crossing,1
@@ -2054,7 +4724,7 @@ paper_id,year,keyword,count
 2505.12679,2025,dribble master,1
 2505.12679,2025,legged locomotion,1
 2505.12854,2025,hold usage detection,1
-2505.12854,2025,sport climbing,1
+2505.12854,2025,climbing,1
 2505.13106,2025,tournament,1
 2505.13106,2025,case,1
 2505.13106,2025,FIFA world cup,1
@@ -2126,7 +4796,6 @@ paper_id,year,keyword,count
 2506.03198,2025,fitness action quality assessment,1
 2506.01373,2025,train yet gain,1
 2506.01373,2025,generic multi-object tracking,1
-2506.01373,2025,sports,1
 2506.01466,2025,scalable video anomaly retrieval,1
 2506.01466,2025,synthetic video-text benchmark,1
 2506.01910,2025,GLoSS,1
@@ -2150,7 +4819,7 @@ paper_id,year,keyword,count
 2506.03335,2025,SportMamba,1
 2506.03335,2025,adaptive non-linear multi-object tracking,1
 2506.03335,2025,state space models,1
-2506.03335,2025,team sports,1
+2506.03335,2025,team,1
 2506.05397,2025,Gen4D,1
 2506.05397,2025,humans,1
 2506.05397,2025,scenes,1
@@ -2243,13 +4912,13 @@ paper_id,year,keyword,count
 2506.17144,2025,soccer actions,1
 2506.17505,2025,golf swing signature,1
 2506.17505,2025,single wrist-wear inertial sensor,1
-2507.02904,2025,sports strategy,1
+2507.02904,2025,strategy,1
 2507.02904,2025,video analytics,1
 2507.02904,2025,data mining,1
 2507.02904,2025,effectiveness,1
 2507.02904,2025,multimodal LLM,1
 2507.02904,2025,tennis video analysis,1
-2507.02906,2025,sports strategy,1
+2507.02906,2025,strategy,1
 2507.02906,2025,video analytics,1
 2507.02906,2025,data mining,1
 2507.02906,2025,automated video-base analytics framework,1
@@ -2317,7 +4986,7 @@ paper_id,year,keyword,count
 2507.06790,2025,dota,1
 2507.07381,2025,multi-focus temporal shifting,1
 2507.07381,2025,precise event,1
-2507.07381,2025,sports video,1
+2507.07381,2025,video,1
 2507.07734,2025,EEvAct,1
 2507.07734,2025,early event-base action recognition,1
 2507.07734,2025,high-rate two-stream spiking neural networks,1
@@ -2370,7 +5039,7 @@ paper_id,year,keyword,count
 2507.14368,2025,DUSTrack,1
 2507.14368,2025,ultrasound video,1
 2507.14657,2025,AI-enhance precision,1
-2507.14657,2025,sport taekwondo,1
+2507.14657,2025,taekwondo,1
 2507.14657,2025,increasing fairness,1
 2507.14657,2025,speed,1
 2507.14657,2025,trust,1
@@ -2388,7 +5057,7 @@ paper_id,year,keyword,count
 2507.16542,2025,real and virtual spaces,1
 2507.16542,2025,immersion,1
 2507.16542,2025,exhibition hybrid spaces,1
-2507.17844,2025,sports video understanding model,1
+2507.17844,2025,video understanding model,1
 2507.17844,2025,action recognition,1
 2507.19469,2025,efficient lines detection,1
 2507.19469,2025,robot soccer,1
@@ -2452,7 +5121,7 @@ paper_id,year,keyword,count
 2508.07554,2025,multi-level dataset,1
 2508.07554,2025,fine-grained badminton video understanding,1
 2508.14065,2025,personalized contest recommendation,1
-2508.14065,2025,fantasy sports,1
+2508.14065,2025,fantasy,1
 2508.08179,2025,PP-motion,1
 2508.08179,2025,physical-perceptual fidelity evaluation,1
 2508.08179,2025,human motion generation,1
@@ -2460,7 +5129,7 @@ paper_id,year,keyword,count
 2508.08242,2025,experimental study,1
 2508.09650,2025,TOTNet: occlusion-aware temporal tracking,1
 2508.09650,2025,robust ball detection,1
-2508.09650,2025,sports video,1
+2508.09650,2025,video,1
 2508.09810,2025,feature impact analysis,1
 2508.09810,2025,long-jump performances,1
 2508.09810,2025,quantile random forest,1
@@ -2474,7 +5143,7 @@ paper_id,year,keyword,count
 2508.10729,2025,cross-domain egocentric video question answering,1
 2508.11569,2025,TrajSV,1
 2508.11569,2025,trajectory-base model,1
-2508.11569,2025,sports video representations,1
+2508.11569,2025,video representations,1
 2508.12473,2025,standardization,1
 2508.12473,2025,neuromuscular reflex analysis,1
 2508.12473,2025,role,1
@@ -2602,7 +5271,7 @@ paper_id,year,keyword,count
 2509.10729,2025,recognition,1
 2509.11362,2025,multimodal datasets,1
 2509.11362,2025,LLM-inferred behavior traits,1
-2509.11698,2025,sport elements,1
+2509.11698,2025,elements,1
 2509.11698,2025,reference-base coaching instruction generation model,1
 2509.11796,2025,FineQuest,1
 2509.11796,2025,adaptive knowledge-assisted sports video understanding,1
@@ -2638,7 +5307,6 @@ paper_id,year,keyword,count
 2509.16095,2025,AdaSports-traj,1
 2509.16095,2025,role- and domain-aware adaptation,1
 2509.16095,2025,multi-agent trajectory modeling,1
-2509.16095,2025,sport,1
 2509.18387,2025,BlurBall,1
 2509.18387,2025,joint ball,1
 2509.18387,2025,motion blur estimation,1
@@ -2660,9 +5328,7 @@ paper_id,year,keyword,count
 2510.01247,2025,large multilingual,1
 2510.01247,2025,multicultural benchmark,1
 2510.01247,2025,assessing language models' understanding,1
-2510.01247,2025,sports,1
 2509.20083,2025,player evaluation,1
-2509.20083,2025,sport,1
 2509.20083,2025,expectation,1
 2509.20168,2025,gender bias,1
 2509.20168,2025,multilingual LLM,1
@@ -2719,7 +5385,7 @@ paper_id,year,keyword,count
 2509.24250,2025,modeling collaborative physical activities,1
 2509.24250,2025,narrated demonstration,1
 2509.24606,2025,biomechanical-phase base temporal segmentation,1
-2509.24606,2025,sports video,1
+2509.24606,2025,video,1
 2509.24606,2025,demonstration,1
 2509.24606,2025,javelin-throw,1
 2509.24640,2025,human curated benchmark,1
@@ -2783,7 +5449,7 @@ paper_id,year,keyword,count
 2510.04739,2025,ExposureEngine,1
 2510.04739,2025,orient logo detection,1
 2510.04739,2025,sponsor visibility analytics,1
-2510.04739,2025,sports broadcast,1
+2510.04739,2025,broadcast,1
 2510.06842,2025,continual action quality assessment,1
 2510.06842,2025,adaptive manifold-align graph regularization,1
 2510.07297,2025,agentic generative AI,1
@@ -2801,7 +5467,7 @@ paper_id,year,keyword,count
 2510.15983,2025,BFO-base approach,1
 2510.15983,2025,knowledge graph construction,1
 2510.15983,2025,motor performance research data,1
-2510.15983,2025,sports science,1
+2510.15983,2025,science,1
 2510.11552,2025,robot soccer kit,1
 2510.11552,2025,omniwheel tracked soccer robots,1
 2510.11552,2025,education,1
@@ -2817,7 +5483,6 @@ paper_id,year,keyword,count
 2510.14617,2025,tactical understanding,1
 2510.14723,2025,bayesian ranking,1
 2510.14723,2025,olympic medal table,1
-2510.15487,2025,sport,1
 2510.15487,2025,BERTopic,1
 2510.15487,2025,past,1
 2510.15487,2025,future,1
@@ -2833,7 +5498,7 @@ paper_id,year,keyword,count
 2510.17722,2025,multi-turn dialogue,1
 2510.18173,2025,LLM,1
 2510.18173,2025,tabular summarization,1
-2510.18173,2025,sports narratives,1
+2510.18173,2025,narratives,1
 2510.18193,2025,explainable AI ecosystem,1
 2510.18193,2025,fair,1
 2510.18193,2025,inclusive decision-making,1
@@ -2923,7 +5588,6 @@ paper_id,year,keyword,count
 2511.06191,2025,spatial control,1
 2511.06191,2025,soccer,1
 2511.06499,2025,multimodal LLM reasoning,1
-2511.06499,2025,sport,1
 2511.11644,2025,slow - motion video synthesis,1
 2511.11644,2025,basketball,1
 2511.11644,2025,frame interpolation,1
@@ -2997,7 +5661,7 @@ paper_id,year,keyword,count
 2511.17045,2025,unified ball,1
 2511.17045,2025,racket analysis,1
 2511.18248,2025,coherent multi-agent trajectory forecasting,1
-2511.18248,2025,team sports,1
+2511.18248,2025,team,1
 2511.18248,2025,CausalTraj,1
 2511.18618,2025,unified BERT-CNN-BiLSTM framework,1
 2511.18618,2025,simultaneous headline classification,1
@@ -3051,7 +5715,7 @@ paper_id,year,keyword,count
 2512.01853,2025,collaborative agents,1
 2512.01853,2025,contextual highlighting,1
 2512.01853,2025,multi-agent framework,1
-2512.01853,2025,sports video analysis,1
+2512.01853,2025,video analysis,1
 2512.02017,2025,visual sync,1
 2512.02017,2025,multi-camera synchronization,1
 2512.02017,2025,cross-view object motion,1
@@ -3148,13 +5812,12 @@ paper_id,year,keyword,count
 2512.17266,2025,capturing player impact,1
 2512.17266,2025,team action sequences,1
 2512.17266,2025,GPT-base framework,1
-2601.06053,2025,sports business administration,1
+2601.06053,2025,business administration,1
 2601.06053,2025,age technology,1
 2601.06053,2025,role,1
 2512.17446,2025,VAIR,1
 2512.17446,2025,visual analytics,1
 2512.17446,2025,injury risk exploration,1
-2512.17446,2025,sports,1
 2512.22186,2025,learning tennis strategy,1
 2512.22186,2025,curriculum-base dueling double deep q-networks,1
 2512.18320,2025,deterministic reconstruction,1
@@ -3190,7 +5853,7 @@ paper_id,year,keyword,count
 2601.00216,2026,evidence-base medicine,1
 2601.00216,2026,knowledge graph,1
 2601.00216,2026,retrieval-augmented generation,1
-2601.00216,2026,sports rehabilitation,1
+2601.00216,2026,rehabilitation,1
 2601.00216,2026,domain benchmark,1
 2601.00421,2026,semantic methods enhance team sports tactics,1
 2601.00421,2026,methodology,1
@@ -3210,7 +5873,7 @@ paper_id,year,keyword,count
 2601.04369,2026,generalization,1
 2601.04369,2026,political beliefs,1
 2601.04369,2026,fine-tuning,1
-2601.04369,2026,sports team preferences,1
+2601.04369,2026,team preferences,1
 2601.04948,2026,SKATER: synthesized kinematics,1
 2601.04948,2026,advanced traversing efficiency,1
 2601.04948,2026,humanoid robot,1
@@ -3226,7 +5889,7 @@ paper_id,year,keyword,count
 2601.08713,2026,real-time localization framework,1
 2601.08713,2026,autonomous basketball robots,1
 2601.09673,2026,probabilistic match classification model,1
-2601.09673,2026,low-score sport,1
+2601.09673,2026,low-score,1
 2601.09698,2026,COMPOSE,1
 2601.09698,2026,hypergraph cover optimization,1
 2601.09698,2026,multi-view 3d pose estimation,1
@@ -3335,7 +5998,7 @@ paper_id,year,keyword,count
 2602.08083,2026,tennis,1
 2602.08370,2026,human-like badminton skills,1
 2602.08370,2026,humanoid robots,1
-2602.08996,2026,sports feedback generation,1
+2602.08996,2026,feedback generation,1
 2602.08996,2026,watching competitions,1
 2602.08996,2026,reading book,1
 2602.10784,2026,unsupervised and supervised learning,1
@@ -3353,7 +6016,6 @@ paper_id,year,keyword,count
 2602.13656,2026,balance-challenging motion dataset,1
 2602.13656,2026,autonomous fall-resilient tracking,1
 2602.15181,2026,archival camera virtualization,1
-2602.15181,2026,sports,1
 2602.15181,2026,visual performances,1
 2602.18504,2026,computer vision framework,1
 2602.18504,2026,multi-class detection,1
@@ -3392,7 +6054,7 @@ paper_id,year,keyword,count
 2602.19513,2026,real-time win probability,1
 2602.19513,2026,latent player ability,1
 2602.19513,2026,STATS x,1
-2602.19513,2026,team sports,1
+2602.19513,2026,team,1
 2602.19582,2026,advantage-base temporal attack,1
 2602.19582,2026,reinforcement learning,1
 2602.20375,2026,reference,1
@@ -3463,7 +6125,6 @@ paper_id,year,keyword,count
 2603.09896,2026,step VLM,1
 2603.09896,2026,court,1
 2603.09896,2026,benchmarke spatial intelligence,1
-2603.09896,2026,sports,1
 2603.13397,2026,TennisExpert,1
 2603.13397,2026,expert-level analytical sports video understanding,1
 2603.10916,2026,NCAA bracket prediction,1
@@ -3487,7 +6148,7 @@ paper_id,year,keyword,count
 2603.14605,2026,CyboRacket,1
 2603.14605,2026,perception,1
 2603.14605,2026,action framework,1
-2603.14605,2026,humanoid racket sports,1
+2603.14605,2026,humanoid racket,1
 2603.15192,2026,formula 1 result,1
 2603.15192,2026,normal model,1
 2603.15212,2026,modeling matches,1
@@ -3513,7 +6174,7 @@ paper_id,year,keyword,count
 2603.18354,2026,stretchable wearable sensor,1
 2603.18453,2026,consistent temporal grounding,1
 2603.18453,2026,related tasks,1
-2603.18453,2026,sports coaching,1
+2603.18453,2026,coaching,1
 2603.19199,2026,FASTER,1
 2603.19199,2026,real-time flow VLA,1
 2603.19770,2026,FlashCap,1
@@ -3546,7 +6207,7 @@ paper_id,year,keyword,count
 2603.25135,2026,extreme conditions,1
 2603.25163,2026,SportSkills,1
 2603.25163,2026,physical skill learning,1
-2603.25163,2026,sports instructional videos,1
+2603.25163,2026,instructional videos,1
 2603.25199,2026,football tactical style,1
 2603.25199,2026,imitation,1
 2603.25533,2026,BFMD,1
@@ -3652,7 +6313,6 @@ paper_id,year,keyword,count
 2604.08882,2026,reinforcement learning,1
 2604.08882,2026,hybrid-link system,1
 2604.09143,2026,score-driven rating system,1
-2604.09143,2026,sport,1
 2604.09487,2026,sim-to-real transfer,1
 2604.09487,2026,muscle-actuated robots,1
 2604.09487,2026,generalized actuator networks,1
@@ -3687,7 +6347,7 @@ paper_id,year,keyword,count
 2604.13581,2026,monocular videos,1
 2604.13581,2026,semantic and geometric guidance,1
 2604.13796,2026,engagement,1
-2604.13796,2026,daily fantasy sports,1
+2604.13796,2026,daily fantasy,1
 2604.13796,2026,scalable and urgency-aware ranking engine,1
 2604.13861,2026,simulation-base optimisation,1
 2604.13861,2026,batting order,1
@@ -3712,7 +6372,6 @@ paper_id,year,keyword,count
 2604.17065,2026,BasketHAR,1
 2604.17065,2026,multimodal dataset,1
 2604.17065,2026,human activity recognition,1
-2604.17065,2026,sport analysis,1
 2604.17065,2026,basketball training scenarios,1
 2604.17194,2026,forecast sports outcomes,1
 2604.17194,2026,efficient market hypothesis,1
@@ -3720,7 +6379,7 @@ paper_id,year,keyword,count
 2604.17194,2026,odds,1
 2604.17194,2026,generalised linear models,1
 2604.17567,2026,multi-camera self-calibration,1
-2604.17567,2026,sports motion capture,1
+2604.17567,2026,motion capture,1
 2604.17567,2026,human and stick pose,1
 2604.18210,2026,TacticGen,1
 2604.18210,2026,scalable generation,1
@@ -3737,7 +6396,7 @@ paper_id,year,keyword,count
 2604.22839,2026,pixels,1
 2604.22839,2026,representation and prediction distillation,1
 2604.20071,2026,immersion,1
-2604.20071,2026,virtual reality sport,1
+2604.20071,2026,virtual reality,1
 2604.20071,2026,physical interaction,1
 2604.20285,2026,dependent structural equation modeling,1
 2604.20285,2026,fan' football fever,1
@@ -3786,7 +6445,7 @@ paper_id,year,keyword,count
 2604.26501,2026,text,2
 2604.26501,2026,tree,1
 2604.26501,2026,tree-base prompting framework,1
-2604.26501,2026,sport domain,1
+2604.26501,2026,domain,1
 2604.27865,2026,KellyBench,1
 2604.27865,2026,long-horizon sequential decision,1
 2605.01234,2026,TT4D,1
@@ -4170,11 +6829,11 @@ paper_id,year,keyword,count
 2607.10990,2026,soccer video understanding,1
 2607.10998,2026,temporal feature distillation,1
 2607.10998,2026,label-efficient precise event,1
-2607.10998,2026,sports video,1
+2607.10998,2026,video,1
 2607.11548,2026,screen player,1
 2607.11548,2026,broadcast-base spatial football analytics,1
 2607.11844,2026,single camera,1
-2607.11844,2026,sports video understanding,1
+2607.11844,2026,video understanding,1
 2607.12362,2026,implicit 4d gaussian splatting,1
 2607.12362,2026,fast motion,1
 2607.12362,2026,large inter-frame displacement,1
@@ -4220,7 +6879,6 @@ paper_id,year,keyword,count
 2607.24573,2026,SoccerArena,1
 2607.24573,2026,benchmarke LLM,1
 2607.24573,2026,real-world predictions,1
-2607.24573,2026,sport,1
 2607.24611,2026,test-time adaptation,1
 2607.24611,2026,dual distillation,1
 2607.24611,2026,videos,1
@@ -4277,7 +6935,6 @@ paper_id,year,keyword,count
 2608.05030,2026,score matrices,1
 2608.05030,2026,football-aware match-state simulation,1
 2608.05030,2026,exact-score reranking,1
-2608.05560,2026,sports,1
 2608.05560,2026,safety,1
 2608.05560,2026,MLLM,1
 2608.05971,2026,PoseForge,1
@@ -4348,12 +7005,11 @@ paper_id,year,keyword,count
 2608.12926,2026,estimating probabilities,1
 2608.14377,2026,survey,1
 2608.14377,2026,large models,1
-2608.14377,2026,sport,1
 2608.14776,2026,NRCD: an open database,1
 2608.14776,2026,collegiate,1
 2608.14776,2026,unified performance standardization,1
 2608.15688,2026,training-free long-term multi-object tracking,1
-2608.15688,2026,sports video analytics,1
+2608.15688,2026,video analytics,1
 2608.16642,2026,tight spiral american football,1
 2608.16642,2026,humanoid robot,1
 2608.17060,2026,CAS-FD: contact-aware temporal sampling,1
@@ -4441,7 +7097,7 @@ paper_id,year,keyword,count
 2609.04803,2026,hierarchical possession-aware graph pointer network,1
 2609.04803,2026,pass receiver selection,1
 2609.05584,2026,equation,1
-2609.05584,2026,competitive team sport,1
+2609.05584,2026,competitive team,1
 2609.05584,2026,rulebook,1
 2609.05584,2026,league,1
 2609.05584,2026,habit,1
@@ -4451,7 +7107,7 @@ paper_id,year,keyword,count
 2609.06718,2026,unified multi-skill policy learning,1
 2609.06718,2026,humanoid soccer,1
 2609.06739,2026,profit-bias identity,1
-2609.06739,2026,sport betting,1
+2609.06739,2026,betting,1
 2609.06739,2026,bookmaker profit,1
 2609.06739,2026,public's prediction error,1
 2609.07617,2026,winner,1
@@ -4487,7 +7143,7 @@ paper_id,year,keyword,count
 2609.19194,2026,low-inertia,1
 2609.19194,2026,bimanual robot,1
 2609.19194,2026,dynamic manipulation,1
-2609.17923,2026,sports highlight detection,1
+2609.17923,2026,highlight detection,1
 2609.18207,2026,reinforcement learning,1
 2609.18207,2026,real-time vision-language-action policies,1
 2609.18260,2026,MS-RFD,1
@@ -4510,7 +7166,7 @@ paper_id,year,keyword,count
 2609.20768,2026,shared representation,1
 2609.20768,2026,agent grounding,1
 2609.20768,2026,human interpretation,1
-2609.20768,2026,sports highlights,1
+2609.20768,2026,highlights,1
 2609.21100,2026,dynamics-induced commitment,1
 2609.21100,2026,learning-base robotic penalty kicks,1
 2609.21674,2026,match forecast,1
@@ -4563,7 +7219,7 @@ paper_id,year,keyword,count
 2609.31765,2026,hierarchical graph-pooling transolver,1
 2609.31765,2026,automotive aerodynamic drag coefficient prediction,1
 2609.30026,2026,training-free hold-usage detection,1
-2609.30026,2026,sport climbing,1
+2609.30026,2026,climbing,1
 2609.30026,2026,foundation pose model,1
 2609.30753,2026,skill profiling,1
 2609.30753,2026,attributable reasoning,1
@@ -4620,39 +7276,3 @@ paper_id,year,keyword,count
 2609.39300,2026,BMASH,1
 2610.01997,2026,efficacy-competitiveness frontier,1
 2610.01997,2026,swiss system,1
-2610.03058,2026,unsupervised instantaneous phase and frequency tracking,1
-2610.03058,2026,inverse voice synthesis,1
-2610.03388,2026,high-dynamic humanoid motion,1
-2610.03388,2026,video,1
-2610.03388,2026,unified robust recovery,1
-2610.04220,2026,bi-manual stabilization,1
-2610.04220,2026,cervical spine,1
-2610.04220,2026,safe physical human-robot interaction,1
-2610.04220,2026,rolling maneuvers,1
-2610.06967,2026,economic resource,1
-2610.06967,2026,sporting efficiency,1
-2610.06967,2026,uncertainty,1
-2610.06967,2026,stochastic optimization model,1
-2610.06967,2026,football performance,1
-2610.06967,2026,africa,1
-2610.05961,2026,strategic multi-agent learning,1
-2610.05961,2026,interpretable action valuation,1
-2610.05961,2026,players,1
-2610.05961,2026,football,1
-2610.07130,2026,machine playing,1
-2610.07416,2026,knit-structure effects,1
-2610.07416,2026,electromechanical metrics,1
-2610.07416,2026,correlation,1
-2610.07416,2026,joint-angle estimation error,1
-2610.07416,2026,knitted strain sensor,1
-2610.07823,2026,TTNet,1
-2610.07823,2026,multi-task deep learning,1
-2610.07823,2026,table tennis player analysis,1
-2610.07823,2026,smart racket,1
-2610.08286,2026,event detection,1
-2610.08286,2026,table tennis videos,1
-2610.08286,2026,2d keypoint,1
-2610.08663,2026,prior,1
-2610.08663,2026,video gaze prediction,1
-2610.09742,2026,SoccerNet-FoulRet,1
-2610.09742,2026,semantically similar soccer foul videos,1

@@ -25,7 +25,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: "3.12.10"
           cache: pip
 
       - name: Install dependencies
@@ -33,20 +33,17 @@ jobs:
           pip install -r requirements.txt
           python -m spacy download en_core_web_sm
 
-      - name: Fetch papers and extract keywords
-        run: python arxiv_api_title.py
-
-      - name: Upload CSV to Google Sheets
+      - name: Update sheet and CSV
         env:
           GCP_SA_KEY: ${{ secrets.GCP_SA_KEY }}
           SPREADSHEET_ID: ${{ secrets.SPREADSHEET_ID }}
-        run: python upload_to_sheets.py
+        run: python update_daily.py
 
       - name: Commit updated CSV
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add papers.csv keywords.csv paper_categories.csv done_months.txt
+          git add papers.csv keywords.csv paper_categories.csv
           if git diff --cached --quiet; then
             echo "変更なし"
           else
