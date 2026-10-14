@@ -23,21 +23,20 @@ import requests
 import spacy
 
 # ===== 設定 =====
-CATEGORIES = [                    # 取得する分野（OR条件）
-    "cs.CV", "eess.IV", "cs.GR", "cs.CL", "cs.IR", "cs.LG", "cs.AI",
-    "stat.ML", "cs.MM", "cs.SD", "eess.AS", "cs.RO", "cs.HC", "stat.AP",
-]
+CATEGORIES = ["cs.*", "eess.*", "stat.*"] # computer science, statistics, electorical engineering and system science全般
 KEYWORDS = [                      # 検索語（OR条件）。None にすると分野全体
-    "sports", "sport", "soccer", "football", "basketball", "volleyball",
-    "tennis", "badminton", "baseball", "golf", "athlete",
+    "sports", "sport", "athlete", "athletes", "athletic",
 ]
-START_DATE = "2021-03-01"         # 取得期間の開始日（UTC, "YYYY-MM-DD"）
-END_DATE = "2026-10-01"                  # 取得期間の終了日。None なら実行時点まで
+# , "soccer", "football", "basketball", "volleyball", "tennis", "badminton", "baseball", "golf", 
+START_DATE = "2025-03-01"         # 取得期間の開始日（UTC, "YYYY-MM-DD"）
+END_DATE = "2026-02-28"                  # 取得期間の終了日。None なら実行時点まで
 MAX_RESULTS_PER_MONTH = None      # 1か月あたりの上限。None なら全件（テスト時は 5 など）
 
 PAGE_SIZE = 200                   # 1リクエストあたりの件数
-WAIT_SEC = 3                      # リクエスト間の待ち時間（arXivの利用ルール）
+WAIT_SEC = 5                      # リクエスト間の待ち時間（arXivの利用ルール）
 RETRY = 3                         # 結果が空だったときの再試行回数
+
+# HEADERS = {"User-Agent": "tableau-arxiv-dashboard/1.0 (https://github.com/hats0902/tableau_arxiv)"}
 
 PAPERS_CSV = "papers.csv"
 KEYWORDS_CSV = "keywords.csv"
@@ -57,9 +56,10 @@ EDGE_POS = {"DET", "PRON", "NUM", "ADP", "CCONJ", "PUNCT", "PART", "SYM"}
 
 # 名詞句の先頭・末尾に付きがちな、意味の薄い語
 STOP_TOKENS = {
-    "novel", "new", "proposed", "various", "different", "existing", "recent",
-    "several", "many", "such", "other", "same", "previous", "current", "key",
-    "purpose", "idea", "time", "activity", "rule", "subject", "sports", "sport"
+    # "novel", "new", "proposed", "various", "different", "existing", "recent",
+    # "several", "many", "such", "other", "same", "previous", "current", "key",
+    # "purpose", "idea", "time", "activity", "rule", "subject", "sports", "sport",
+    # "effect", "study"
 }
 
 # 論文特有の汎用語（句全体がこれなら捨てる）
@@ -70,9 +70,12 @@ STOP_PHRASES = {
     "technique", "system", "way", "challenge", "application", "information",
 }
 
+KEEP_POS = {"NOUN", "PROPN"}
+
 # 表記ゆれの統合辞書（左を右にまとめる。長い表現から順に置換される）
 SYNONYMS = {
     "large language model": "LLM",
+    # "large language models": "LLM",
     "vision-language model": "VLM",
     "vision language model": "VLM",
     "human pose estimation": "pose estimation",
@@ -94,8 +97,8 @@ def resolve_period(start_date, end_date):
     if start > end:
         raise ValueError("START_DATE が END_DATE より後になっています")
     return start, end
-
-
+ 
+ 
 def month_windows(start, end):
     """期間を1か月ごとに区切る"""
     cur = start
@@ -106,8 +109,8 @@ def month_windows(start, end):
             nxt = cur.replace(month=cur.month + 1, day=1, hour=0, minute=0)
         yield cur, min(nxt - timedelta(minutes=1), end)
         cur = nxt
-
-
+ 
+ 
 def build_query(categories, keywords, start, end):
     """分野・検索語・投稿日の範囲を組み合わせた検索クエリを作る"""
     cat_query = " OR ".join(f"cat:{c}" for c in categories)
@@ -116,18 +119,20 @@ def build_query(categories, keywords, start, end):
         f"submittedDate:[{start:%Y%m%d%H%M} TO {end:%Y%m%d%H%M}]",
     ]
     if keywords:
-        kw_query = " OR ".join(f"all:{k}" for k in keywords)
+        # ti: 題名 / abs: 要旨。複数語の検索語は引用符で囲んで語句として検索する
+        terms = [f'"{k}"' if " " in k else k for k in keywords]
+        kw_query = " OR ".join(f"ti:{t} OR abs:{t}" for t in terms)
         parts.insert(0, f"({kw_query})")
     return " AND ".join(parts)
-
-
+ 
+ 
 # ===== 取得 =====
 def clean_text(text):
     """改行・連続空白をまとめ、LaTeXの数式($...$)を除去する"""
     text = re.sub(r"\$[^$]*\$", " ", text or "")
     return re.sub(r"\s+", " ", text).strip()
-
-
+ 
+ 
 def parse_entry(entry):
     url = entry.findtext("atom:id", namespaces=NS)
     primary = entry.find("arxiv:primary_category", NS)
@@ -140,8 +145,8 @@ def parse_entry(entry):
         "categories": ";".join(c.get("term") for c in entry.findall("atom:category", NS)),
         "url": url,
     }
-
-
+ 
+ 
 def request_page(query, start):
     """1ページ分を取得する。結果が空なら時間をおいて再試行する"""
     params = {
@@ -151,8 +156,25 @@ def request_page(query, start):
         "sortBy": "submittedDate",
         "sortOrder": "ascending",
     }
+    total = 0
     for attempt in range(RETRY + 1):
-        res = requests.get(ARXIV_API, params=params, timeout=60)
+        try:
+            res = requests.get(ARXIV_API, params=params, headers=HEADERS, timeout=120)
+        except (requests.exceptions.Timeout, requests.exceptions.ConnectionError) as e:
+            # arXivの応答が遅い・接続が切れた場合も、待ってから再試行する
+            if attempt >= RETRY:
+                raise
+            wait = 30 * (2 ** attempt)
+            print(f"    {type(e).__name__}。{wait}秒後に再試行します（{attempt + 1}/{RETRY}）")
+            time.sleep(wait)
+            continue
+        if res.status_code in (429, 500, 502, 503, 504) and attempt < RETRY:
+            # 429: アクセスが多すぎる / 5xx: arXiv側の一時的な不調。待ってから再試行する
+            retry_after = res.headers.get("Retry-After", "")
+            wait = int(retry_after) if retry_after.isdigit() else 30 * (2 ** attempt)
+            print(f"    HTTP {res.status_code}。{wait}秒後に再試行します（{attempt + 1}/{RETRY}）")
+            time.sleep(wait)
+            continue
         res.raise_for_status()
         root = ET.fromstring(res.text)
         total = int(root.findtext(f"{OPENSEARCH}totalResults") or 0)
@@ -162,8 +184,8 @@ def request_page(query, start):
         print(f"    結果が空でした（start={start}）。{10 * (attempt + 1)}秒後に再試行します")
         time.sleep(10 * (attempt + 1))
     return total, []
-
-
+ 
+ 
 def fetch_month(query, max_results):
     """1か月分を全件取得する。戻り値は (論文リスト, 取得予定件数)"""
     papers, start, limit = [], 0, None
@@ -180,35 +202,32 @@ def fetch_month(query, max_results):
             break
         time.sleep(WAIT_SEC)
     return papers[:limit], limit
-
-
+ 
+ 
 # ===== キーワード抽出 =====
 # 固有表現抽出(NER)は使わないので無効にして高速化
-nlp = spacy.load("en_core_web_sm", disable=["ner"])
-
-
+nlp = spacy.load("en_core_web_lg", disable=["ner"])
+ 
+ 
 def normalize_token(tok):
-    """
-    略語(LLM, ViTなど)は大文字を保持、それ以外はレンマを小文字化
-    大文字が2つ以上あれば略語と判断している
-    """
+    """略語(LLM, ViTなど)は大文字を保持、それ以外はレンマを小文字化"""
     if sum(c.isupper() for c in tok.text) >= 2:
         return re.sub(r"^([A-Z][A-Za-z]*[A-Z])s$", r"\1", tok.text)  # LLMs -> LLM
     return tok.lemma_.lower()
-
-
+ 
+ 
 def is_edge_noise(tok):
     return (tok.pos_ in EDGE_POS or tok.is_stop
             or normalize_token(tok) in STOP_TOKENS)
-
-
+ 
+ 
 def apply_synonyms(phrase):
     for src in sorted(SYNONYMS, key=len, reverse=True):
         phrase = re.sub(rf"\b{re.escape(src)}\b", SYNONYMS[src], phrase,
                         flags=re.IGNORECASE)
     return phrase
-
-
+ 
+ 
 def chunk_to_keyword(chunk):
     """名詞句1つを正規化されたキーワードに変換する。不要ならNoneを返す"""
     toks = list(chunk)
@@ -218,35 +237,43 @@ def chunk_to_keyword(chunk):
         toks.pop()
     if not toks:
         return None
-
+ 
     # トークンごとに正規化し、元の空白（ハイフンなど）を保ったまま連結
     phrase = "".join(normalize_token(t) + t.whitespace_ for t in toks).strip()
     phrase = apply_synonyms(phrase)
-
+ 
     if phrase.lower() in STOP_PHRASES:
         return None
     if len(phrase) < 3 or not re.search(r"[A-Za-z]", phrase):
         return None
     return phrase
-
-
+ 
+ 
+def lower_title_case(text):
+    """頭文字だけが大文字の単語（Robots, Language など）を小文字にする。
+    題名の大文字表記のせいで固有名詞と判定され、レンマ化（複数形→単数形）されないのを防ぐ。
+    LLM, ViT, ResNet のように大文字が2文字以上ある略語はそのまま残す"""
+    return re.sub(r"\b[A-Z][a-z]+\b", lambda m: m.group(0).lower(), text)
+ 
+ 
 def extract_keyword_rows(papers):
     """複数の論文をまとめて処理し、keywords.csv用の行を返す"""
-    texts = (p["title"] for p in papers)  # 題名のみから抽出（要旨はpapers.csvに保存だけする）
+    # 題名のみから抽出（要旨はpapers.csvに保存だけする）
+    texts = (lower_title_case(p["title"]) for p in papers)
     rows = []
     for p, doc in zip(papers, nlp.pipe(texts, batch_size=50)):  # まとめて処理して高速化
         counts = Counter()
-        # print(f'doc: {doc}')
-        for chunk in doc.noun_chunks: # 名詞だけ取り出す
+        for chunk in doc.noun_chunks: # "3D human pose estimation"などできるだけ単語のつながりを意識
+            print(f'chunk: {chunk}')
             kw = chunk_to_keyword(chunk)
             if kw:
                 counts[kw] += 1
         year = int(p["published"][:4])  # 投稿日(初版)の年
         rows.extend({"paper_id": p["paper_id"], "year": year, "keyword": kw, "count": c}
-            for kw, c in counts.most_common())
+                    for kw, c in counts.most_common())
     return rows
-
-
+ 
+ 
 # ===== カテゴリ（Tableau用の縦持ちデータ） =====
 def category_rows(papers):
     """1論文に付いた全カテゴリ（arXivのオリジナル）を1行ずつに展開する
@@ -262,16 +289,16 @@ def category_rows(papers):
                 "is_primary": cat == p["category"],
             })
     return rows
-
-
+ 
+ 
 # ===== 保存・再開用の記録 =====
 def load_existing_ids(path):
     if not os.path.exists(path):
         return set()
     with open(path, newline="", encoding="utf-8") as f:
         return {row["paper_id"] for row in csv.DictReader(f)}
-
-
+ 
+ 
 def append_rows(path, rows, fieldnames):
     is_new = not os.path.exists(path)
     with open(path, "a", newline="", encoding="utf-8") as f:
@@ -279,39 +306,40 @@ def append_rows(path, rows, fieldnames):
         if is_new:
             writer.writeheader()
         writer.writerows(rows)
-
-
+ 
+ 
 def load_done_months():
     if not os.path.exists(DONE_FILE):
         return set()
     with open(DONE_FILE, encoding="utf-8") as f:
         return {line.strip() for line in f if line.strip()}
-
-
+ 
+ 
 def mark_done(month_key):
     with open(DONE_FILE, "a", encoding="utf-8") as f:
         f.write(month_key + "\n")
-
-
+ 
+ 
 # ===== 実行 =====
 def main():
     start, end = resolve_period(START_DATE, END_DATE)
     print(f"取得期間: {start:%Y-%m-%d} 〜 {end:%Y-%m-%d} (UTC)\n")
-
+ 
     existing = load_existing_ids(PAPERS_CSV)
     done = load_done_months()
     now = datetime.now(timezone.utc)
-
+ 
     for w_start, w_end in month_windows(start, end):
         month_key = f"{w_start:%Y-%m}"
         if month_key in done:
             print(f"[{month_key}] 取得済みのためスキップ")
             continue
-
+ 
         print(f"[{month_key}] {w_start:%Y-%m-%d} 〜 {w_end:%Y-%m-%d}")
         query = build_query(CATEGORIES, KEYWORDS, w_start, w_end)
+        # APIで1ヶ月ずつ情報を取得
         papers, limit = fetch_month(query, MAX_RESULTS_PER_MONTH)
-
+ 
         new_papers = [p for p in papers if p["paper_id"] not in existing]
         if new_papers:
             append_rows(PAPERS_CSV, new_papers, PAPER_FIELDS)
@@ -319,7 +347,7 @@ def main():
             append_rows(CATEGORIES_CSV, category_rows(new_papers), CATEGORY_FIELDS)
             existing.update(p["paper_id"] for p in new_papers)
         print(f"  取得 {len(papers)}件 / 新規保存 {len(new_papers)}件")
-
+ 
         # 予定件数をすべて取れていて、かつ月が終わっている場合だけ「完了」と記録する
         # （進行中の月は、次回の定期実行で取り直して新しい論文を追加する）
         month_finished = w_end < now - timedelta(days=1)
@@ -327,11 +355,29 @@ def main():
             mark_done(month_key)
         elif len(papers) < limit:
             print(f"  {limit - len(papers)}件取りこぼしました。再実行すると取り直します")
-
+ 
         time.sleep(WAIT_SEC)
-
+ 
     print("\n完了しました")
 
 
 if __name__ == "__main__":
-    main()
+    # main()
+    papers = [
+        {'title': 'AthletePose3D: A Benchmark Dataset for 3D Human Pose Estimation and Kinematic Validation in Athletic Movements', 'published': "00000000"},
+        # {'title': "Reinforcement Learning for Robust Athletic Intelligence: Lessons from the 2nd 'AI Olympics with RealAIGym' Competition", 'published': "00000000"}
+    ]
+    extract_keyword_rows(papers)
+    
+    ####################
+    # # ストップワードリストを確認するために実行したコマンド
+    # import spacy
+
+    # nlp = spacy.load("en_core_web_sm")
+
+    # # ストップワードをアルファベット順に並べて保存
+    # stop_words = sorted(nlp.Defaults.stop_words)
+
+    # with open("stop_words.txt", "w", encoding="utf-8") as f:
+    #     f.write("\n".join(stop_words))
+    ####################

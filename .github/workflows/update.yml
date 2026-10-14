@@ -1,52 +1,64 @@
 name: Update arXiv keywords
-
+ 
 on:
   schedule:
-    - cron: "0 0 * * *"   # 毎日 0:00 UTC（日本時間 9:00）に実行 # 毎週金曜日0時"0 0 * * 5"
-  workflow_dispatch:       # GitHubの画面から手動でも実行できるようにする
-
+    - cron: "17 15 * * *"   # 毎週木曜 15:17 UTC（日本時間 金曜 0:17）。毎時0分は混雑するのでずらしている
+  workflow_dispatch:         # GitHubの画面から手動でも実行できるようにする
+ 
 permissions:
-  contents: write          # 更新したCSVをリポジトリにコミットするため
-
+  contents: write            # 更新したCSVなどをリポジトリにコミットするため
+ 
 concurrency:
-  group: update-arxiv      # 前回の実行が終わっていなければ、次の実行を待たせる
+  group: update-arxiv        # 前回の実行が終わっていなければ、次の実行を待たせる
   cancel-in-progress: false
-
+ 
 jobs:
   update:
     name: Fetch papers and update sheet
     runs-on: ubuntu-latest
-    timeout-minutes: 60
-
+    timeout-minutes: 90      # 1回目の実行 + 失敗時の20分待ち + 2回目の実行が収まる長さ
+ 
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
-
+ 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.12.10"
+          python-version: "3.11"
           cache: pip
-
+ 
       - name: Install dependencies
         run: |
           pip install -r requirements.txt
           python -m spacy download en_core_web_sm
-
-      - name: Update sheet and CSV
+ 
+      - name: Update sheet and CSV (retry once after 20 minutes on failure)
         env:
           GCP_SA_KEY: ${{ secrets.GCP_SA_KEY }}
           SPREADSHEET_ID: ${{ secrets.SPREADSHEET_ID }}
-        run: python update_daily.py
-
-      - name: Commit updated CSV
+        run: |
+          for attempt in 1 2; do
+            if python update_daily.py; then
+              exit 0
+            fi
+            if [ "$attempt" -lt 2 ]; then
+              echo "失敗しました。20分後に再実行します"
+              sleep 1200
+            fi
+          done
+          echo "再実行も失敗しました"
+          exit 1
+ 
+      - name: Commit updated files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add papers.csv keywords.csv paper_categories.csv
+          git add papers.csv keywords.csv paper_categories.csv wiki_terms.txt
           if git diff --cached --quiet; then
             echo "変更なし"
           else
             git commit -m "Update arXiv data ($(date -u +%Y-%m-%d))"
             git push
           fi
+ 
