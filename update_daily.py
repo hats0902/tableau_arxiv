@@ -10,7 +10,7 @@ from arxiv_api_title_withwiki import (
 )
 from upload_to_sheets import get_client, get_or_create_worksheet, CHUNK_ROWS
  
-DAYS_BACK = 3  # 直近何日分を取得するか（週1回の実行に対して2週間分。1回失敗しても取りこぼさない）
+DAYS_BACK = 14  # 直近何日分を取得するか（週1回の実行に対して2週間分。1回失敗しても取りこぼさない）
  
 # シート名 → (CSVファイル, 列の並び)
 SHEETS = {

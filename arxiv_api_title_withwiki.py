@@ -138,7 +138,7 @@ def build_query(categories, keywords, start, end):
     if keywords:
         # ti: 題名 / abs: 要旨。複数語の検索語は引用符で囲んで語句として検索する
         terms = [f'"{k}"' if " " in k else k for k in keywords]
-        kw_query = " OR ".join(f"ti:{t} OR abs:{t}" for t in terms)
+        kw_query = " OR ".join(f"ti:{t} OR abs:{t}" for t in terms) # absはcsvに念の為保存している
         parts.insert(0, f"({kw_query})")
     return " AND ".join(parts)
  
@@ -157,7 +157,7 @@ def parse_entry(entry):
         "paper_id": re.sub(r"v\d+$", "", url.rsplit("/abs/", 1)[-1]),  # v1, v2... を外す
         "title": clean_text(entry.findtext("atom:title", namespaces=NS)),
         "abstract": clean_text(entry.findtext("atom:summary", namespaces=NS)),
-        "published": entry.findtext("atom:published", namespaces=NS)[:10],
+        "published": entry.findtext("atom:published", namespaces=NS)[:10], # xmlから取得
         "category": primary.get("term") if primary is not None else "",
         "categories": ";".join(c.get("term") for c in entry.findall("atom:category", NS)),
         "url": url,
@@ -213,7 +213,7 @@ def fetch_month(query, max_results):
             print(f"  条件に合う件数: {total} / 取得予定: {limit}")
         if not entries or limit == 0:
             break
-        papers.extend(parse_entry(e) for e in entries)
+        papers.extend(parse_entry(e) for e in entries) # entriesにabstやtitleなどが辞書型で入っている
         start += len(entries)
         if start >= limit:
             break
@@ -408,7 +408,7 @@ def extract_keyword_rows(papers):
     題名の名詞句の中で、Wikipediaに記事がある部分（最も長いもの）は1語のキーワードとして残し、
     それ以外の語は単語に分けて（名詞・固有名詞のみ）キーワードにする"""
     # 題名のみから抽出（要旨はpapers.csvに保存だけする）
-    texts = [lower_title_case(p["title"]) for p in papers]
+    texts = [lower_title_case(p["title"]) for p in papers] # タイトルだけ取得
     docs = list(nlp.pipe(texts, batch_size=50))  # まとめて処理して高速化
  
     # 1. 名詞句を取り出す

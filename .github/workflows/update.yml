@@ -2,7 +2,7 @@ name: Update arXiv keywords
  
 on:
   schedule:
-    - cron: "17 15 * * *"   # 毎週木曜 15:17 UTC（日本時間 金曜 0:17）。毎時0分は混雑するのでずらしている
+    - cron: "17 15 * * 4"   # 毎週木曜 15:17 UTC（日本時間 金曜 0:17）。毎時0分は混雑するのでずらしている
   workflow_dispatch:         # GitHubの画面から手動でも実行できるようにする
  
 permissions:
