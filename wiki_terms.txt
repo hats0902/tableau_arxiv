@@ -221,6 +221,7 @@ ensemble learning
 entity resolution
 environmental factor
 equal treatment
+european football
 event boundary
 event camera
 event detection
@@ -702,6 +703,8 @@ sign language
 similarity detection
 simple graph
 single camera
+single round-robin
+single round-robin tournament
 single-camera
 single-subject
 situational awareness
