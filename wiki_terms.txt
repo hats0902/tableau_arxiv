@@ -357,6 +357,7 @@ human performance
 human pose estimation
 human posture
 human spine
+human sport
 human torso
 human-computer interaction
 human-robot interaction
@@ -640,6 +641,7 @@ public transit
 qualitative analysis
 quality assessment
 quality assurance
+quantile regression
 quantitative analysis
 quick response
 quiet eye
