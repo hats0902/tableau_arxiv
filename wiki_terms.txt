@@ -72,6 +72,7 @@ basketball court
 basketball team
 basketball tournament
 bayesian analysis
+bayesian experimental design
 bayesian inference
 bayesian model
 bayesian network
@@ -227,6 +228,7 @@ event camera
 event detection
 event recognition
 executable code
+experimental design
 experimental study
 explainable AI
 explainable artificial intelligence
