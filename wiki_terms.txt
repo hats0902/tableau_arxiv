@@ -747,6 +747,7 @@ sport club
 sport equipment
 sport game
 sport injury
+sport league
 sport news
 sport team
 sprint classification
