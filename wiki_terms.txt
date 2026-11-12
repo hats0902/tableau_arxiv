@@ -95,6 +95,7 @@ body part
 body posture
 body surface
 bot account
+box score
 brain injury
 broadcast news
 broadcast video
@@ -409,6 +410,7 @@ japanese football
 japanese football club
 jersey number
 job performance
+joint distribution
 jump height
 kalman filter
 kayak racing
@@ -569,6 +571,7 @@ olympic medal table
 olympic medalist
 olympic sport
 olympic sport climbing
+olympic weightlifting
 online chess
 online harassment
 open-access
@@ -727,6 +730,7 @@ soccer team
 social collaboration
 social event
 social hierarchy
+social interaction
 social network
 social robot
 software agent
@@ -734,6 +738,7 @@ software patch
 space exploration
 space-time
 sparse autoencoder
+spatial reasoning
 spatio-temporal reasoning
 spectral density
 spectral method
