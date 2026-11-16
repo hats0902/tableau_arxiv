@@ -285,6 +285,7 @@ game community
 game design
 game testing
 game theory
+gaussian mixture model
 gaussian process
 gaussian process regression
 gender bias
@@ -541,6 +542,7 @@ musculoskeletal system
 myerson value
 nash equilibrium
 national basketball association
+national team
 natural language
 natural language generation
 natural-language
@@ -636,6 +638,7 @@ probability estimation
 process model
 professional baseball
 professional basketball
+professional football
 professional soccer
 professional sport
 prompt engineering
@@ -724,6 +727,7 @@ smart sensor
 smartphone camera
 smooth pursuit
 soccer ball
+soccer club
 soccer coach
 soccer player
 soccer team
