@@ -43,6 +43,7 @@ anterior cruciate
 anterior cruciate ligament
 anterior cruciate ligament injury
 arabic text
+archetypal analysis
 artificial general intelligence
 artificial intelligence
 asia cup
@@ -505,6 +506,7 @@ motion control
 motion estimation
 motion field
 motion planning
+motion tracker
 motion tracking
 motion video
 motor behavior
